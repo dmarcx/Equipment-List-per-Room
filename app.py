@@ -2,6 +2,29 @@ import streamlit as st
 import pandas as pd
 import os
 
+# הגדרת סיסמה
+PASSWORD = "1234"
+
+def check_password():
+    if "password_correct" not in st.session_state:
+        st.session_state.password_correct = False
+
+    if not st.session_state.password_correct:
+        with st.form("Password Form"):
+            password = st.text_input("הזן סיסמה לגישה", type="password")
+            submitted = st.form_submit_button("אשר")
+            if submitted:
+                if password == PASSWORD:
+                    st.session_state.password_correct = True
+                else:
+                    st.error("סיסמה שגויה")
+        return False
+    else:
+        return True
+
+if not check_password():
+    st.stop()
+
 # הגדרת נתיב לתיקיית הקבצים
 DATA_FOLDER = "."
 
