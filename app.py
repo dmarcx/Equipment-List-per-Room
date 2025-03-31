@@ -3,7 +3,7 @@ import pandas as pd
 import os
 
 # הגדרת נתיב לתיקיית הקבצים
-DATA_FOLDER = "floor_csv_files"
+DATA_FOLDER = "."
 
 st.set_page_config(page_title="שליפת ציוד לפי חדר", layout="wide")
 
