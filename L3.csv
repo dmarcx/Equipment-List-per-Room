@@ -1,0 +1,830 @@
+מס' חדר,ID,קטגוריה,סוג,משפחה,קומה
+L3002,1613858,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3002,1613860,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3002,1613862,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3002,1625505,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,L3
+L3002,1752740,Electrical Fixtures,Normal x1,Frame_Socket,L3
+L3002,1752743,Electrical Fixtures,Normal x1,Frame_Socket,L3
+L3002,3952805,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3002,3952907,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3002,3956270,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3002,3956352,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3002,3997832,Electrical Fixtures,1 AC,Frame_Socket,L3
+L3002,3997835,Electrical Fixtures,1 AC,Frame_Socket,L3
+L3002,11106025,Mechanical Equipment,AWSQ 1000,AWSQ 1000(right),L3
+L3002,11106033,Mechanical Equipment,AWSQ 1500,AWSQ 1500(right),L3
+L3003,1613866,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3003,1613867,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3003,1752518,Electrical Fixtures,Normal x1 WP,Frame_Socket,L3
+L3003,3881270,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3003,3881412,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3003,3881494,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3004,1752558,Electrical Fixtures,Normal x2,Frame_Socket,L3
+L3006,1613816,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3006,1613817,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3006,11106016,Mechanical Equipment,AW 800,AW 800(right),L3
+L3008,1613821,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3008,1613824,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3008,1714278,Electrical Equipment,100mmx46mm,M_Circuit Breaker Switchboard,L3
+L3008,1714279,Electrical Equipment,100mmx46mm,M_Circuit Breaker Switchboard,L3
+L3008,1716803,Electrical Fixtures,GEN CEE_1x16A_1Ph,Socket_Cee_R19,L3
+L3008,1716805,Electrical Fixtures,UPS CEE_1x16A_1Ph,Socket_Cee_R19,L3
+L3008,1716807,Electrical Fixtures,GEN CEE_1x16A_1Ph,Socket_Cee_R19,L3
+L3008,1716808,Electrical Fixtures,UPS CEE_1x16A_1Ph,Socket_Cee_R19,L3
+L3008,1716809,Electrical Fixtures,GEN CEE_1x16A_1Ph,Socket_Cee_R19,L3
+L3008,1716810,Electrical Fixtures,GEN CEE_1x16A_1Ph,Socket_Cee_R19,L3
+L3008,1716811,Electrical Fixtures,UPS CEE_1x16A_1Ph,Socket_Cee_R19,L3
+L3008,1716812,Electrical Fixtures,GEN CEE_1x16A_1Ph,Socket_Cee_R19,L3
+L3008,1716813,Electrical Fixtures,UPS CEE_1x16A_1Ph,Socket_Cee_R19,L3
+L3008,1716814,Electrical Fixtures,GEN CEE_1x16A_1Ph,Socket_Cee_R19,L3
+L3008,1716815,Electrical Fixtures,UPS CEE_1x16A_1Ph,Socket_Cee_R19,L3
+L3008,1716816,Electrical Fixtures,UPS CEE_1x16A_1Ph,Socket_Cee_R19,L3
+L3008,1717588,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,L3
+L3008,1717590,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,L3
+L3008,3967421,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3008,3967422,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3008,3967423,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3008,3967424,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3008,3967425,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3008,3967426,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3008,3967427,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3008,3967428,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3008,3967432,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3008,3998031,Electrical Fixtures,Gen,Frame_Socket,L3
+L3008,3998032,Electrical Fixtures,Gen,Frame_Socket,L3
+L3008,4325505,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L3
+L3008,4325554,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L3
+L3008,11106043,Mechanical Equipment,AWV 1200,AWV 1200,L3
+L3008,11106045,Mechanical Equipment,AWV 1200,AWV 1200,L3
+L3009,1613881,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3009,1613883,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3009,11104873,Mechanical Equipment,AW 800,AW 800(right),L3
+L3010,11106593,Mechanical Equipment,AWSQ 450,AWSQ 450(right),L3
+L3013,1613864,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3013,1613865,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3013,1752521,Electrical Fixtures,Normal x1 WP,Frame_Socket,L3
+L3013,3880994,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3013,3881075,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3013,3881160,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3014,1717605,Electrical Equipment,60x240x210  GEN,Yani_Circuit breaker_SwitchBoard,L3
+L3014,4325463,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L3
+L3017,1752557,Electrical Fixtures,Normal x2,Frame_Socket,L3
+L3017,11106561,Mechanical Equipment,AWSQ 450,AWSQ 450(right),L3
+L3018,1716801,Electrical Equipment,60x240x210,Yani_Circuit breaker_SwitchBoard,L3
+L3018,4325417,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L3
+L3024,3878251,Electrical Fixtures,FOR LSS UPS,Frame_Socket,L3
+L3025,3879083,Electrical Fixtures,W,M_Junction Boxes - W,L3
+L3025,11106573,Mechanical Equipment,AW 450,AW 450(right),L3
+L3028,1613943,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3028,1613945,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3028,1613947,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3028,1654780,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,L3
+L3028,3943994,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3028,3950990,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3028,3955721,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3028,3955779,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3028,3997888,Electrical Fixtures,1 AC,Frame_Socket,L3
+L3028,3997893,Electrical Fixtures,1 AC,Frame_Socket,L3
+L3028,11105074,Mechanical Equipment,AWSQ 1500,AWSQ 1500(right),L3
+L3028,11105118,Mechanical Equipment,AWSQ 1000,AWSQ 1000(right),L3
+L3029,1613985,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3029,1613986,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3029,1752526,Electrical Fixtures,Normal x1 WP,Frame_Socket,L3
+L3029,3882184,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3029,3882361,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3029,3882391,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3030,3967448,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3030,3967449,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3033,1613940,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3033,1613942,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3033,1714276,Electrical Equipment,100mmx46mm,M_Circuit Breaker Switchboard,L3
+L3033,1714277,Electrical Equipment,100mmx46mm,M_Circuit Breaker Switchboard,L3
+L3033,1717201,Electrical Fixtures,GEN CEE_1x16A_1Ph,Socket_Cee_R19,L3
+L3033,1717203,Electrical Fixtures,UPS CEE_1x16A_1Ph,Socket_Cee_R19,L3
+L3033,1717204,Electrical Fixtures,GEN CEE_1x16A_1Ph,Socket_Cee_R19,L3
+L3033,1717205,Electrical Fixtures,UPS CEE_1x16A_1Ph,Socket_Cee_R19,L3
+L3033,1717206,Electrical Fixtures,GEN CEE_1x16A_1Ph,Socket_Cee_R19,L3
+L3033,1717207,Electrical Fixtures,GEN CEE_1x16A_1Ph,Socket_Cee_R19,L3
+L3033,1717208,Electrical Fixtures,UPS CEE_1x16A_1Ph,Socket_Cee_R19,L3
+L3033,1717209,Electrical Fixtures,GEN CEE_1x16A_1Ph,Socket_Cee_R19,L3
+L3033,1717210,Electrical Fixtures,UPS CEE_1x16A_1Ph,Socket_Cee_R19,L3
+L3033,1717211,Electrical Fixtures,GEN CEE_1x16A_1Ph,Socket_Cee_R19,L3
+L3033,1717212,Electrical Fixtures,UPS CEE_1x16A_1Ph,Socket_Cee_R19,L3
+L3033,1717213,Electrical Fixtures,UPS CEE_1x16A_1Ph,Socket_Cee_R19,L3
+L3033,1717619,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,L3
+L3033,1717621,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,L3
+L3033,3967433,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3033,3967434,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3033,3967435,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3033,3967436,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3033,3967437,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3033,3967439,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3033,3967440,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3033,3967441,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3033,3967442,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3033,3998029,Electrical Fixtures,Gen,Frame_Socket,L3
+L3033,3998030,Electrical Fixtures,Gen,Frame_Socket,L3
+L3033,4325324,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L3
+L3033,4325370,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L3
+L3033,11104833,Mechanical Equipment,AWV 1200,AWV 1200,L3
+L3033,11104834,Mechanical Equipment,AWV 1200,AWV 1200,L3
+L3034,11106620,Mechanical Equipment,AWSQ 450,AWSQ 450(right),L3
+L3038,1613982,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3038,1613984,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3038,1752546,Electrical Fixtures,Normal x1 WP,Frame_Socket,L3
+L3038,3882040,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3038,3882096,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3038,3882145,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3039,2308349,Electrical Equipment,60x240x210  GEN,Yani_Circuit breaker_SwitchBoard,L3
+L3039,4325246,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L3
+L3041,1717617,Electrical Equipment,60x240x210,Yani_Circuit breaker_SwitchBoard,L3
+L3041,4325286,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L3
+L3044,1752782,Electrical Fixtures,Normal x2,Frame_Socket,L3
+L3044,3967445,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3044,3967447,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3044,11106608,Mechanical Equipment,AWSQ 450,AWSQ 450(right),L3
+L3045,1613884,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3045,1613885,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3046,3879172,Electrical Fixtures,W,M_Junction Boxes - W,L3
+L3046,3967450,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3046,11106621,Mechanical Equipment,AW 450,AW 450(right),L3
+L3047,3878384,Electrical Fixtures,FOR LSS UPS,Frame_Socket,L3
+L3053,3878546,Electrical Fixtures,FOR LSS UPS,Frame_Socket,L3
+L3055,1752571,Electrical Fixtures,Normal x2,Frame_Socket,L3
+L3060,1613838,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3060,1613840,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3060,1625494,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,L3
+L3060,1625496,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,L3
+L3060,3942924,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3060,3948509,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3060,3948705,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3060,3955411,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3060,3997858,Electrical Fixtures,1 AC,Frame_Socket,L3
+L3060,11104432,Mechanical Equipment,AWSQ 2000,AWSQ 2000(right),L3
+L3065,1714280,Electrical Equipment,100mmx46mm,M_Circuit Breaker Switchboard,L3
+L3065,1717564,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,L3
+L3065,1717565,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,L3
+L3065,4325155,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L3
+L3065,4325201,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L3
+L3065,11112084,Mechanical Equipment,AWV 1200,AWV 1200,L3
+L3065,11112086,Mechanical Equipment,AWV 1200,AWV 1200,L3
+L3072,1752544,Electrical Fixtures,Normal x1 WP,Frame_Socket,L3
+L3072,3880385,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3072,3880573,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3072,3880580,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3072,3880586,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3072,3880592,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3073,1752545,Electrical Fixtures,Normal x1 WP,Frame_Socket,L3
+L3073,3880648,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3073,3880672,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3073,3880793,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3073,3880860,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3074,3885964,Electrical Fixtures,W,M_Junction Boxes - W,L3
+L3078,1717585,Electrical Equipment,60x160x210 UPS,Yani_Circuit breaker_SwitchBoard,L3
+L3078,4325118,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L3
+L3079,1717562,Electrical Equipment,60x240x210  GEN,Yani_Circuit breaker_SwitchBoard,L3
+L3079,1717583,Electrical Equipment,60x240x210,Yani_Circuit breaker_SwitchBoard,L3
+L3079,4324852,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L3
+L3079,4325080,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L3
+L3083,1613814,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3083,1613815,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3087,3953251,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3087,3956505,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3088,3953186,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3088,3956424,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3089,3955983,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3090,3956077,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,1750719,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750720,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750721,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750722,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750723,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750724,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750725,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750726,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750727,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750728,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750729,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750730,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750736,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750737,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750738,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750739,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750740,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750741,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750742,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750743,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750744,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750745,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750746,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750750,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750751,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750752,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750753,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750754,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750755,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750756,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750757,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750762,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750763,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750764,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750765,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750766,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750767,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750768,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750770,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750771,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750772,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750773,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750774,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750775,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750776,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750777,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750778,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750779,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750780,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750789,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750790,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750791,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750792,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750793,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750794,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750795,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750796,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750797,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750798,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750799,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750800,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750801,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750802,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750803,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750804,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750809,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750810,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750811,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750812,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750813,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750814,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750815,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750816,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750817,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750818,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750819,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750820,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750821,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750822,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750823,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750824,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750825,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750826,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750829,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750830,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750831,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750836,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750837,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750838,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750839,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750841,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750842,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750843,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750844,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750845,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750846,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750847,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750848,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750849,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750850,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750851,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750852,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750853,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750854,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750855,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750862,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750863,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750864,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750866,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750867,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750868,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750869,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750874,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750875,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750876,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750880,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750881,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750882,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750883,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750884,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750885,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750886,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750887,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750892,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750893,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750894,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750895,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750896,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750897,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750898,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750899,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750900,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750901,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750904,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750905,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750906,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750907,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750912,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750913,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750914,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750915,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750916,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750917,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750918,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750919,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750920,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750921,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750923,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750924,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750925,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750926,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750927,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750928,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750929,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750930,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750931,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750932,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750933,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750934,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750935,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750936,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750937,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750938,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750939,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750940,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750941,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750942,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750943,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750944,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750945,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750946,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750947,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750949,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750950,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750951,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750952,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750953,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750954,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750955,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750956,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750957,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750958,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750959,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750960,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750961,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750962,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750963,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750967,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750968,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750969,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750970,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750971,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750972,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750973,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750974,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750975,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750976,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750989,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750990,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750991,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750992,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750993,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750994,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750995,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750996,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750997,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750998,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1750999,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1751000,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1751001,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1751002,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1751003,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1751008,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1751009,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1751010,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1751012,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1751013,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1751014,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1751945,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1751948,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1751951,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1751954,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1751971,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1751974,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1751977,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752065,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752069,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752070,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752078,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752086,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752087,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752103,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752104,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752117,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752118,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752119,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752134,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752135,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752136,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752148,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752149,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752150,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752159,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752160,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752161,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752168,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752169,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752170,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752179,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752180,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752181,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752188,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752191,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752194,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752197,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752210,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752211,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752212,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752213,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752218,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752220,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752222,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752244,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752255,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752257,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752259,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752267,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752269,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752271,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752292,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752293,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752294,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752295,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752296,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752297,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752298,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752299,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752326,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752327,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752329,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752330,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752331,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752332,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752362,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752365,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752366,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752367,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752395,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752396,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752397,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752399,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752400,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752401,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752402,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752439,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752440,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752441,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752442,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752443,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752444,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752472,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752473,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752474,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752475,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752476,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752477,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752550,Electrical Fixtures,Normal x2,Frame_Socket,L3
+L3091,1752552,Electrical Fixtures,Normal x2,Frame_Socket,L3
+L3091,1752554,Electrical Fixtures,Normal x2,Frame_Socket,L3
+L3091,1752566,Electrical Fixtures,Normal x2,Frame_Socket,L3
+L3091,1752569,Electrical Fixtures,Normal x2,Frame_Socket,L3
+L3091,1752573,Electrical Fixtures,Normal x2,Frame_Socket,L3
+L3091,1752579,Electrical Fixtures,Normal x2,Frame_Socket,L3
+L3091,1752580,Electrical Fixtures,Normal x2,Frame_Socket,L3
+L3091,1752581,Electrical Fixtures,Normal x2,Frame_Socket,L3
+L3091,1752654,Electrical Fixtures,Normal x2,Frame_Socket,L3
+L3091,1752668,Electrical Fixtures,Normal x2,Frame_Socket,L3
+L3091,1752686,Electrical Fixtures,Normal x2,Frame_Socket,L3
+L3091,1752697,Electrical Fixtures,Normal x2,Frame_Socket,L3
+L3091,1752710,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752712,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752714,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752725,Electrical Fixtures,Normal x2,Frame_Socket,L3
+L3091,1752728,Electrical Fixtures,Normal x2,Frame_Socket,L3
+L3091,1752734,Electrical Fixtures,Normal x2,Frame_Socket,L3
+L3091,1752758,Electrical Fixtures,Normal x2,Frame_Socket,L3
+L3091,1752761,Electrical Fixtures,Normal x2,Frame_Socket,L3
+L3091,1752793,Electrical Fixtures,Normal x2,Frame_Socket,L3
+L3091,1752817,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752822,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752827,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752855,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752856,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752857,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752858,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752863,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752864,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752865,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752881,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752882,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752883,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752884,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752885,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752886,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752887,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752888,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752924,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752925,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752926,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752927,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752928,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752929,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752930,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752931,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752954,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752955,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752956,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752957,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752958,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752959,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752960,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752981,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1752984,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753007,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753008,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753009,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753012,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753035,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753036,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753037,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753038,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753039,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753040,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753041,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753042,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753114,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753115,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753116,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753117,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753118,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753119,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753120,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753121,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753140,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753141,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753142,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753143,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753144,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753145,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753146,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753169,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753170,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753171,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753187,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753188,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753189,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753193,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753194,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753195,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753196,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753214,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753215,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753216,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753217,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753222,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753223,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753224,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753225,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753284,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753285,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753286,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753287,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753288,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753289,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753290,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753314,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753315,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753316,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753317,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753318,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753319,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753320,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753321,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753344,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753367,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753368,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753369,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753374,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753376,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753401,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753402,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753403,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753404,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753405,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753406,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753407,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753408,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753428,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753429,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753430,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753431,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753432,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753433,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753434,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753478,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753479,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753480,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753481,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753482,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753483,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753484,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753535,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753536,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753537,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753538,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753543,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753544,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753545,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753561,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753562,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753563,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753567,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753568,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753569,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753570,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753584,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753585,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753586,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753587,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753592,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753593,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753594,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753595,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753631,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753632,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753634,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753650,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753651,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753652,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753653,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753654,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753655,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753656,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,1753657,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3600682,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3600683,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3600684,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3601211,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3601235,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3601285,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3601312,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3601347,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3601356,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3601365,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3603184,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3603185,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3603186,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3603187,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3603239,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3603240,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3603241,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3603242,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3603301,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3603311,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3603322,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3603497,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3603507,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3604046,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3604047,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3604048,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3604198,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3604199,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3610835,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3610845,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3610877,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3610916,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3610926,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3610935,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3611178,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3611180,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3611270,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3611271,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3611305,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3611317,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3611436,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3611556,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3611558,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3611640,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3613837,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3613888,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3613934,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3639555,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3639567,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3639612,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3639613,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3639614,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3639615,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3639742,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3639743,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3639744,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3639780,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3639791,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3639802,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3639815,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3639871,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3639872,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3639949,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3639950,Electrical Fixtures,Type 1,Frame_Socket,L3
+L3091,3855348,Electrical Fixtures,Normal x2,Frame_Socket,L3
+L3091,3855486,Electrical Fixtures,Normal x2,Frame_Socket,L3
+L3091,3855557,Electrical Fixtures,Normal x2,Frame_Socket,L3
+L3091,3855774,Electrical Fixtures,Normal x2,Frame_Socket,L3
+L3091,3941908,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3941943,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3942080,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3948485,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3948726,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3948863,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3948947,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3949012,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3949206,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3949283,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3949347,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3949492,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3949636,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3949716,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3949795,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3950068,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3950178,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3950353,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3950544,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3950817,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3950881,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3950952,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3951011,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3951060,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3951090,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3951181,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3951249,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3951314,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3951338,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3951400,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3951482,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3951509,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3951553,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3951650,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3951864,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3951938,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3951996,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3952080,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3952147,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3952222,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3952324,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3952504,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3952627,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3952695,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3952749,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3952785,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3952996,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3953093,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3953119,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3953289,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3953425,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3953480,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3953564,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3953672,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3953789,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3953878,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3954010,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3954057,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3954187,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3954401,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3954470,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3954584,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3954687,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3954849,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3954977,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3955115,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3955155,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3955431,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3955530,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3955571,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3955677,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3955815,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3955889,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3956001,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3956195,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3956556,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3956664,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3956743,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3956802,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3091,3956865,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3096,3878855,Electrical Fixtures,FOR LSS UPS,Frame_Socket,L3
+L3096,3878892,Electrical Fixtures,FOR LSS UPS,Frame_Socket,L3

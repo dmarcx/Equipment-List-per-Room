@@ -1,0 +1,483 @@
+מס' חדר,ID,קטגוריה,סוג,משפחה,קומה
+P1001,2249135,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1001,2250811,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1001,2250822,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1001,2250833,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1001,2250846,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1001,2416457,Mechanical Equipment,Outdoor unit 80000,Outdoor unit 80000,P1
+P1001,2416542,Mechanical Equipment,Outdoor unit 80000,Outdoor unit 80000,P1
+P1001,2416568,Mechanical Equipment,Outdoor unit 80000,Outdoor unit 80000,P1
+P1001,2417194,Mechanical Equipment,Electrical cabinet,Electrical cabinet,P1
+P1002,2248628,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1002,2248630,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1002,2248632,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1002,2248634,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1002,2248636,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1002,2248732,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1002,1002382,Mechanical Equipment,Pump NSCS  150-400-900W,M_Mechanical Equipment_Pump NSCS  150-400-900W,P1
+P1002,1002385,Mechanical Equipment,Pump NSCF 200-500-1320W,M_Mechanical Equipment_Pump NSCF 200-500-1320W,P1
+P1002,1002390,Mechanical Equipment,746x264,M_Mechanical Equipment_Inert Base,P1
+P1002,1002402,Mechanical Equipment,460x177,M_Mechanical Equipment_Inert Base,P1
+P1002,1002419,Mechanical Equipment,220х533,M_Mechanical Equipment_Inert Base,P1
+P1002,1029793,Mechanical Equipment,Chiller 45-2519-01-RV,M_Mechanical Equipment_Chiller 45-2519-01-RV,P1
+P1002,1030650,Mechanical Equipment,Chiller 45-2519-01-RV,M_Mechanical Equipment_Chiller 45-2519-01-RV,P1
+P1002,1041136,Mechanical Equipment,Chiller 45-2519-01-RV,M_Mechanical Equipment_Chiller 45-2519-01-RV,P1
+P1002,1041148,Mechanical Equipment,Chiller 45-2519-01-RV,M_Mechanical Equipment_Chiller 45-2519-01-RV,P1
+P1002,1041157,Mechanical Equipment,Chiller 45-2519-01-RV,M_Mechanical Equipment_Chiller 45-2519-01-RV,P1
+P1002,1074670,Mechanical Equipment,278x490,M_Mechanical Equipment_Inert Base,P1
+P1002,1091029,Mechanical Equipment,176x343,M_Mechanical Equipment_Inert Base,P1
+P1002,1101008,Mechanical Equipment,Pump NSCS  150-400-900W,M_Mechanical Equipment_Pump NSCS  150-400-900W,P1
+P1002,1101009,Mechanical Equipment,Pump NSCS  150-400-900W,M_Mechanical Equipment_Pump NSCS  150-400-900W,P1
+P1002,1101840,Mechanical Equipment,Family1,Family1,P1
+P1002,1647847,Mechanical Equipment,400x500,M_Mechanical Equipment_Inert Base,P1
+P1002,2412663,Mechanical Equipment,355x355,M_Mechanical Equipment_Inert Base,P1
+P1002,5160681,Mechanical Equipment,AHU 18000 CFM,AHU 18000 CFM,P1
+P1002,5483590,Mechanical Equipment,234х350,M_Mechanical Equipment_Inert Base,P1
+P1002,5483598,Mechanical Equipment,AHU 6000 CFM,AHU 6000 CFM,P1
+P1002,5512067,Mechanical Equipment,AHU 100% Fresh air 25000 CFM,NHR_BOX-M,P1
+P1002,7447547,Mechanical Equipment,Electrical cabinet,Electrical cabinet,P1
+P1002,7486378,Mechanical Equipment,Pump NSCF 200-500-1320W,M_Mechanical Equipment_Pump NSCF 200-500-1320W,P1
+P1002,7486472,Mechanical Equipment,Pump NSCF 200-500-1320W,M_Mechanical Equipment_Pump NSCF 200-500-1320W,P1
+P1002,7486566,Mechanical Equipment,Pump NSCF 200-500-1320W,M_Mechanical Equipment_Pump NSCF 200-500-1320W,P1
+P1002,7492019,Mechanical Equipment,Pump NSCS  150-400-900W,M_Mechanical Equipment_Pump NSCS  150-400-900W,P1
+P1002,7492154,Mechanical Equipment,Pump NSCS  150-400-900W,M_Mechanical Equipment_Pump NSCS  150-400-900W,P1
+P1002,7492288,Mechanical Equipment,Pump NSCS  150-400-900W,M_Mechanical Equipment_Pump NSCS  150-400-900W,P1
+P1002,7500155,Mechanical Equipment,Electrical cabinet,Electrical cabinet,P1
+P1002,7508274,Mechanical Equipment,262x206,M_Mechanical Equipment_Inert Base,P1
+P1002,7526933,Mechanical Equipment,460x177,M_Mechanical Equipment_Inert Base,P1
+P1002,7528124,Mechanical Equipment,Pump NSCS  150-400-900W,M_Mechanical Equipment_Pump NSCS  150-400-900W,P1
+P1002,7529320,Mechanical Equipment,Pump NSCS  150-400-900W,M_Mechanical Equipment_Pump NSCS  150-400-900W,P1
+P1002,7529453,Mechanical Equipment,Pump NSCS  150-400-900W,M_Mechanical Equipment_Pump NSCS  150-400-900W,P1
+P1002,7529587,Mechanical Equipment,Pump NSCS  150-400-900W,M_Mechanical Equipment_Pump NSCS  150-400-900W,P1
+P1002,7548896,Mechanical Equipment,Electrical cabinet,Electrical cabinet,P1
+P1002,7549586,Mechanical Equipment,Electrical cabinet,Electrical cabinet,P1
+P1002,7549607,Mechanical Equipment,Electrical cabinet,Electrical cabinet,P1
+P1002,7549631,Mechanical Equipment,Electrical cabinet,Electrical cabinet,P1
+P1002,9887111,Mechanical Equipment,Pump 200-150-400,M_Mechanical Equipment_Pump Etanorm_syt_3e_200_150_400-1950gpm,P1
+P1002,9887112,Mechanical Equipment,Pump 200-150-400,M_Mechanical Equipment_Pump Etanorm_syt_3e_200_150_400-1950gpm,P1
+P1003,1575649,Electrical Equipment,80mmx40mm,M_Circuit Breaker Switchboard,P1
+P1003,2164717,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1003,2248767,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1003,2248770,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1003,2248831,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1004,2349119,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1004,2349143,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1005,2248781,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1005,2248784,Electrical Fixtures,TV,BOX D,P1
+P1005,2248787,Electrical Fixtures,Gen,Frame_Socket,P1
+P1006,3138671,Electrical Fixtures,Presence WC LM detector Mov,Detector Presence,P1
+P1006,3138673,Electrical Equipment,6131_38-183-500,E_Wall Junction Box_MEPcontent_ABB_KNX Box_INT-EN_Shared,P1
+P1007,3091609,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1008,2248704,Electrical Fixtures,Type 1,Frame_Socket,P1
+P1008,2248712,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1008,2256187,Electrical Fixtures,2,BOX D,P1
+P1008,2256703,Electrical Fixtures,2,BOX D,P1
+P1009,3138804,Electrical Fixtures,Presence WC LM detector Mov,Detector Presence,P1
+P1009,3138806,Electrical Equipment,6131_38-183-500,E_Wall Junction Box_MEPcontent_ABB_KNX Box_INT-EN_Shared,P1
+P1010,1439826,Electrical Equipment,100mmx46mm,M_Circuit Breaker Switchboard,P1
+P1010,1439827,Electrical Equipment,100mmx46mm,M_Circuit Breaker Switchboard,P1
+P1010,1439832,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,P1
+P1010,1439833,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,P1
+P1010,2248824,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1010,2248826,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1010,1715264,Mechanical Equipment,AW 1200,AW 1200,P1
+P1010,1715265,Mechanical Equipment,AW 1200,AW 1200,P1
+P1011,2358167,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1012,2248773,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1013,2248715,Electrical Fixtures,Type 1,Frame_Socket,P1
+P1013,2248717,Electrical Fixtures,Type 1,Frame_Socket,P1
+P1013,2248719,Electrical Fixtures,Type 1,Frame_Socket,P1
+P1013,2248721,Electrical Fixtures,Type 1,Frame_Socket,P1
+P1013,2248723,Electrical Fixtures,Type 1,Frame_Socket,P1
+P1015,1439828,Electrical Equipment,100mmx46mm,M_Circuit Breaker Switchboard,P1
+P1015,1439829,Electrical Equipment,100mmx46mm,M_Circuit Breaker Switchboard,P1
+P1015,1439830,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,P1
+P1015,1439831,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,P1
+P1015,2248828,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1015,2248830,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1015,1714989,Mechanical Equipment,AW 1200,AW 1200,P1
+P1015,1714991,Mechanical Equipment,AW 1200,AW 1200,P1
+P1016,2355992,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1018,2248695,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1019,2248697,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1020,1439834,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,P1
+P1020,1439835,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,P1
+P1020,1439836,Electrical Equipment,100mmx46mm,M_Circuit Breaker Switchboard,P1
+P1020,2248835,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1020,2248837,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1020,2249268,Electrical Fixtures,1 AC GEN,Frame_Socket,P1
+P1020,2249270,Electrical Fixtures,1 AC GEN,Frame_Socket,P1
+P1020,4368541,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1020,12429678,Mechanical Equipment,AW 1200,AW 1200,P1
+P1020,12429679,Mechanical Equipment,AW 1200,AW 1200,P1
+P1022,1527334,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1022,1527370,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1022,1536288,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1022,2250087,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1022,3057529,Lighting Fixtures,700 24h,פס לד שקוע,P1
+P1022,3058423,Lighting Fixtures,151 24h,פס לד שקוע,P1
+P1022,3058433,Lighting Fixtures,151 24h,פס לד שקוע,P1
+P1022,3058439,Lighting Fixtures,151 24h,פס לד שקוע,P1
+P1022,3058447,Lighting Fixtures,151 24h,פס לד שקוע,P1
+P1022,3058455,Lighting Fixtures,151 24h,פס לד שקוע,P1
+P1022,3058465,Lighting Fixtures,151 24h,פס לד שקוע,P1
+P1032,1600820,Electrical Equipment,60x240x210  GEN,Yani_Circuit breaker_SwitchBoard,P1
+P1032,4310587,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1034,1519011,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1034,1519012,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1034,1533510,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1034,1535683,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1034,2164815,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1034,3066118,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1034,3066129,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1035,1600821,Electrical Equipment,60x240x210  GEN,Yani_Circuit breaker_SwitchBoard,P1
+P1035,4310638,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1038,2144006,Electrical Equipment,60x240x210,Yani_Circuit breaker_SwitchBoard,P1
+P1038,2248880,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1041,1517104,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1041,1535981,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1041,1536131,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1041,3065859,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1041,3065868,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1046,1454028,Electrical Equipment,60x160x210 UPS,Yani_Circuit breaker_SwitchBoard,P1
+P1046,2248876,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1051,2250742,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1051,2250764,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1051,2250774,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1051,2257206,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1052,2664908,Electrical Equipment,800mmx400mmx2200h,M_Transformer Switchboard,P1
+P1052,2664909,Electrical Equipment,800mmx400mmx2200h,M_Transformer Switchboard,P1
+P1052,2665216,Electrical Equipment,800mmx400mmx2200h,M_Transformer Switchboard,P1
+P1052,2665742,Electrical Equipment,800mmx400mmx2200h,M_Transformer Switchboard,P1
+P1052,4263176,Electrical Equipment,800mmx400mmx2200h,M_Transformer Switchboard,P1
+P1052,4263200,Electrical Equipment,800mmx400mmx2200h,M_Transformer Switchboard,P1
+P1053,2248774,Electrical Fixtures,Normal x2 WP,Frame_Socket,P1
+P1054,2248803,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1054,2666454,Electrical Equipment,800mmx400mmx2200h,M_Transformer Switchboard,P1
+P1054,4256584,Electrical Equipment,800mmx400mmx2200h,M_Transformer Switchboard,P1
+P1056,2250450,Electrical Fixtures,Normal x1,Frame_Socket,P1
+P1057,1535868,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1057,2248645,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1057,2248646,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1057,2248647,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1057,2248648,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1057,2248990,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1058,932433,Electrical Equipment,KD2500-UE,Generator_Diesel-SDMO-Kohler-KD1500_1800_kW,P1
+P1058,2248674,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1059,1479303,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1059,1479304,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1059,1532383,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1060,2250479,Electrical Fixtures,Normal x1,Frame_Socket,P1
+P1063,2248689,Electrical Fixtures,Normal x1 WP,Frame_Socket,P1
+P1063,3139099,Electrical Fixtures,Presence WC LM detector Mov,Detector Presence,P1
+P1063,3139101,Electrical Equipment,6131_38-183-500,E_Wall Junction Box_MEPcontent_ABB_KNX Box_INT-EN_Shared,P1
+P1064,2248692,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1065,2249207,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1066,1536049,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1066,2248766,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1067,1536058,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1067,1575947,Electrical Equipment,80mmx40mm,M_Circuit Breaker Switchboard,P1
+P1067,2248765,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1067,2248833,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1072,1520648,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1072,1533569,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1072,1533612,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1072,1533620,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1072,1535759,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1072,3066226,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1072,3066236,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1072,3066244,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1072,3066252,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1072,3066260,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1072,3066270,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1072,3066278,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1072,3066356,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1072,3066387,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1072,3073283,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1077,2249252,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1077,2249262,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1079,1536069,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1079,2249125,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1079,2249126,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1080,2248776,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1080,2248778,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1080,2248780,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1081,931975,Electrical Equipment,KD2500-UE,Generator_Diesel-SDMO-Kohler-KD1500_1800_kW,P1
+P1081,1029917,Electrical Equipment,KD2500-UE,Generator_Diesel-SDMO-Kohler-KD1500_1800_kW,P1
+P1081,1904414,Electrical Equipment,100x80cm,M_Transformer Switchboard,P1
+P1081,2248676,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1081,2250616,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1081,4321159,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1082,2248624,Electrical Fixtures,Type 1,Frame_Socket,P1
+P1082,2248626,Electrical Fixtures,Type 1,Frame_Socket,P1
+P1082,1424665,Mechanical Equipment,AWSQ 800,AWSQ 800,P1
+P1084,1452880,Electrical Equipment,60x240x210,Yani_Circuit breaker_SwitchBoard,P1
+P1084,1452881,Electrical Equipment,60x240x210  GEN,Yani_Circuit breaker_SwitchBoard,P1
+P1084,2248872,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1084,2248874,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1086,1513800,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1086,1532262,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1086,1534693,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1086,1535386,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1086,3065703,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1086,3065732,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1086,3065734,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1087,1505669,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1087,2249025,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1087,3065067,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1087,3065112,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1087,3065121,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1087,3065132,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1087,3065196,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1089,2248693,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1089,2621716,Electrical Equipment,800mmx400mmx2200h,M_Transformer Switchboard,P1
+P1089,2621928,Electrical Equipment,800mmx400mmx2200h,M_Transformer Switchboard,P1
+P1089,2664058,Electrical Equipment,800mmx400mmx2200h,M_Transformer Switchboard,P1
+P1089,4258301,Electrical Equipment,800mmx400mmx2200h,M_Transformer Switchboard,P1
+P1089,4262514,Electrical Equipment,800mmx400mmx2200h,M_Transformer Switchboard,P1
+P1089,4262571,Electrical Equipment,800mmx400mmx2200h,M_Transformer Switchboard,P1
+P1089,4262656,Electrical Equipment,800mmx400mmx2200h,M_Transformer Switchboard,P1
+P1089,4264852,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1092,1566509,Electrical Equipment,80x50cm,M_Transformer Switchboard,P1
+P1092,2248658,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1092,4321619,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1093,1532046,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1093,1532121,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1093,1532165,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1093,1532229,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1093,1534640,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1093,1535329,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1093,2163800,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1093,2248653,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1093,2248654,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1093,2248655,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1093,3065505,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1093,3065608,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1093,3065617,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1093,3065625,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1093,3065633,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1093,3065643,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1093,3065651,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1093,3065659,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1093,3065667,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1093,3065675,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1095,1533458,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1095,1533491,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1095,1535922,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1095,2249104,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1095,2249121,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1095,3065961,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1095,3065969,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1095,3065977,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1095,3065985,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1095,3065993,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1095,3066001,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1095,3066009,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1096,1528200,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1096,1528201,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1096,1528202,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1096,1528203,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1096,1528322,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1096,1535923,Lighting Fixtures,Exit Parking,EXIT Base_Ceiling_Wall_R18,P1
+P1096,1536224,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1096,2163354,Lighting Fixtures,Exit Parking,EXIT Base_Ceiling_Wall_R18,P1
+P1096,2168832,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1096,2249244,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1098,1535083,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1098,2248983,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1098,2248987,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1098,2249081,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1098,2249260,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1101,2164532,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1101,2248699,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1102,1535924,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1102,3065914,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1102,3065945,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1102,3065953,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1103,2248703,Electrical Fixtures,Type 1,Frame_Socket,P1
+P1103,2248713,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1103,2248794,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1103,2248796,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1103,2256450,Electrical Fixtures,2,BOX D,P1
+P1103,2256592,Electrical Fixtures,2,BOX D,P1
+P1104,1535589,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1104,2135403,Electrical Equipment,60x40x210,Yani_Circuit breaker_SwitchBoard,P1
+P1104,2149990,Electrical Equipment,60x40x210,Yani_Circuit breaker_SwitchBoard,P1
+P1104,2248761,Electrical Fixtures,Normal x2 WP,Frame_Socket,P1
+P1104,2248963,Electrical Fixtures,Gen,Frame_Socket,P1
+P1104,2248965,Electrical Fixtures,Normal x2 WP,Frame_Socket,P1
+P1104,2248975,Electrical Fixtures,Normal x2 WP,Frame_Socket,P1
+P1104,2249149,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1104,2249170,Electrical Fixtures,RK FOR KITCHEN,Frame_Socket,P1
+P1104,2250183,Electrical Fixtures,Normal x2 WP,Frame_Socket,P1
+P1104,3111741,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1104,3130128,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1104,3130183,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1104,3130232,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1104,3130515,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1104,3569704,Electrical Fixtures,Gen,Frame_Socket,P1
+P1104,3569719,Electrical Fixtures,Gen,Frame_Socket,P1
+P1104,3569743,Electrical Fixtures,Normal x2 WP,Frame_Socket,P1
+P1104,3570664,Electrical Fixtures,Normal x2 WP,Frame_Socket,P1
+P1104,3571550,Electrical Fixtures,RK FOR KITCHEN,Frame_Socket,P1
+P1104,3571863,Electrical Fixtures,Control Panel,Frame_Socket,P1
+P1104,3571950,Electrical Fixtures,Control Panel,Frame_Socket,P1
+P1104,3571985,Electrical Fixtures,Control Panel,Frame_Socket,P1
+P1104,4321668,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1104,4321721,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1104,7914778,Mechanical Equipment,120x95,Kitchen hoods(one way),P1
+P1116,920249,Electrical Equipment,945x80cm,M_Transformer Switchboard,P1
+P1116,920463,Electrical Equipment,670x80cm,M_Transformer Switchboard,P1
+P1116,920535,Electrical Equipment,902x80cm,M_Transformer Switchboard,P1
+P1116,920699,Electrical Equipment,645x80cm,M_Transformer Switchboard,P1
+P1116,920700,Electrical Equipment,680x80cm,M_Transformer Switchboard,P1
+P1116,920701,Electrical Equipment,322x80cm,M_Transformer Switchboard,P1
+P1116,920823,Electrical Equipment,1000x80cm,M_Transformer Switchboard,P1
+P1116,920999,Electrical Equipment,500x100cm,M_Transformer Switchboard,P1
+P1116,921000,Electrical Equipment,620x100cm,M_Transformer Switchboard,P1
+P1116,933516,Electrical Equipment,500 kVA,M_Uninterruptible Power Supply,P1
+P1116,934254,Electrical Equipment,500 kVA,M_Uninterruptible Power Supply,P1
+P1116,952717,Electrical Equipment,120x80cm,M_Transformer Switchboard,P1
+P1116,952844,Electrical Equipment,120x80cm,M_Transformer Switchboard,P1
+P1116,952853,Electrical Equipment,120x80cm,M_Transformer Switchboard,P1
+P1116,952862,Electrical Equipment,120x80cm,M_Transformer Switchboard,P1
+P1116,952876,Electrical Equipment,120x80cm,M_Transformer Switchboard,P1
+P1116,952883,Electrical Equipment,120x80cm,M_Transformer Switchboard,P1
+P1116,952924,Electrical Equipment,500x100cm,M_Transformer Switchboard,P1
+P1116,953447,Electrical Equipment,490x100cm,M_Transformer Switchboard,P1
+P1116,984846,Electrical Equipment,UPS Panel,M_Uninterruptible Power Supply,P1
+P1116,1009740,Electrical Equipment,100x80cm,M_Transformer Switchboard,P1
+P1116,1009794,Electrical Equipment,100x80cm,M_Transformer Switchboard,P1
+P1116,1010084,Electrical Equipment,100x80cm,M_Transformer Switchboard,P1
+P1116,1010350,Electrical Equipment,100x80cm,M_Transformer Switchboard,P1
+P1116,1408810,Electrical Equipment,120x80cm,M_Transformer Switchboard,P1
+P1116,1571151,Electrical Equipment,100x80cm,M_Transformer Switchboard,P1
+P1116,1571152,Electrical Equipment,120x80cm,M_Transformer Switchboard,P1
+P1116,2248610,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1116,2248612,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1116,2248614,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1116,2248616,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1116,2248618,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1116,2248620,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1116,2248622,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1116,2248839,Electrical Fixtures,קופסת תקשורת,SOCKETS1,P1
+P1116,2248842,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1116,2248844,Electrical Fixtures,קופסת תקשורת,SOCKETS1,P1
+P1116,2248845,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1116,2248846,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1116,2248847,Electrical Fixtures,קופסת תקשורת,SOCKETS1,P1
+P1116,2248849,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1116,2248850,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1116,2248852,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1116,2248854,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1116,2248860,Electrical Fixtures,קופסת תקשורת,SOCKETS1,P1
+P1116,2248861,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1116,2248863,Electrical Fixtures,קופסת תקשורת,SOCKETS1,P1
+P1116,2248864,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1116,2248866,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1116,2248868,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1116,2248870,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1116,2248882,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1116,2249059,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1116,4321440,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1116,4321459,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1116,4321474,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1116,4321487,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1116,4321506,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1116,4321522,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1118,2250915,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1118,2250944,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1121,2146074,Electrical Equipment,60x240x210,Yani_Circuit breaker_SwitchBoard,P1
+P1121,2248878,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1122,1532607,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1122,3066178,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1122,3066210,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1122,3066218,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1125,2248678,Electrical Fixtures,Type 1,Frame_Socket,P1
+P1125,2248680,Electrical Fixtures,Type 1,Frame_Socket,P1
+P1125,2248682,Electrical Fixtures,Type 1,Frame_Socket,P1
+P1125,2248683,Electrical Fixtures,Type 1,Frame_Socket,P1
+P1125,2248686,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1125,2250537,Electrical Fixtures,2,BOX D,P1
+P1125,2255947,Electrical Fixtures,2,BOX D,P1
+P1125,2255960,Electrical Fixtures,2,BOX D,P1
+P1133,1479238,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1133,2248640,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1133,2248642,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1133,2248856,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1133,2249075,Electrical Fixtures,1 AC,Frame_Socket,P1
+P1133,2249077,Electrical Fixtures,1 AC,Frame_Socket,P1
+P1133,2249079,Electrical Fixtures,1 AC,Frame_Socket,P1
+P1133,4265212,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1133,2421298,Mechanical Equipment,AWV 1500,AWV 1500,P1
+P1133,5817584,Mechanical Equipment,AWV 1500,AWV 1500,P1
+P1133,5817635,Mechanical Equipment,AWV 1500,AWV 1500,P1
+P1134,1532272,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1134,1535378,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1134,3065761,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1134,3065797,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1134,3065818,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1135,1523909,Lighting Fixtures,600 24h,פס לד שקוע,P1
+P1135,1533664,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1135,1533672,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1135,2159515,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1135,3058076,Lighting Fixtures,151 24h,פס לד שקוע,P1
+P1135,3058203,Lighting Fixtures,151 24h,פס לד שקוע,P1
+P1135,3058211,Lighting Fixtures,151 24h,פס לד שקוע,P1
+P1135,3058221,Lighting Fixtures,151 24h,פס לד שקוע,P1
+P1135,3058231,Lighting Fixtures,151 24h,פס לד שקוע,P1
+P1136,2162914,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1139,928004,Electrical Equipment,Transformer  2500kVA,Electrical_Transformers_Simens-AG_Geafol_Transformer,P1
+P1139,4070393,Electrical Equipment,60 kVA,M_Uninterruptible Power Supply,P1
+P1139,4070394,Electrical Equipment,UPS60 Panel,M_Uninterruptible Power Supply,P1
+P1139,4232427,Electrical Equipment,60 kVA,M_Uninterruptible Power Supply,P1
+P1139,4310682,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1140,927952,Electrical Equipment,Transformer  2500kVA,Electrical_Transformers_Simens-AG_Geafol_Transformer,P1
+P1141,928017,Electrical Equipment,Transformer  2500kVA,Electrical_Transformers_Simens-AG_Geafol_Transformer,P1
+P1142,921092,Electrical Equipment,490x80cm,M_Transformer Switchboard,P1
+P1142,4310384,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1142,4321134,Electrical Fixtures,קופסת תקשורת,SOCKETS1,P1
+P1142,7447495,Mechanical Equipment,Electrical cabinet,Electrical cabinet,P1
+P1142,7447510,Mechanical Equipment,Electrical cabinet,Electrical cabinet,P1
+P1142,7447517,Mechanical Equipment,Electrical cabinet,Electrical cabinet,P1
+P1142,7550430,Mechanical Equipment,Electrical cabinet,Electrical cabinet,P1
+P1145,1535804,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1145,2160542,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,2161237,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,2161244,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,2161250,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,2163163,Lighting Fixtures,Exit Parking,EXIT Base_Ceiling_Wall_R18,P1
+P1145,2248649,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1145,2249003,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1145,2249005,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1145,2249204,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1145,2249231,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1145,2249238,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1145,4070617,Electrical Equipment,100x80cm,M_Transformer Switchboard,P1
+P1145,4075732,Electrical Equipment,1250 kW,M_Diesel Emergency Power Generator,P1
+P1145,4319068,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1148,984525,Electrical Equipment,806x110cm,M_Transformer Switchboard,P1
+P1148,2248576,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1148,2248884,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1148,2248886,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1148,2248943,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1149,2248947,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1149,4264875,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1150,927440,Electrical Equipment,Transformer  2500kVA,Electrical_Transformers_Simens-AG_Geafol_Transformer,P1
+P1151,927739,Electrical Equipment,Transformer  2500kVA,Electrical_Transformers_Simens-AG_Geafol_Transformer,P1
+P1152,927758,Electrical Equipment,Transformer  2500kVA,Electrical_Transformers_Simens-AG_Geafol_Transformer,P1
+P1153,927928,Electrical Equipment,Transformer  2500kVA,Electrical_Transformers_Simens-AG_Geafol_Transformer,P1
+P1154,2248639,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1160,2164488,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1160,2248650,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1160,2248651,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1160,4074142,Electrical Equipment,490x80cm,M_Transformer Switchboard,P1
+P1160,4074227,Electrical Equipment,60x240x210,Yani_Circuit breaker_SwitchBoard,P1
+P1160,4310712,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1160,4310766,Electrical Fixtures,קופסת תקשורת,SOCKETS1,P1
+P1160,2425528,Mechanical Equipment,Smoke Exhaust Fan,Axial_Flow_Fan_-_300,P1
+P1160,5496070,Mechanical Equipment,278x490,M_Mechanical Equipment_Inert Base,P1
+P1160,5496075,Mechanical Equipment,AHU 15000 CFM,AHU 15000 CFM,P1
+P1160,9623062,Mechanical Equipment,Smoke Exhaust Fan,Axial_Flow_Fan_-_560,P1
+P1160,12449483,Mechanical Equipment,Smoke Exhaust Fan,Shevach C-900,P1
+P1162,2249161,Electrical Fixtures,Normal x2,Frame_Socket,P1
