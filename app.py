@@ -69,9 +69,9 @@ df.columns = df.columns.str.strip()
 room_numbers = sorted(df['מספר חדר'].unique())
 st.markdown(f"### \U0001F4CD חדרים זמינים בקומה {selected_floor}:")
 
-# הצגה בטבלה של 8 חדרים בכל שורה
-for i in range(0, len(room_numbers), 8):
-    row = "\t".join(str(room) for room in room_numbers[i:i+8])
+# הצגה בטבלה של 10 חדרים בכל שורה
+for i in range(0, len(room_numbers), 10):
+    row = "\t".join(str(room) for room in room_numbers[i:i+10])
     st.code(row, language='')
 
 # Sidebar המשך בחירה
