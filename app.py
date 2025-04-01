@@ -65,9 +65,8 @@ floor_path = os.path.join(DATA_FOLDER, f"{selected_floor}.csv")
 df = pd.read_csv(floor_path)
 df.columns = df.columns.str.strip()
 
-
 # שלב 3: הצגת רשימת חדרים בטבלה
-room_numbers = sorted(df['מס\' חדר'].unique())
+room_numbers = sorted(df['מספר חדר'].unique())
 st.markdown(f"### \U0001F4CD חדרים זמינים בקומה {selected_floor}:")
 
 # הצגה בטבלה של 8 חדרים בכל שורה
@@ -79,7 +78,7 @@ for i in range(0, len(room_numbers), 8):
 with st.sidebar:
     selected_room = st.selectbox("בחר חדר להצגת הציוד:", room_numbers)
 
-    room_data = df[df['מס\' חדר'] == selected_room]
+    room_data = df[df['מספר חדר'] == selected_room]
 
     categories = ['הצג הכל'] + sorted(room_data['קטגוריה'].dropna().unique())
     types = ['הצג הכל'] + sorted(room_data['סוג'].dropna().unique())
