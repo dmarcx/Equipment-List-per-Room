@@ -1,17 +1,95 @@
-מס' חדר,ID,קטגוריה,סוג,משפחה,קומה
-L6013,4290747,Mechanical Equipment,AWSQ 450,AWSQ 450,L6
-L6017,3886325,Electrical Fixtures,FOR LSS UPS,Frame_Socket,L6
-L6018,4282971,Mechanical Equipment,AWSQ 450,AWSQ 450,L6
-L6021,3858557,Electrical Fixtures,W,M_Junction Boxes - W,L6
-L6021,4283006,Mechanical Equipment,AW 450,AW 450,L6
+﻿מספר חדר,ID,קטגוריה,סוג,משפחה,קומה
+L6055,1858593,Electrical Fixtures,Normal x1 WP,Frame_Socket,L6
+L6055,3887097,Electrical Fixtures,Type 2,Frame_Socket,L6
+L6055,3887138,Electrical Fixtures,Type 2,Frame_Socket,L6
+L6055,3887173,Electrical Fixtures,Type 2,Frame_Socket,L6
+L6048,3858438,Electrical Fixtures,W,M_Junction Boxes - W,L6
 L6022,3886431,Electrical Fixtures,FOR LSS UPS,Frame_Socket,L6
+L6086,3858217,Electrical Fixtures,W,M_Junction Boxes - W,L6
+L6086,3858272,Electrical Fixtures,W,M_Junction Boxes - W,L6
+L6086,3858401,Electrical Fixtures,W,M_Junction Boxes - W,L6
+L6086,3858414,Electrical Fixtures,W,M_Junction Boxes - W,L6
+L6011,3979831,Lighting Fixtures,42W 4000K,סי לד 6600,L6
+L6088,3858758,Electrical Fixtures,Normal x2,Frame_Socket,L6
 L6024,1858002,Electrical Fixtures,Normal x2,Frame_Socket,L6
 L6024,4260359,Mechanical Equipment,AWSQ 2000,AWSQ 2000,L6
-L6025,1857991,Electrical Fixtures,Normal x1 WP,Frame_Socket,L6
-L6025,3888553,Electrical Fixtures,Type 2,Frame_Socket,L6
-L6025,3888798,Electrical Fixtures,Type 2,Frame_Socket,L6
-L6025,3888870,Electrical Fixtures,Type 2,Frame_Socket,L6
-L6025,3888960,Electrical Fixtures,Type 2,Frame_Socket,L6
+L6085,1274277,Electrical Equipment,100x80cm,M_Transformer Switchboard,L6
+L6085,1274315,Electrical Equipment,100x80cm,M_Transformer Switchboard,L6
+L6085,1274328,Electrical Equipment,160x80cm,M_Transformer Switchboard,L6
+L6085,1274589,Electrical Equipment,100x80cm,M_Transformer Switchboard,L6
+L6085,1274591,Electrical Equipment,100x80cm,M_Transformer Switchboard,L6
+L6085,1274593,Electrical Equipment,160x80cm,M_Transformer Switchboard,L6
+L6085,3889469,Electrical Fixtures,W,M_Junction Boxes - W,L6
+L6085,1031205,Mechanical Equipment,HP tower,Chiller_hp-404-504,L6
+L6085,1031206,Mechanical Equipment,Cooling Tower,Cooling Tower_300 Tons,L6
+L6085,1031209,Mechanical Equipment,Cooling Tower,Cooling Tower_300 Tons,L6
+L6085,1031210,Mechanical Equipment,Cooling Tower,Cooling Tower_300 Tons,L6
+L6085,1083721,Mechanical Equipment,Cooling Tower,Cooling Tower_300 Tons,L6
+L6085,1708439,Mechanical Equipment,HP tower,Chiller_hp-404-504,L6
+L6085,1708441,Mechanical Equipment,HP tower,Chiller_hp-404-504,L6
+L6085,1777056,Mechanical Equipment,HP tower,Chiller_hp-404-504,L6
+L6085,9491778,Mechanical Equipment,Electrical cabinet,Electrical cabinet,L6
+L6085,9491806,Mechanical Equipment,Electrical cabinet,Electrical cabinet,L6
+L6085,9491837,Mechanical Equipment,Electrical cabinet,Electrical cabinet,L6
+L6085,10090862,Mechanical Equipment,766х766,M_Mechanical Equipment_Inert Base,L6
+L6085,10090865,Mechanical Equipment,830х40,M_Mechanical Equipment_Inert Base,L6
+L6085,10090868,Mechanical Equipment,830х40,M_Mechanical Equipment_Inert Base,L6
+L6085,10090869,Mechanical Equipment,830х40,M_Mechanical Equipment_Inert Base,L6
+L6085,10090870,Mechanical Equipment,830х40,M_Mechanical Equipment_Inert Base,L6
+L6085,10090874,Mechanical Equipment,766х766,M_Mechanical Equipment_Inert Base,L6
+L6085,10090875,Mechanical Equipment,830х40,M_Mechanical Equipment_Inert Base,L6
+L6085,10090876,Mechanical Equipment,830х40,M_Mechanical Equipment_Inert Base,L6
+L6085,10090877,Mechanical Equipment,830х40,M_Mechanical Equipment_Inert Base,L6
+L6085,10090878,Mechanical Equipment,830х40,M_Mechanical Equipment_Inert Base,L6
+L6085,10090879,Mechanical Equipment,766х766,M_Mechanical Equipment_Inert Base,L6
+L6085,10090880,Mechanical Equipment,830х40,M_Mechanical Equipment_Inert Base,L6
+L6085,10090881,Mechanical Equipment,830х40,M_Mechanical Equipment_Inert Base,L6
+L6085,10090882,Mechanical Equipment,830х40,M_Mechanical Equipment_Inert Base,L6
+L6085,10090883,Mechanical Equipment,830х40,M_Mechanical Equipment_Inert Base,L6
+L6085,10090884,Mechanical Equipment,766х766,M_Mechanical Equipment_Inert Base,L6
+L6085,10090885,Mechanical Equipment,830х40,M_Mechanical Equipment_Inert Base,L6
+L6085,10090886,Mechanical Equipment,830х40,M_Mechanical Equipment_Inert Base,L6
+L6085,10090887,Mechanical Equipment,830х40,M_Mechanical Equipment_Inert Base,L6
+L6085,10090888,Mechanical Equipment,830х40,M_Mechanical Equipment_Inert Base,L6
+L6085,11649100,Mechanical Equipment,Fan 122 CLII,Fan-Stand_Alone-Twin_City_Fan_,L6
+L6085,11649104,Mechanical Equipment,80x110,M_Mechanical Equipment_Inert Base,L6
+L6107,1858588,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,L6
+L6107,1858589,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,L6
+L6061,1858643,Electrical Fixtures,Normal x1 WP,Frame_Socket,L6
+L6061,3887555,Electrical Fixtures,Type 2,Frame_Socket,L6
+L6061,3887599,Electrical Fixtures,Type 2,Frame_Socket,L6
+L6061,3887636,Electrical Fixtures,Type 2,Frame_Socket,L6
+L6013,3071924,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,L6
+L6013,4290747,Mechanical Equipment,AWSQ 450,AWSQ 450,L6
+L6030,1858041,Electrical Equipment,60x240x210  GEN,Yani_Circuit breaker_SwitchBoard,L6
+L6030,1858058,Electrical Equipment,60x240x210,Yani_Circuit breaker_SwitchBoard,L6
+L6030,4327070,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L6
+L6030,4327232,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L6
+L6021,3858557,Electrical Fixtures,W,M_Junction Boxes - W,L6
+L6021,4283006,Mechanical Equipment,AW 450,AW 450,L6
+L6017,3886325,Electrical Fixtures,FOR LSS UPS,Frame_Socket,L6
+L6073,1858605,Electrical Equipment,100mmx46mm,M_Circuit Breaker Switchboard,L6
+L6073,1858606,Electrical Equipment,100mmx46mm,M_Circuit Breaker Switchboard,L6
+L6073,1858635,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,L6
+L6073,1858637,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,L6
+L6073,3860430,Electrical Fixtures,1 AC GEN,Frame_Socket,L6
+L6073,3860494,Electrical Fixtures,1 AC GEN,Frame_Socket,L6
+L6073,3978623,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L6
+L6073,3978625,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L6
+L6073,3978641,Lighting Fixtures,42W 4000K,סי לד 6600,L6
+L6073,3978642,Lighting Fixtures,42W 4000K,סי לד 6600,L6
+L6073,3978643,Lighting Fixtures,42W 4000K,סי לד 6600,L6
+L6073,3978644,Lighting Fixtures,42W 4000K,סי לד 6600,L6
+L6073,3978645,Lighting Fixtures,42W 4000K,סי לד 6600,L6
+L6073,3978646,Lighting Fixtures,42W 4000K,סי לד 6600,L6
+L6073,3978647,Lighting Fixtures,42W 4000K,סי לד 6600,L6
+L6073,3978648,Lighting Fixtures,42W 4000K,סי לד 6600,L6
+L6073,3978652,Lighting Fixtures,42W 4000K,סי לד 6600,L6
+L6073,4327858,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L6
+L6073,4327906,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L6
+L6073,4290491,Mechanical Equipment,AWV 1200,AWV 1200,L6
+L6073,4290570,Mechanical Equipment,AWV 1200,AWV 1200,L6
+L6035,3886460,Electrical Fixtures,FOR LSS UPS,Frame_Socket,L6
 L6026,1858090,Electrical Fixtures,Type 1,Frame_Socket,L6
 L6026,1858091,Electrical Fixtures,Type 1,Frame_Socket,L6
 L6026,1858129,Electrical Fixtures,Type 1,Frame_Socket,L6
@@ -110,48 +188,44 @@ L6026,3859086,Electrical Fixtures,Normal x2,Frame_Socket,L6
 L6026,3859140,Electrical Fixtures,Normal x2,Frame_Socket,L6
 L6026,3859335,Electrical Fixtures,Normal x2,Frame_Socket,L6
 L6026,3859909,Electrical Fixtures,Normal x2,Frame_Socket,L6
-L6027,1858015,Electrical Equipment,100mmx46mm,M_Circuit Breaker Switchboard,L6
-L6027,1858043,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,L6
-L6027,1858044,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,L6
-L6027,3859981,Electrical Fixtures,1 AC GEN,Frame_Socket,L6
-L6027,3860051,Electrical Fixtures,1 AC GEN,Frame_Socket,L6
-L6027,4327311,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L6
-L6027,4327353,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L6
-L6027,9492952,Mechanical Equipment,AWV 1200,AWV 1200,L6
-L6027,9492976,Mechanical Equipment,AWV 1200,AWV 1200,L6
-L6029,1858060,Electrical Equipment,60x160x210 UPS,Yani_Circuit breaker_SwitchBoard,L6
-L6029,4327269,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L6
-L6030,1858041,Electrical Equipment,60x240x210  GEN,Yani_Circuit breaker_SwitchBoard,L6
-L6030,1858058,Electrical Equipment,60x240x210,Yani_Circuit breaker_SwitchBoard,L6
-L6030,4327070,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L6
-L6030,4327232,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L6
 L6034,4281939,Mechanical Equipment,AWSQ 1500,AWSQ 1500,L6
 L6034,4282092,Mechanical Equipment,AWSQ 1000,AWSQ 1000,L6
-L6035,3886460,Electrical Fixtures,FOR LSS UPS,Frame_Socket,L6
+L6065,2308367,Electrical Equipment,60x240x210  GEN,Yani_Circuit breaker_SwitchBoard,L6
+L6065,4327398,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L6
+L6057,1858596,Electrical Fixtures,Normal x1 WP,Frame_Socket,L6
+L6057,3886832,Electrical Fixtures,Type 2,Frame_Socket,L6
+L6057,3886840,Electrical Fixtures,Type 2,Frame_Socket,L6
+L6057,3886996,Electrical Fixtures,Type 2,Frame_Socket,L6
+L6068,3886033,Electrical Fixtures,FOR LSS UPS,Frame_Socket,L6
+L6068,3886051,Electrical Fixtures,FOR LSS UPS,Frame_Socket,L6
+L6068,3979889,Lighting Fixtures,42W 4000K,סי לד 6600,L6
+L6068,3979992,Lighting Fixtures,42W 4000K,סי לד 6600,L6
+L6068,3980181,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L6
+L6068,3981258,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L6
+L6068,3983726,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L6
+L6025,1857991,Electrical Fixtures,Normal x1 WP,Frame_Socket,L6
+L6025,3888553,Electrical Fixtures,Type 2,Frame_Socket,L6
+L6025,3888798,Electrical Fixtures,Type 2,Frame_Socket,L6
+L6025,3888870,Electrical Fixtures,Type 2,Frame_Socket,L6
+L6025,3888960,Electrical Fixtures,Type 2,Frame_Socket,L6
+L6059,1858641,Electrical Fixtures,Normal x1 WP,Frame_Socket,L6
+L6059,3887678,Electrical Fixtures,Type 2,Frame_Socket,L6
+L6059,3887718,Electrical Fixtures,Type 2,Frame_Socket,L6
+L6059,3887763,Electrical Fixtures,Type 2,Frame_Socket,L6
+L6018,4282971,Mechanical Equipment,AWSQ 450,AWSQ 450,L6
+L6029,1858060,Electrical Equipment,60x160x210 UPS,Yani_Circuit breaker_SwitchBoard,L6
+L6029,4327269,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L6
 L6044,1857990,Electrical Fixtures,Normal x1 WP,Frame_Socket,L6
 L6044,3888181,Electrical Fixtures,Type 2,Frame_Socket,L6
 L6044,3888189,Electrical Fixtures,Type 2,Frame_Socket,L6
 L6044,3888364,Electrical Fixtures,Type 2,Frame_Socket,L6
 L6044,3888442,Electrical Fixtures,Type 2,Frame_Socket,L6
 L6044,3888516,Electrical Fixtures,Type 2,Frame_Socket,L6
-L6045,3858606,Electrical Fixtures,W,M_Junction Boxes - W,L6
-L6048,3858438,Electrical Fixtures,W,M_Junction Boxes - W,L6
-L6055,1858593,Electrical Fixtures,Normal x1 WP,Frame_Socket,L6
-L6055,3887097,Electrical Fixtures,Type 2,Frame_Socket,L6
-L6055,3887138,Electrical Fixtures,Type 2,Frame_Socket,L6
-L6055,3887173,Electrical Fixtures,Type 2,Frame_Socket,L6
-L6057,1858596,Electrical Fixtures,Normal x1 WP,Frame_Socket,L6
-L6057,3886832,Electrical Fixtures,Type 2,Frame_Socket,L6
-L6057,3886840,Electrical Fixtures,Type 2,Frame_Socket,L6
-L6057,3886996,Electrical Fixtures,Type 2,Frame_Socket,L6
-L6059,1858641,Electrical Fixtures,Normal x1 WP,Frame_Socket,L6
-L6059,3887678,Electrical Fixtures,Type 2,Frame_Socket,L6
-L6059,3887718,Electrical Fixtures,Type 2,Frame_Socket,L6
-L6059,3887763,Electrical Fixtures,Type 2,Frame_Socket,L6
-L6061,1858643,Electrical Fixtures,Normal x1 WP,Frame_Socket,L6
-L6061,3887555,Electrical Fixtures,Type 2,Frame_Socket,L6
-L6061,3887599,Electrical Fixtures,Type 2,Frame_Socket,L6
-L6061,3887636,Electrical Fixtures,Type 2,Frame_Socket,L6
+L6066,3979404,Lighting Fixtures,42W 4000K,סי לד 6600,L6
+L6066,3979508,Lighting Fixtures,42W 4000K,סי לד 6600,L6
+L6095,3980064,Lighting Fixtures,42W 4000K,סי לד 6600,L6
+L6095,3980065,Lighting Fixtures,42W 4000K,סי לד 6600,L6
+L6062,1728109,Lighting Fixtures,42W 4000K,סי לד 6600,L6
 L6062,1858552,Electrical Equipment,100mmx46mm,M_Circuit Breaker Switchboard,L6
 L6062,1858553,Electrical Equipment,100mmx46mm,M_Circuit Breaker Switchboard,L6
 L6062,1858556,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,L6
@@ -160,76 +234,45 @@ L6062,3860310,Electrical Fixtures,1 AC GEN,Frame_Socket,L6
 L6062,3860360,Electrical Fixtures,1 AC GEN,Frame_Socket,L6
 L6062,3978627,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L6
 L6062,3978629,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L6
+L6062,3978653,Lighting Fixtures,42W 4000K,סי לד 6600,L6
+L6062,3978654,Lighting Fixtures,42W 4000K,סי לד 6600,L6
+L6062,3978655,Lighting Fixtures,42W 4000K,סי לד 6600,L6
+L6062,3978656,Lighting Fixtures,42W 4000K,סי לד 6600,L6
+L6062,3978657,Lighting Fixtures,42W 4000K,סי לד 6600,L6
+L6062,3978659,Lighting Fixtures,42W 4000K,סי לד 6600,L6
+L6062,3978660,Lighting Fixtures,42W 4000K,סי לד 6600,L6
+L6062,3978661,Lighting Fixtures,42W 4000K,סי לד 6600,L6
+L6062,3978662,Lighting Fixtures,42W 4000K,סי לד 6600,L6
 L6062,4327484,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L6
 L6062,4327539,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L6
 L6062,4281629,Mechanical Equipment,AWV 1200,AWV 1200,L6
 L6062,4281630,Mechanical Equipment,AWV 1200,AWV 1200,L6
-L6064,1858554,Electrical Equipment,60x240x210,Yani_Circuit breaker_SwitchBoard,L6
-L6064,4327438,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L6
-L6065,2308367,Electrical Equipment,60x240x210  GEN,Yani_Circuit breaker_SwitchBoard,L6
-L6065,4327398,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L6
-L6068,3886033,Electrical Fixtures,FOR LSS UPS,Frame_Socket,L6
-L6068,3886051,Electrical Fixtures,FOR LSS UPS,Frame_Socket,L6
-L6073,1858605,Electrical Equipment,100mmx46mm,M_Circuit Breaker Switchboard,L6
-L6073,1858606,Electrical Equipment,100mmx46mm,M_Circuit Breaker Switchboard,L6
-L6073,1858635,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,L6
-L6073,1858637,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,L6
-L6073,3860430,Electrical Fixtures,1 AC GEN,Frame_Socket,L6
-L6073,3860494,Electrical Fixtures,1 AC GEN,Frame_Socket,L6
-L6073,3978623,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L6
-L6073,3978625,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L6
-L6073,4327858,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L6
-L6073,4327906,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L6
-L6073,4290491,Mechanical Equipment,AWV 1200,AWV 1200,L6
-L6073,4290570,Mechanical Equipment,AWV 1200,AWV 1200,L6
+L6045,3858606,Electrical Fixtures,W,M_Junction Boxes - W,L6
+L6045,3980095,Lighting Fixtures,42W 4000K,סי לד 6600,L6
 L6074,1858639,Electrical Equipment,60x240x210  GEN,Yani_Circuit breaker_SwitchBoard,L6
 L6074,4327837,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L6
 L6076,1858633,Electrical Equipment,60x240x210,Yani_Circuit breaker_SwitchBoard,L6
 L6076,4327802,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L6
-L6085,1274277,Electrical Equipment,100x80cm,M_Transformer Switchboard,L6
-L6085,1274315,Electrical Equipment,100x80cm,M_Transformer Switchboard,L6
-L6085,1274328,Electrical Equipment,160x80cm,M_Transformer Switchboard,L6
-L6085,1274589,Electrical Equipment,100x80cm,M_Transformer Switchboard,L6
-L6085,1274591,Electrical Equipment,100x80cm,M_Transformer Switchboard,L6
-L6085,1274593,Electrical Equipment,160x80cm,M_Transformer Switchboard,L6
-L6085,3889469,Electrical Fixtures,W,M_Junction Boxes - W,L6
-L6085,1031205,Mechanical Equipment,HP tower,Chiller_hp-404-504,L6
-L6085,1031206,Mechanical Equipment,Cooling Tower,Cooling Tower_300 Tons,L6
-L6085,1031209,Mechanical Equipment,Cooling Tower,Cooling Tower_300 Tons,L6
-L6085,1031210,Mechanical Equipment,Cooling Tower,Cooling Tower_300 Tons,L6
-L6085,1083721,Mechanical Equipment,Cooling Tower,Cooling Tower_300 Tons,L6
-L6085,1708439,Mechanical Equipment,HP tower,Chiller_hp-404-504,L6
-L6085,1708441,Mechanical Equipment,HP tower,Chiller_hp-404-504,L6
-L6085,1777056,Mechanical Equipment,HP tower,Chiller_hp-404-504,L6
-L6085,9491778,Mechanical Equipment,Electrical cabinet,Electrical cabinet,L6
-L6085,9491806,Mechanical Equipment,Electrical cabinet,Electrical cabinet,L6
-L6085,9491837,Mechanical Equipment,Electrical cabinet,Electrical cabinet,L6
-L6085,10090862,Mechanical Equipment,766х766,M_Mechanical Equipment_Inert Base,L6
-L6085,10090865,Mechanical Equipment,830х40,M_Mechanical Equipment_Inert Base,L6
-L6085,10090868,Mechanical Equipment,830х40,M_Mechanical Equipment_Inert Base,L6
-L6085,10090869,Mechanical Equipment,830х40,M_Mechanical Equipment_Inert Base,L6
-L6085,10090870,Mechanical Equipment,830х40,M_Mechanical Equipment_Inert Base,L6
-L6085,10090874,Mechanical Equipment,766х766,M_Mechanical Equipment_Inert Base,L6
-L6085,10090875,Mechanical Equipment,830х40,M_Mechanical Equipment_Inert Base,L6
-L6085,10090876,Mechanical Equipment,830х40,M_Mechanical Equipment_Inert Base,L6
-L6085,10090877,Mechanical Equipment,830х40,M_Mechanical Equipment_Inert Base,L6
-L6085,10090878,Mechanical Equipment,830х40,M_Mechanical Equipment_Inert Base,L6
-L6085,10090879,Mechanical Equipment,766х766,M_Mechanical Equipment_Inert Base,L6
-L6085,10090880,Mechanical Equipment,830х40,M_Mechanical Equipment_Inert Base,L6
-L6085,10090881,Mechanical Equipment,830х40,M_Mechanical Equipment_Inert Base,L6
-L6085,10090882,Mechanical Equipment,830х40,M_Mechanical Equipment_Inert Base,L6
-L6085,10090883,Mechanical Equipment,830х40,M_Mechanical Equipment_Inert Base,L6
-L6085,10090884,Mechanical Equipment,766х766,M_Mechanical Equipment_Inert Base,L6
-L6085,10090885,Mechanical Equipment,830х40,M_Mechanical Equipment_Inert Base,L6
-L6085,10090886,Mechanical Equipment,830х40,M_Mechanical Equipment_Inert Base,L6
-L6085,10090887,Mechanical Equipment,830х40,M_Mechanical Equipment_Inert Base,L6
-L6085,10090888,Mechanical Equipment,830х40,M_Mechanical Equipment_Inert Base,L6
-L6085,11649100,Mechanical Equipment,Fan 122 CLII,Fan-Stand_Alone-Twin_City_Fan_,L6
-L6085,11649104,Mechanical Equipment,80x110,M_Mechanical Equipment_Inert Base,L6
-L6086,3858217,Electrical Fixtures,W,M_Junction Boxes - W,L6
-L6086,3858272,Electrical Fixtures,W,M_Junction Boxes - W,L6
-L6086,3858401,Electrical Fixtures,W,M_Junction Boxes - W,L6
-L6086,3858414,Electrical Fixtures,W,M_Junction Boxes - W,L6
-L6088,3858758,Electrical Fixtures,Normal x2,Frame_Socket,L6
-L6107,1858588,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,L6
-L6107,1858589,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,L6
+L6027,1858015,Electrical Equipment,100mmx46mm,M_Circuit Breaker Switchboard,L6
+L6027,1858043,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,L6
+L6027,1858044,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,L6
+L6027,3859981,Electrical Fixtures,1 AC GEN,Frame_Socket,L6
+L6027,3860051,Electrical Fixtures,1 AC GEN,Frame_Socket,L6
+L6027,3978626,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L6
+L6027,3978630,Lighting Fixtures,42W 4000K,סי לד 6600,L6
+L6027,3978631,Lighting Fixtures,42W 4000K,סי לד 6600,L6
+L6027,3978632,Lighting Fixtures,42W 4000K,סי לד 6600,L6
+L6027,3978633,Lighting Fixtures,42W 4000K,סי לד 6600,L6
+L6027,3978634,Lighting Fixtures,42W 4000K,סי לד 6600,L6
+L6027,3978635,Lighting Fixtures,42W 4000K,סי לד 6600,L6
+L6027,3978636,Lighting Fixtures,42W 4000K,סי לד 6600,L6
+L6027,3978637,Lighting Fixtures,42W 4000K,סי לד 6600,L6
+L6027,3978640,Lighting Fixtures,42W 4000K,סי לד 6600,L6
+L6027,4327311,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L6
+L6027,4327353,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L6
+L6027,9492952,Mechanical Equipment,AWV 1200,AWV 1200,L6
+L6027,9492976,Mechanical Equipment,AWV 1200,AWV 1200,L6
+L6064,1858554,Electrical Equipment,60x240x210,Yani_Circuit breaker_SwitchBoard,L6
+L6064,4327438,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L6
+L6053,3979705,Lighting Fixtures,42W 4000K,סי לד 6600,L6
+L6053,3979750,Lighting Fixtures,42W 4000K,סי לד 6600,L6

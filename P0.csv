@@ -1,4 +1,49 @@
-מס' חדר,ID,קטגוריה,סוג,משפחה,קומה
+﻿מספר חדר,ID,קטגוריה,סוג,משפחה,קומה
+P0011,1798290,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P0
+P0011,1798302,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P0
+P0011,1798310,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P0
+P0011,1840407,Electrical Fixtures,Normal x1 WP,Frame_Socket,P0
+P0011,3074721,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P0
+P0008,1791161,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P0
+P0008,1791349,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P0
+P0008,1791406,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P0
+P0008,1791433,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P0
+P0008,1791459,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P0
+P0008,1791494,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P0
+P0008,1791529,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P0
+P0008,1791560,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P0
+P0008,1791608,Lighting Fixtures,Topaz 900mm,M_Recessed Direct-Indirect Light - Asymmetrical,P0
+P0008,1791644,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P0
+P0008,1791666,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P0
+P0008,1806485,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P0
+P0008,1806535,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P0
+P0008,1806621,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P0
+P0008,1806665,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P0
+P0008,3085103,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P0
+P0008,4320474,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P0
+P0008,4320553,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P0
+P0008,7419203,Mechanical Equipment,AWS 1000,AWS 1000,P0
+P0007,1855484,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P0
+P0007,1855641,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P0
+P0007,3075949,Lighting Fixtures,600 24h,פס לד שקוע,P0
+P0007,3075951,Lighting Fixtures,רוחב 151,פס לד שקוע,P0
+P0007,3075953,Lighting Fixtures,רוחב 151,פס לד שקוע,P0
+P0007,3075955,Lighting Fixtures,רוחב 151,פס לד שקוע,P0
+P0007,3075957,Lighting Fixtures,רוחב 151,פס לד שקוע,P0
+P0007,3075959,Lighting Fixtures,רוחב 151,פס לד שקוע,P0
+P0007,3083548,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P0
+P0007,7560566,Mechanical Equipment,AWL 600,AWL 600,P0
+P0009,1806814,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P0
+P0009,1845508,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P0
+P0009,1849615,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P0
+P0009,1849641,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P0
+P0009,1849666,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P0
+P0009,3075222,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P0
+P0009,3075317,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P0
+P0009,3075326,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P0
+P0009,3075338,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P0
+P0009,3638356,Electrical Fixtures,Presence WC LM detector Mov,Detector Presence,P0
+P0009,3638358,Electrical Equipment,6131_38-183-500,E_Wall Junction Box_MEPcontent_ABB_KNX Box_INT-EN_Shared,P0
 P0002,1855052,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P0
 P0002,1855357,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P0
 P0002,3075950,Lighting Fixtures,700 24h,פס לד שקוע,P0
@@ -12,6 +57,12 @@ P0002,3083357,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P0
 P0002,3632923,Electrical Fixtures,Presence WC LM detector Mov,Detector Presence,P0
 P0002,3632924,Electrical Equipment,6131_38-183-500,E_Wall Junction Box_MEPcontent_ABB_KNX Box_INT-EN_Shared,P0
 P0002,7560585,Mechanical Equipment,AWL 800,AWL 800,P0
+P0012,1798428,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P0
+P0012,1798440,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P0
+P0012,1798448,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P0
+P0012,1840678,Electrical Fixtures,Normal x1 WP,Frame_Socket,P0
+P0012,3074881,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P0
+P0015,1798383,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P0
 P0003,3084014,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P0
 P0003,3090208,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P0
 P0003,3090276,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P0
@@ -64,46 +115,19 @@ P0004,4291694,Electrical Fixtures,Normal x2,Frame_Socket,P0
 P0004,4291798,Electrical Fixtures,Normal x2,Frame_Socket,P0
 P0004,4291800,Electrical Fixtures,Normal x2,Frame_Socket,P0
 P0004,7417373,Mechanical Equipment,AWS 1000,AWS 1000,P0
-P0007,1855484,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P0
-P0007,1855641,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P0
-P0007,3075949,Lighting Fixtures,600 24h,פס לד שקוע,P0
-P0007,3075951,Lighting Fixtures,רוחב 151,פס לד שקוע,P0
-P0007,3075953,Lighting Fixtures,רוחב 151,פס לד שקוע,P0
-P0007,3075955,Lighting Fixtures,רוחב 151,פס לד שקוע,P0
-P0007,3075957,Lighting Fixtures,רוחב 151,פס לד שקוע,P0
-P0007,3075959,Lighting Fixtures,רוחב 151,פס לד שקוע,P0
-P0007,3083548,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P0
-P0007,7560566,Mechanical Equipment,AWL 600,AWL 600,P0
-P0008,1791161,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P0
-P0008,1791349,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P0
-P0008,1791406,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P0
-P0008,1791433,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P0
-P0008,1791459,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P0
-P0008,1791494,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P0
-P0008,1791529,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P0
-P0008,1791560,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P0
-P0008,1791608,Lighting Fixtures,Topaz 900mm,M_Recessed Direct-Indirect Light - Asymmetrical,P0
-P0008,1791644,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P0
-P0008,1791666,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P0
-P0008,1806485,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P0
-P0008,1806535,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P0
-P0008,1806621,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P0
-P0008,1806665,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P0
-P0008,3085103,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P0
-P0008,4320474,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P0
-P0008,4320553,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P0
-P0008,7419203,Mechanical Equipment,AWS 1000,AWS 1000,P0
-P0009,1806814,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P0
-P0009,1845508,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P0
-P0009,1849615,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P0
-P0009,1849641,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P0
-P0009,1849666,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P0
-P0009,3075222,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P0
-P0009,3075317,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P0
-P0009,3075326,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P0
-P0009,3075338,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P0
-P0009,3638356,Electrical Fixtures,Presence WC LM detector Mov,Detector Presence,P0
-P0009,3638358,Electrical Equipment,6131_38-183-500,E_Wall Junction Box_MEPcontent_ABB_KNX Box_INT-EN_Shared,P0
+P0013,1841788,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P0
+P0013,1841833,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P0
+P0013,3638632,Electrical Fixtures,Presence WC LM detector Mov,Detector Presence,P0
+P0013,3638634,Electrical Equipment,6131_38-183-500,E_Wall Junction Box_MEPcontent_ABB_KNX Box_INT-EN_Shared,P0
+P0016,1806425,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P0
+P0016,2033118,Electrical Fixtures,Normal x1 WP,Frame_Socket,P0
+P0016,3074333,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P0
+P0016,3074405,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P0
+P0016,3074416,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P0
+P0016,3084456,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P0
+P0016,3638868,Electrical Fixtures,Presence WC LM detector Mov,Detector Presence,P0
+P0016,3638870,Electrical Equipment,6131_38-183-500,E_Wall Junction Box_MEPcontent_ABB_KNX Box_INT-EN_Shared,P0
+P0014,1798282,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P0
 P0010,1806256,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P0
 P0010,1840096,Electrical Fixtures,Normal x2 WP,Frame_Socket,P0
 P0010,1840330,Electrical Fixtures,Normal x2 WP,Frame_Socket,P0
@@ -120,30 +144,6 @@ P0010,3073937,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - 
 P0010,3073947,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P0
 P0010,3138573,Electrical Fixtures,Presence WC LM detector Mov,Detector Presence,P0
 P0010,3138575,Electrical Equipment,6131_38-183-500,E_Wall Junction Box_MEPcontent_ABB_KNX Box_INT-EN_Shared,P0
-P0011,1798290,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P0
-P0011,1798302,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P0
-P0011,1798310,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P0
-P0011,1840407,Electrical Fixtures,Normal x1 WP,Frame_Socket,P0
-P0011,3074721,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P0
-P0012,1798428,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P0
-P0012,1798440,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P0
-P0012,1798448,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P0
-P0012,1840678,Electrical Fixtures,Normal x1 WP,Frame_Socket,P0
-P0012,3074881,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P0
-P0013,1841788,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P0
-P0013,1841833,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P0
-P0013,3638632,Electrical Fixtures,Presence WC LM detector Mov,Detector Presence,P0
-P0013,3638634,Electrical Equipment,6131_38-183-500,E_Wall Junction Box_MEPcontent_ABB_KNX Box_INT-EN_Shared,P0
-P0014,1798282,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P0
-P0015,1798383,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P0
-P0016,1806425,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P0
-P0016,2033118,Electrical Fixtures,Normal x1 WP,Frame_Socket,P0
-P0016,3074333,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P0
-P0016,3074405,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P0
-P0016,3074416,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P0
-P0016,3084456,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P0
-P0016,3638868,Electrical Fixtures,Presence WC LM detector Mov,Detector Presence,P0
-P0016,3638870,Electrical Equipment,6131_38-183-500,E_Wall Junction Box_MEPcontent_ABB_KNX Box_INT-EN_Shared,P0
 P0017,1806860,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P0
 P0017,1840735,Electrical Fixtures,Normal x1 WP,Frame_Socket,P0
 P0017,1840833,Electrical Fixtures,Normal x2 WP,Frame_Socket,P0

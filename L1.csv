@@ -1,15 +1,42 @@
-מס' חדר,ID,קטגוריה,סוג,משפחה,קומה
-L1001,3990999,Electrical Fixtures,Type 2,Frame_Socket,L1
-L1001,3991001,Electrical Fixtures,Type 2,Frame_Socket,L1
-L1001,3991003,Electrical Fixtures,Type 2,Frame_Socket,L1
-L1001,3991114,Electrical Fixtures,Type 2,Frame_Socket,L1
-L1001,4056889,Mechanical Equipment,AWSQ 1000,AWSQ 1000,L1
-L1001,4056976,Mechanical Equipment,AWSQ 1500,AWSQ 1500,L1
-L1002,3890596,Electrical Fixtures,Normal x1 WP,Frame_Socket,L1
-L1002,3890609,Electrical Fixtures,Type 2,Frame_Socket,L1
-L1002,3890611,Electrical Fixtures,Type 2,Frame_Socket,L1
-L1002,3890613,Electrical Fixtures,Type 2,Frame_Socket,L1
-L1005,4056784,Mechanical Equipment,AW 800,AW 800,L1
+﻿מספר חדר,ID,קטגוריה,סוג,משפחה,קומה
+L1012,3983613,Lighting Fixtures,42W 4000K,סי לד 6600,L1
+L1084,2312629,Electrical Equipment,60x240x210  GEN,Yani_Circuit breaker_SwitchBoard,L1
+L1084,2312630,Electrical Equipment,60x240x210,Yani_Circuit breaker_SwitchBoard,L1
+L1084,4323228,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L1
+L1084,4323325,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L1
+L1091,3991007,Electrical Fixtures,Type 2,Frame_Socket,L1
+L1091,3991009,Electrical Fixtures,Type 2,Frame_Socket,L1
+L1091,3991011,Electrical Fixtures,Type 2,Frame_Socket,L1
+L1091,3991013,Electrical Fixtures,Type 2,Frame_Socket,L1
+L1091,3991015,Electrical Fixtures,Type 2,Frame_Socket,L1
+L1091,3991017,Electrical Fixtures,Type 2,Frame_Socket,L1
+L1091,3991019,Electrical Fixtures,Type 2,Frame_Socket,L1
+L1091,3991497,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1091,3991567,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1091,3991576,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1091,3991585,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1091,3991623,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1091,3991632,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1091,3991641,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1091,3991739,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1091,3991741,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1091,3991743,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1091,3991745,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1091,3991779,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1091,3991819,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1091,3991831,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1091,3991843,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1091,3991889,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1091,3991916,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1091,3991926,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1091,3991937,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1091,3991946,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1091,3991957,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1091,3991968,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1091,3992017,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1091,3992039,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1091,3992048,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1041,4060667,Mechanical Equipment,AWSQ 450,AWSQ 450,L1
 L1011,3991047,Electrical Fixtures,Type 2,Frame_Socket,L1
 L1011,3991049,Electrical Fixtures,Type 2,Frame_Socket,L1
 L1011,3991051,Electrical Fixtures,Type 2,Frame_Socket,L1
@@ -17,164 +44,8 @@ L1011,3991053,Electrical Fixtures,Type 2,Frame_Socket,L1
 L1011,3991164,Electrical Fixtures,Type 2,Frame_Socket,L1
 L1011,4049604,Mechanical Equipment,AWSQ 1500,AWSQ 1500,L1
 L1011,4049759,Mechanical Equipment,AWSQ 1000,AWSQ 1000,L1
-L1012,3983613,Lighting Fixtures,42W 4000K,סי לד 6600,L1
-L1015,1439761,Electrical Equipment,100mmx46mm,M_Circuit Breaker Switchboard,L1
-L1015,1439762,Electrical Equipment,100mmx46mm,M_Circuit Breaker Switchboard,L1
-L1015,1439767,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,L1
-L1015,1439768,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,L1
-L1015,3983598,Lighting Fixtures,42W 4000K,סי לד 6600,L1
-L1015,3983599,Lighting Fixtures,42W 4000K,סי לד 6600,L1
-L1015,3983600,Lighting Fixtures,42W 4000K,סי לד 6600,L1
-L1015,3983601,Lighting Fixtures,42W 4000K,סי לד 6600,L1
-L1015,3983602,Lighting Fixtures,42W 4000K,סי לד 6600,L1
-L1015,3983604,Lighting Fixtures,42W 4000K,סי לד 6600,L1
-L1015,3983605,Lighting Fixtures,42W 4000K,סי לד 6600,L1
-L1015,3983606,Lighting Fixtures,42W 4000K,סי לד 6600,L1
-L1015,3983607,Lighting Fixtures,42W 4000K,סי לד 6600,L1
-L1015,4323942,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L1
-L1015,4323959,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L1
-L1015,4049294,Mechanical Equipment,AWV 1200,AWV 1200,L1
-L1015,4049295,Mechanical Equipment,AWV 1200,AWV 1200,L1
-L1020,3890435,Electrical Fixtures,Normal x1 WP,Frame_Socket,L1
-L1020,3890436,Electrical Fixtures,Type 2,Frame_Socket,L1
-L1020,3890437,Electrical Fixtures,Type 2,Frame_Socket,L1
-L1020,3890438,Electrical Fixtures,Type 2,Frame_Socket,L1
-L1021,2308331,Electrical Equipment,60x240x210  GEN,Yani_Circuit breaker_SwitchBoard,L1
-L1021,4323905,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L1
-L1023,3367856,Electrical Equipment,60x240x210,Yani_Circuit breaker_SwitchBoard,L1
-L1023,4323867,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L1
-L1028,3991045,Electrical Fixtures,Type 2,Frame_Socket,L1
-L1030,3991005,Electrical Fixtures,Type 2,Frame_Socket,L1
-L1030,3991134,Electrical Fixtures,Type 2,Frame_Socket,L1
 L1031,3869864,Electrical Fixtures,W,M_Junction Boxes - W,L1
 L1031,4060633,Mechanical Equipment,AW 450,AW 450,L1
-L1032,3869927,Electrical Fixtures,W,M_Junction Boxes - W,L1
-L1033,3870583,Electrical Fixtures,FOR LSS UPS,Frame_Socket,L1
-L1038,3905266,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1038,3905353,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1038,3905377,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1038,3905443,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1038,3905474,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1038,3905575,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1038,3991033,Electrical Fixtures,Type 2,Frame_Socket,L1
-L1041,4060667,Mechanical Equipment,AWSQ 450,AWSQ 450,L1
-L1043,3890597,Electrical Fixtures,Normal x1 WP,Frame_Socket,L1
-L1043,3890598,Electrical Fixtures,Type 2,Frame_Socket,L1
-L1043,3890599,Electrical Fixtures,Type 2,Frame_Socket,L1
-L1043,3890600,Electrical Fixtures,Type 2,Frame_Socket,L1
-L1044,3368721,Electrical Equipment,60x240x210  GEN,Yani_Circuit breaker_SwitchBoard,L1
-L1044,4324071,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L1
-L1046,3367232,Electrical Equipment,60x240x210,Yani_Circuit breaker_SwitchBoard,L1
-L1046,4324029,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L1
-L1049,4060593,Mechanical Equipment,AWSQ 450,AWSQ 450,L1
-L1050,3890434,Electrical Fixtures,Normal x1 WP,Frame_Socket,L1
-L1050,3890439,Electrical Fixtures,Type 2,Frame_Socket,L1
-L1050,3890440,Electrical Fixtures,Type 2,Frame_Socket,L1
-L1050,3890441,Electrical Fixtures,Type 2,Frame_Socket,L1
-L1053,3870494,Electrical Fixtures,FOR LSS UPS,Frame_Socket,L1
-L1056,3870180,Electrical Fixtures,FOR LSS UPS,Frame_Socket,L1
-L1056,3990971,Electrical Fixtures,Type 2,Frame_Socket,L1
-L1058,3890246,Electrical Fixtures,Normal x1 WP,Frame_Socket,L1
-L1058,3890251,Electrical Fixtures,Type 2,Frame_Socket,L1
-L1058,3890253,Electrical Fixtures,Type 2,Frame_Socket,L1
-L1058,3890254,Electrical Fixtures,Type 2,Frame_Socket,L1
-L1058,3890256,Electrical Fixtures,Type 2,Frame_Socket,L1
-L1059,3890051,Electrical Fixtures,W,M_Junction Boxes - W,L1
-L1066,4047622,Mechanical Equipment,AWSQ 2000,AWSQ 2000,L1
-L1067,3870306,Electrical Fixtures,FOR LSS UPS,Frame_Socket,L1
-L1067,3870359,Electrical Fixtures,FOR LSS UPS,Frame_Socket,L1
-L1082,1439769,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,L1
-L1082,1439770,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,L1
-L1082,1439771,Electrical Equipment,100mmx46mm,M_Circuit Breaker Switchboard,L1
-L1082,3983580,Lighting Fixtures,42W 4000K,סי לד 6600,L1
-L1082,3991434,Electrical Fixtures,1 AC GEN,Frame_Socket,L1
-L1082,3991435,Electrical Fixtures,1 AC GEN,Frame_Socket,L1
-L1082,4323590,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L1
-L1082,4323820,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L1
-L1083,2311424,Electrical Equipment,60x160x210 UPS,Yani_Circuit breaker_SwitchBoard,L1
-L1083,4323417,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L1
-L1084,2312629,Electrical Equipment,60x240x210  GEN,Yani_Circuit breaker_SwitchBoard,L1
-L1084,2312630,Electrical Equipment,60x240x210,Yani_Circuit breaker_SwitchBoard,L1
-L1084,4323228,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L1
-L1084,4323325,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L1
-L1087,1439763,Electrical Equipment,100mmx46mm,M_Circuit Breaker Switchboard,L1
-L1087,1439764,Electrical Equipment,100mmx46mm,M_Circuit Breaker Switchboard,L1
-L1087,1439765,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,L1
-L1087,1439766,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,L1
-L1087,3983586,Lighting Fixtures,42W 4000K,סי לד 6600,L1
-L1087,3983587,Lighting Fixtures,42W 4000K,סי לד 6600,L1
-L1087,3983588,Lighting Fixtures,42W 4000K,סי לד 6600,L1
-L1087,3983589,Lighting Fixtures,42W 4000K,סי לד 6600,L1
-L1087,3983590,Lighting Fixtures,42W 4000K,סי לד 6600,L1
-L1087,3983591,Lighting Fixtures,42W 4000K,סי לד 6600,L1
-L1087,3983592,Lighting Fixtures,42W 4000K,סי לד 6600,L1
-L1087,3983593,Lighting Fixtures,42W 4000K,סי לד 6600,L1
-L1087,3983597,Lighting Fixtures,42W 4000K,סי לד 6600,L1
-L1087,4324099,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L1
-L1087,4324141,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L1
-L1089,3868445,Electrical Fixtures,Normal x2,Frame_Socket,L1
-L1089,3868762,Electrical Fixtures,Normal x2,Frame_Socket,L1
-L1089,3868822,Electrical Fixtures,Normal x2,Frame_Socket,L1
-L1089,3904322,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1089,3904546,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1089,3904587,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1089,3904626,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1089,3904694,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1089,3904780,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1089,3904816,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1089,3904953,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1089,3905074,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1089,3905135,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1089,3905233,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1089,3905634,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1089,3905860,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1089,3905920,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1089,3905971,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1089,3906105,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1089,3906216,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1089,3906292,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1089,3906411,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1089,3906464,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1089,3906549,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1089,3907180,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1089,3907229,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1089,3907364,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1089,3907540,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1089,3907600,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1089,3907685,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1089,3907743,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1089,3907775,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1089,3907842,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1089,3907862,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1089,3907905,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1089,3907990,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1089,3908083,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1089,3908192,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1089,3908260,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1089,3908389,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1089,3908412,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1089,3908547,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1089,3908606,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1089,3908658,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1089,3908857,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1089,3909004,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1089,3909105,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1089,3909251,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1089,3909334,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1089,3909408,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1089,3990973,Electrical Fixtures,Type 2,Frame_Socket,L1
-L1089,3990977,Electrical Fixtures,Type 2,Frame_Socket,L1
-L1089,3990979,Electrical Fixtures,Type 2,Frame_Socket,L1
-L1089,3990981,Electrical Fixtures,Type 2,Frame_Socket,L1
-L1089,3990983,Electrical Fixtures,Type 2,Frame_Socket,L1
-L1089,3990985,Electrical Fixtures,Type 2,Frame_Socket,L1
-L1089,3990987,Electrical Fixtures,Type 2,Frame_Socket,L1
-L1089,3990989,Electrical Fixtures,Type 2,Frame_Socket,L1
-L1089,3990991,Electrical Fixtures,Type 2,Frame_Socket,L1
-L1089,3990993,Electrical Fixtures,Type 2,Frame_Socket,L1
-L1089,3990995,Electrical Fixtures,Type 2,Frame_Socket,L1
-L1089,3990997,Electrical Fixtures,Type 2,Frame_Socket,L1
-L1089,3991130,Electrical Fixtures,Type 2,Frame_Socket,L1
 L1090,3868276,Electrical Fixtures,Normal x2,Frame_Socket,L1
 L1090,3868991,Electrical Fixtures,Normal x2,Frame_Socket,L1
 L1090,3869448,Electrical Fixtures,Normal x2,Frame_Socket,L1
@@ -268,36 +139,179 @@ L1090,3991237,Electrical Fixtures,Type 2,Frame_Socket,L1
 L1090,3991240,Electrical Fixtures,Type 2,Frame_Socket,L1
 L1090,3991242,Electrical Fixtures,Type 2,Frame_Socket,L1
 L1090,3991244,Electrical Fixtures,Type 2,Frame_Socket,L1
-L1091,3991007,Electrical Fixtures,Type 2,Frame_Socket,L1
-L1091,3991009,Electrical Fixtures,Type 2,Frame_Socket,L1
-L1091,3991011,Electrical Fixtures,Type 2,Frame_Socket,L1
-L1091,3991013,Electrical Fixtures,Type 2,Frame_Socket,L1
-L1091,3991015,Electrical Fixtures,Type 2,Frame_Socket,L1
-L1091,3991017,Electrical Fixtures,Type 2,Frame_Socket,L1
-L1091,3991019,Electrical Fixtures,Type 2,Frame_Socket,L1
-L1091,3991497,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1091,3991567,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1091,3991576,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1091,3991585,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1091,3991623,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1091,3991632,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1091,3991641,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1091,3991739,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1091,3991741,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1091,3991743,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1091,3991745,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1091,3991779,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1091,3991819,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1091,3991831,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1091,3991843,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1091,3991889,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1091,3991916,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1091,3991926,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1091,3991937,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1091,3991946,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1091,3991957,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1091,3991968,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1091,3992017,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1091,3992039,Electrical Fixtures,Type 1,Frame_Socket,L1
-L1091,3992048,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1030,3991005,Electrical Fixtures,Type 2,Frame_Socket,L1
+L1030,3991134,Electrical Fixtures,Type 2,Frame_Socket,L1
+L1005,4056784,Mechanical Equipment,AW 800,AW 800,L1
+L1059,3890051,Electrical Fixtures,W,M_Junction Boxes - W,L1
+L1056,3870180,Electrical Fixtures,FOR LSS UPS,Frame_Socket,L1
+L1056,3990971,Electrical Fixtures,Type 2,Frame_Socket,L1
 L1096,3870084,Electrical Fixtures,FOR LSS UPS,Frame_Socket,L1
+L1026,3983610,Lighting Fixtures,42W 4000K,סי לד 6600,L1
+L1026,3983612,Lighting Fixtures,42W 4000K,סי לד 6600,L1
+L1021,2308331,Electrical Equipment,60x240x210  GEN,Yani_Circuit breaker_SwitchBoard,L1
+L1021,4323905,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L1
+L1043,3890597,Electrical Fixtures,Normal x1 WP,Frame_Socket,L1
+L1043,3890598,Electrical Fixtures,Type 2,Frame_Socket,L1
+L1043,3890599,Electrical Fixtures,Type 2,Frame_Socket,L1
+L1043,3890600,Electrical Fixtures,Type 2,Frame_Socket,L1
+L1032,3869927,Electrical Fixtures,W,M_Junction Boxes - W,L1
+L1046,3367232,Electrical Equipment,60x240x210,Yani_Circuit breaker_SwitchBoard,L1
+L1046,4324029,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L1
+L1015,1439761,Electrical Equipment,100mmx46mm,M_Circuit Breaker Switchboard,L1
+L1015,1439762,Electrical Equipment,100mmx46mm,M_Circuit Breaker Switchboard,L1
+L1015,1439767,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,L1
+L1015,1439768,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,L1
+L1015,3983598,Lighting Fixtures,42W 4000K,סי לד 6600,L1
+L1015,3983599,Lighting Fixtures,42W 4000K,סי לד 6600,L1
+L1015,3983600,Lighting Fixtures,42W 4000K,סי לד 6600,L1
+L1015,3983601,Lighting Fixtures,42W 4000K,סי לד 6600,L1
+L1015,3983602,Lighting Fixtures,42W 4000K,סי לד 6600,L1
+L1015,3983604,Lighting Fixtures,42W 4000K,סי לד 6600,L1
+L1015,3983605,Lighting Fixtures,42W 4000K,סי לד 6600,L1
+L1015,3983606,Lighting Fixtures,42W 4000K,סי לד 6600,L1
+L1015,3983607,Lighting Fixtures,42W 4000K,סי לד 6600,L1
+L1015,3983732,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L1
+L1015,3983733,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L1
+L1015,4323942,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L1
+L1015,4323959,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L1
+L1015,4049294,Mechanical Equipment,AWV 1200,AWV 1200,L1
+L1015,4049295,Mechanical Equipment,AWV 1200,AWV 1200,L1
+L1083,2311424,Electrical Equipment,60x160x210 UPS,Yani_Circuit breaker_SwitchBoard,L1
+L1083,4323417,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L1
+L1067,3870306,Electrical Fixtures,FOR LSS UPS,Frame_Socket,L1
+L1067,3870359,Electrical Fixtures,FOR LSS UPS,Frame_Socket,L1
+L1002,3890596,Electrical Fixtures,Normal x1 WP,Frame_Socket,L1
+L1002,3890609,Electrical Fixtures,Type 2,Frame_Socket,L1
+L1002,3890611,Electrical Fixtures,Type 2,Frame_Socket,L1
+L1002,3890613,Electrical Fixtures,Type 2,Frame_Socket,L1
+L1023,3367856,Electrical Equipment,60x240x210,Yani_Circuit breaker_SwitchBoard,L1
+L1023,4323867,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L1
+L1049,3983626,Lighting Fixtures,42W 4000K,סי לד 6600,L1
+L1049,3983628,Lighting Fixtures,42W 4000K,סי לד 6600,L1
+L1049,4060593,Mechanical Equipment,AWSQ 450,AWSQ 450,L1
+L1038,3905266,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1038,3905353,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1038,3905377,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1038,3905443,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1038,3905474,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1038,3905575,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1038,3991033,Electrical Fixtures,Type 2,Frame_Socket,L1
+L1053,3870494,Electrical Fixtures,FOR LSS UPS,Frame_Socket,L1
+L1033,3870583,Electrical Fixtures,FOR LSS UPS,Frame_Socket,L1
+L1020,3890435,Electrical Fixtures,Normal x1 WP,Frame_Socket,L1
+L1020,3890436,Electrical Fixtures,Type 2,Frame_Socket,L1
+L1020,3890437,Electrical Fixtures,Type 2,Frame_Socket,L1
+L1020,3890438,Electrical Fixtures,Type 2,Frame_Socket,L1
+L1089,3868445,Electrical Fixtures,Normal x2,Frame_Socket,L1
+L1089,3868762,Electrical Fixtures,Normal x2,Frame_Socket,L1
+L1089,3868822,Electrical Fixtures,Normal x2,Frame_Socket,L1
+L1089,3904322,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1089,3904546,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1089,3904587,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1089,3904626,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1089,3904694,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1089,3904780,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1089,3904816,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1089,3904953,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1089,3905074,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1089,3905135,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1089,3905233,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1089,3905634,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1089,3905860,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1089,3905920,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1089,3905971,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1089,3906105,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1089,3906216,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1089,3906292,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1089,3906411,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1089,3906464,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1089,3906549,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1089,3907180,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1089,3907229,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1089,3907364,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1089,3907540,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1089,3907600,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1089,3907685,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1089,3907743,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1089,3907775,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1089,3907842,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1089,3907862,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1089,3907905,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1089,3907990,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1089,3908083,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1089,3908192,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1089,3908260,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1089,3908389,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1089,3908412,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1089,3908547,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1089,3908606,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1089,3908658,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1089,3908857,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1089,3909004,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1089,3909105,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1089,3909251,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1089,3909334,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1089,3909408,Electrical Fixtures,Type 1,Frame_Socket,L1
+L1089,3990973,Electrical Fixtures,Type 2,Frame_Socket,L1
+L1089,3990977,Electrical Fixtures,Type 2,Frame_Socket,L1
+L1089,3990979,Electrical Fixtures,Type 2,Frame_Socket,L1
+L1089,3990981,Electrical Fixtures,Type 2,Frame_Socket,L1
+L1089,3990983,Electrical Fixtures,Type 2,Frame_Socket,L1
+L1089,3990985,Electrical Fixtures,Type 2,Frame_Socket,L1
+L1089,3990987,Electrical Fixtures,Type 2,Frame_Socket,L1
+L1089,3990989,Electrical Fixtures,Type 2,Frame_Socket,L1
+L1089,3990991,Electrical Fixtures,Type 2,Frame_Socket,L1
+L1089,3990993,Electrical Fixtures,Type 2,Frame_Socket,L1
+L1089,3990995,Electrical Fixtures,Type 2,Frame_Socket,L1
+L1089,3990997,Electrical Fixtures,Type 2,Frame_Socket,L1
+L1089,3991130,Electrical Fixtures,Type 2,Frame_Socket,L1
+L1082,1439769,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,L1
+L1082,1439770,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,L1
+L1082,1439771,Electrical Equipment,100mmx46mm,M_Circuit Breaker Switchboard,L1
+L1082,3983575,Lighting Fixtures,42W 4000K,סי לד 6600,L1
+L1082,3983576,Lighting Fixtures,42W 4000K,סי לד 6600,L1
+L1082,3983577,Lighting Fixtures,42W 4000K,סי לד 6600,L1
+L1082,3983578,Lighting Fixtures,42W 4000K,סי לד 6600,L1
+L1082,3983579,Lighting Fixtures,42W 4000K,סי לד 6600,L1
+L1082,3983580,Lighting Fixtures,42W 4000K,סי לד 6600,L1
+L1082,3983581,Lighting Fixtures,42W 4000K,סי לד 6600,L1
+L1082,3983582,Lighting Fixtures,42W 4000K,סי לד 6600,L1
+L1082,3983585,Lighting Fixtures,42W 4000K,סי לד 6600,L1
+L1082,3991434,Electrical Fixtures,1 AC GEN,Frame_Socket,L1
+L1082,3991435,Electrical Fixtures,1 AC GEN,Frame_Socket,L1
+L1082,4323590,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L1
+L1082,4323820,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L1
+L1028,3991045,Electrical Fixtures,Type 2,Frame_Socket,L1
+L1050,3890434,Electrical Fixtures,Normal x1 WP,Frame_Socket,L1
+L1050,3890439,Electrical Fixtures,Type 2,Frame_Socket,L1
+L1050,3890440,Electrical Fixtures,Type 2,Frame_Socket,L1
+L1050,3890441,Electrical Fixtures,Type 2,Frame_Socket,L1
+L1044,3368721,Electrical Equipment,60x240x210  GEN,Yani_Circuit breaker_SwitchBoard,L1
+L1044,4324071,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L1
+L1087,1439763,Electrical Equipment,100mmx46mm,M_Circuit Breaker Switchboard,L1
+L1087,1439764,Electrical Equipment,100mmx46mm,M_Circuit Breaker Switchboard,L1
+L1087,1439765,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,L1
+L1087,1439766,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,L1
+L1087,3983586,Lighting Fixtures,42W 4000K,סי לד 6600,L1
+L1087,3983587,Lighting Fixtures,42W 4000K,סי לד 6600,L1
+L1087,3983588,Lighting Fixtures,42W 4000K,סי לד 6600,L1
+L1087,3983589,Lighting Fixtures,42W 4000K,סי לד 6600,L1
+L1087,3983590,Lighting Fixtures,42W 4000K,סי לד 6600,L1
+L1087,3983591,Lighting Fixtures,42W 4000K,סי לד 6600,L1
+L1087,3983592,Lighting Fixtures,42W 4000K,סי לד 6600,L1
+L1087,3983593,Lighting Fixtures,42W 4000K,סי לד 6600,L1
+L1087,3983597,Lighting Fixtures,42W 4000K,סי לד 6600,L1
+L1087,4324099,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L1
+L1087,4324141,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L1
+L1066,4047622,Mechanical Equipment,AWSQ 2000,AWSQ 2000,L1
+L1001,3990999,Electrical Fixtures,Type 2,Frame_Socket,L1
+L1001,3991001,Electrical Fixtures,Type 2,Frame_Socket,L1
+L1001,3991003,Electrical Fixtures,Type 2,Frame_Socket,L1
+L1001,3991114,Electrical Fixtures,Type 2,Frame_Socket,L1
+L1001,4056889,Mechanical Equipment,AWSQ 1000,AWSQ 1000,L1
+L1001,4056976,Mechanical Equipment,AWSQ 1500,AWSQ 1500,L1
+L1058,3890246,Electrical Fixtures,Normal x1 WP,Frame_Socket,L1
+L1058,3890251,Electrical Fixtures,Type 2,Frame_Socket,L1
+L1058,3890253,Electrical Fixtures,Type 2,Frame_Socket,L1
+L1058,3890254,Electrical Fixtures,Type 2,Frame_Socket,L1
+L1058,3890256,Electrical Fixtures,Type 2,Frame_Socket,L1

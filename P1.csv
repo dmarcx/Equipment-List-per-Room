@@ -1,19 +1,1016 @@
-מס' חדר,ID,קטגוריה,סוג,משפחה,קומה
-P1001,2249135,Electrical Fixtures,Normal x2,Frame_Socket,P1
-P1001,2250811,Electrical Fixtures,W,M_Junction Boxes - W,P1
-P1001,2250822,Electrical Fixtures,W,M_Junction Boxes - W,P1
-P1001,2250833,Electrical Fixtures,W,M_Junction Boxes - W,P1
-P1001,2250846,Electrical Fixtures,W,M_Junction Boxes - W,P1
-P1001,2416457,Mechanical Equipment,Outdoor unit 80000,Outdoor unit 80000,P1
-P1001,2416542,Mechanical Equipment,Outdoor unit 80000,Outdoor unit 80000,P1
-P1001,2416568,Mechanical Equipment,Outdoor unit 80000,Outdoor unit 80000,P1
-P1001,2417194,Mechanical Equipment,Electrical cabinet,Electrical cabinet,P1
+﻿מספר חדר,ID,קטגוריה,סוג,משפחה,קומה
+P1087,1505669,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1087,1532177,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1087,1532219,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1087,2249025,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1087,3065067,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1087,3065112,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1087,3065121,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1087,3065132,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1087,3065196,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1025,1518248,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1025,2154960,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1122,1532607,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1122,3066178,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1122,3066210,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1122,3066218,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1008,1521523,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1008,1521525,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1008,1521687,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1008,1533153,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1008,2248704,Electrical Fixtures,Type 1,Frame_Socket,P1
+P1008,2248712,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1008,2256187,Electrical Fixtures,2,BOX D,P1
+P1008,2256703,Electrical Fixtures,2,BOX D,P1
+P1066,1518752,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1066,1518788,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1066,1518796,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1066,1518804,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1066,1518866,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1066,1518867,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1066,1518868,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1066,1533070,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1066,1536049,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1066,2248766,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1020,1439834,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,P1
+P1020,1439835,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,P1
+P1020,1439836,Electrical Equipment,100mmx46mm,M_Circuit Breaker Switchboard,P1
+P1020,1479237,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1020,1482897,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1020,1482898,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1020,1482899,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1020,1482900,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1020,1482901,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1020,1482902,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1020,1482903,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1020,1533004,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1020,2248835,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1020,2248837,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1020,2249268,Electrical Fixtures,1 AC GEN,Frame_Socket,P1
+P1020,2249270,Electrical Fixtures,1 AC GEN,Frame_Socket,P1
+P1020,4368541,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1020,4368614,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1020,12429678,Mechanical Equipment,AW 1200,AW 1200,P1
+P1020,12429679,Mechanical Equipment,AW 1200,AW 1200,P1
+P1016,2355992,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1016,2356051,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1054,1520292,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1054,1520378,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1054,2248803,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1054,2666454,Electrical Equipment,800mmx400mmx2200h,M_Transformer Switchboard,P1
+P1054,4256584,Electrical Equipment,800mmx400mmx2200h,M_Transformer Switchboard,P1
+P1086,1513800,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1086,1532262,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1086,1534693,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1086,1535386,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1086,3065703,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1086,3065732,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1086,3065734,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1046,1454028,Electrical Equipment,60x160x210 UPS,Yani_Circuit breaker_SwitchBoard,P1
+P1046,2248876,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1084,1452880,Electrical Equipment,60x240x210,Yani_Circuit breaker_SwitchBoard,P1
+P1084,1452881,Electrical Equipment,60x240x210  GEN,Yani_Circuit breaker_SwitchBoard,P1
+P1084,2248872,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1084,2248874,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1059,1479303,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1059,1479304,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1059,1532383,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1162,1491118,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1162,2249161,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1007,3091609,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1103,1519644,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1103,1519725,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1103,1519734,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1103,1520206,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1103,1533259,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1103,2248703,Electrical Fixtures,Type 1,Frame_Socket,P1
+P1103,2248713,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1103,2248794,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1103,2248796,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1103,2256450,Electrical Fixtures,2,BOX D,P1
+P1103,2256592,Electrical Fixtures,2,BOX D,P1
+P1113,2151456,Lighting Fixtures,0300x1200mm(1 Lamp) - 220V,M_Ceiling Light - Linear Box,P1
+P1113,2156423,Lighting Fixtures,0300x1200mm(1 Lamp) - 220V,M_Ceiling Light - Linear Box,P1
+P1019,2248697,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1032,1600820,Electrical Equipment,60x240x210  GEN,Yani_Circuit breaker_SwitchBoard,P1
+P1032,4310587,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1060,2250479,Electrical Fixtures,Normal x1,Frame_Socket,P1
+P1006,1522831,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1006,1522838,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1006,1522846,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1006,2154140,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1006,3070987,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1006,3070996,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1006,3071006,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1006,3072894,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1006,3072946,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1006,3072967,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1006,3072977,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1006,3073055,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1006,3073063,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1006,3073071,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1006,3073079,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1006,3138671,Electrical Fixtures,Presence WC LM detector Mov,Detector Presence,P1
+P1006,3138673,Electrical Equipment,6131_38-183-500,E_Wall Junction Box_MEPcontent_ABB_KNX Box_INT-EN_Shared,P1
+P1139,928004,Electrical Equipment,Transformer  2500kVA,Electrical_Transformers_Simens-AG_Geafol_Transformer,P1
+P1139,1521987,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1139,1522048,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1139,1522308,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1139,4070393,Electrical Equipment,60 kVA,M_Uninterruptible Power Supply,P1
+P1139,4070394,Electrical Equipment,UPS60 Panel,M_Uninterruptible Power Supply,P1
+P1139,4232427,Electrical Equipment,60 kVA,M_Uninterruptible Power Supply,P1
+P1139,4310682,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1026,1518264,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1026,1518323,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1026,1518364,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1026,1518365,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1026,1533016,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1026,3071862,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1026,3071960,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1010,1439826,Electrical Equipment,100mmx46mm,M_Circuit Breaker Switchboard,P1
+P1010,1439827,Electrical Equipment,100mmx46mm,M_Circuit Breaker Switchboard,P1
+P1010,1439832,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,P1
+P1010,1439833,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,P1
+P1010,1518923,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1010,1518924,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1010,1518925,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1010,1518927,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1010,1518928,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1010,1532716,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1010,1532996,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1010,2248824,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1010,2248826,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1010,2609943,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1010,2611718,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1010,2611747,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1010,2611791,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1010,1715264,Mechanical Equipment,AW 1200,AW 1200,P1
+P1010,1715265,Mechanical Equipment,AW 1200,AW 1200,P1
+P1154,1484772,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1154,1485906,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1154,1486057,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1154,1525075,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1154,1534184,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1154,1906178,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1154,2248639,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1118,2250915,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1118,2250944,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1092,1566509,Electrical Equipment,80x50cm,M_Transformer Switchboard,P1
+P1092,2248658,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1092,4321619,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1116,920249,Electrical Equipment,945x80cm,M_Transformer Switchboard,P1
+P1116,920463,Electrical Equipment,670x80cm,M_Transformer Switchboard,P1
+P1116,920535,Electrical Equipment,902x80cm,M_Transformer Switchboard,P1
+P1116,920699,Electrical Equipment,645x80cm,M_Transformer Switchboard,P1
+P1116,920700,Electrical Equipment,680x80cm,M_Transformer Switchboard,P1
+P1116,920701,Electrical Equipment,322x80cm,M_Transformer Switchboard,P1
+P1116,920823,Electrical Equipment,1000x80cm,M_Transformer Switchboard,P1
+P1116,920999,Electrical Equipment,500x100cm,M_Transformer Switchboard,P1
+P1116,921000,Electrical Equipment,620x100cm,M_Transformer Switchboard,P1
+P1116,933516,Electrical Equipment,500 kVA,M_Uninterruptible Power Supply,P1
+P1116,934254,Electrical Equipment,500 kVA,M_Uninterruptible Power Supply,P1
+P1116,952717,Electrical Equipment,120x80cm,M_Transformer Switchboard,P1
+P1116,952844,Electrical Equipment,120x80cm,M_Transformer Switchboard,P1
+P1116,952853,Electrical Equipment,120x80cm,M_Transformer Switchboard,P1
+P1116,952862,Electrical Equipment,120x80cm,M_Transformer Switchboard,P1
+P1116,952876,Electrical Equipment,120x80cm,M_Transformer Switchboard,P1
+P1116,952883,Electrical Equipment,120x80cm,M_Transformer Switchboard,P1
+P1116,952924,Electrical Equipment,500x100cm,M_Transformer Switchboard,P1
+P1116,953447,Electrical Equipment,490x100cm,M_Transformer Switchboard,P1
+P1116,984846,Electrical Equipment,UPS Panel,M_Uninterruptible Power Supply,P1
+P1116,1009740,Electrical Equipment,100x80cm,M_Transformer Switchboard,P1
+P1116,1009794,Electrical Equipment,100x80cm,M_Transformer Switchboard,P1
+P1116,1010084,Electrical Equipment,100x80cm,M_Transformer Switchboard,P1
+P1116,1010350,Electrical Equipment,100x80cm,M_Transformer Switchboard,P1
+P1116,1408810,Electrical Equipment,120x80cm,M_Transformer Switchboard,P1
+P1116,1483221,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1116,1483400,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1116,1483435,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1116,1483445,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1116,1483453,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1116,1483534,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1116,1483745,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1116,1483754,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1116,1483766,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1116,1483774,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1116,1483782,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1116,1483795,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1116,1483805,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1116,1483813,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1116,1483825,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1116,1483835,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1116,1483847,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1116,1483859,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1116,1483870,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1116,1483880,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1116,1483890,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1116,1483932,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1116,1483975,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1116,1483978,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1116,1483981,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1116,1483984,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1116,1483987,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1116,1483990,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1116,1484012,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1116,1484014,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1116,1484015,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1116,1484016,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1116,1484017,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1116,1484020,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1116,1484022,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1116,1484024,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1116,1484026,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1116,1484028,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1116,1484030,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1116,1484032,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1116,1484042,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1116,1484043,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1116,1484044,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1116,1484045,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1116,1484046,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1116,1484048,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1116,1484050,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1116,1484052,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1116,1484054,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1116,1484056,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1116,1484058,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1116,1484060,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1116,1524688,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1116,1524745,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1116,1525252,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1116,1525335,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1116,1525705,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1116,1525768,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1116,1525769,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1116,1525772,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1116,1525784,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1116,1525785,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1116,1525786,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1116,1525804,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1116,1525805,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1116,1525806,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1116,1525842,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1116,1525907,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1116,1525931,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1116,1525933,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1116,1534413,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1116,1571151,Electrical Equipment,100x80cm,M_Transformer Switchboard,P1
+P1116,1571152,Electrical Equipment,120x80cm,M_Transformer Switchboard,P1
+P1116,2248610,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1116,2248612,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1116,2248614,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1116,2248616,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1116,2248618,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1116,2248620,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1116,2248622,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1116,2248839,Electrical Fixtures,קופסת תקשורת,SOCKETS1,P1
+P1116,2248842,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1116,2248844,Electrical Fixtures,קופסת תקשורת,SOCKETS1,P1
+P1116,2248845,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1116,2248846,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1116,2248847,Electrical Fixtures,קופסת תקשורת,SOCKETS1,P1
+P1116,2248849,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1116,2248850,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1116,2248852,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1116,2248854,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1116,2248860,Electrical Fixtures,קופסת תקשורת,SOCKETS1,P1
+P1116,2248861,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1116,2248863,Electrical Fixtures,קופסת תקשורת,SOCKETS1,P1
+P1116,2248864,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1116,2248866,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1116,2248868,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1116,2248870,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1116,2248882,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1116,2249059,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1116,3090670,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1116,4321440,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1116,4321459,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1116,4321474,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1116,4321487,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1116,4321506,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1116,4321522,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1116,4328563,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1116,4328771,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1152,927758,Electrical Equipment,Transformer  2500kVA,Electrical_Transformers_Simens-AG_Geafol_Transformer,P1
+P1152,1483075,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1152,1483076,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1152,1483084,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1072,1520648,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1072,1533569,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1072,1533612,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1072,1533620,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1072,1535759,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1072,3066226,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1072,3066236,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1072,3066244,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1072,3066252,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1072,3066260,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1072,3066270,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1072,3066278,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1072,3066356,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1072,3066387,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1072,3073283,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1022,1527334,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1022,1527370,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1022,1536288,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1022,2250087,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1022,3057529,Lighting Fixtures,700 24h,פס לד שקוע,P1
+P1022,3058423,Lighting Fixtures,151 24h,פס לד שקוע,P1
+P1022,3058433,Lighting Fixtures,151 24h,פס לד שקוע,P1
+P1022,3058439,Lighting Fixtures,151 24h,פס לד שקוע,P1
+P1022,3058447,Lighting Fixtures,151 24h,פס לד שקוע,P1
+P1022,3058455,Lighting Fixtures,151 24h,פס לד שקוע,P1
+P1022,3058465,Lighting Fixtures,151 24h,פס לד שקוע,P1
+P1004,2349119,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1004,2349143,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1004,2349159,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1147,1484649,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1147,1484740,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1077,1521133,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1077,2163461,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1077,2166551,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1077,2166885,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1077,2166930,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1077,2166967,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1077,2167003,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1077,2167011,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1077,2249252,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1077,2249262,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1133,1479238,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1133,1482959,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1133,1486076,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1133,1486078,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1133,1486080,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1133,1486082,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1133,1486084,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1133,1486086,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1133,1486088,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1133,1496275,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1133,1496420,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1133,1496429,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1133,1496515,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1133,1496695,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1133,1496706,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1133,1496714,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1133,1496902,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1133,1497042,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1133,1497055,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1133,1497065,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1133,1497112,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1133,1497273,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1133,1497305,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1133,1497314,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1133,1497322,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1133,1497330,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1133,1525992,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1133,1526003,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1133,1526103,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1133,2130994,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1133,2131053,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1133,2131142,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1133,2248640,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1133,2248642,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1133,2248856,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1133,2249075,Electrical Fixtures,1 AC,Frame_Socket,P1
+P1133,2249077,Electrical Fixtures,1 AC,Frame_Socket,P1
+P1133,2249079,Electrical Fixtures,1 AC,Frame_Socket,P1
+P1133,4265212,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1133,2421298,Mechanical Equipment,AWV 1500,AWV 1500,P1
+P1133,5817584,Mechanical Equipment,AWV 1500,AWV 1500,P1
+P1133,5817635,Mechanical Equipment,AWV 1500,AWV 1500,P1
+P1011,2358039,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1011,2358093,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1011,2358167,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1138,1535037,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1138,2129723,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1138,3939372,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1138,3939392,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1160,1495982,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1160,1495985,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1160,1495988,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1160,1495991,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1160,1495994,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1160,1495997,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1160,1496000,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1160,1497509,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1160,1497552,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1160,1497568,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1160,1497570,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1160,1497572,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1160,1497640,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1160,1497647,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1160,1498516,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1160,1498560,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1160,1498568,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1160,1498576,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1160,1498768,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1160,1498771,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1160,1501144,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1160,1501146,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1160,1501789,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1160,1501819,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1160,1501826,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1160,1530071,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1160,1530097,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1160,1530100,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1160,1530361,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1160,1530369,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1160,1531088,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1160,1531099,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1160,1531360,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1160,1531482,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1160,1531490,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1160,1531530,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1160,1531558,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1160,1535406,Lighting Fixtures,Exit Parking,EXIT Base_Ceiling_Wall_R18,P1
+P1160,1535436,Lighting Fixtures,Exit Parking,EXIT Base_Ceiling_Wall_R18,P1
+P1160,2135559,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1160,2164488,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1160,2248650,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1160,2248651,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1160,3710208,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1160,3710225,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1160,4074142,Electrical Equipment,490x80cm,M_Transformer Switchboard,P1
+P1160,4074227,Electrical Equipment,60x240x210,Yani_Circuit breaker_SwitchBoard,P1
+P1160,4197885,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1160,4197942,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1160,4197962,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1160,4245776,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1160,4310712,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1160,4310766,Electrical Fixtures,קופסת תקשורת,SOCKETS1,P1
+P1160,2425528,Mechanical Equipment,Smoke Exhaust Fan,Axial_Flow_Fan_-_300,P1
+P1160,5496070,Mechanical Equipment,278x490,M_Mechanical Equipment_Inert Base,P1
+P1160,5496075,Mechanical Equipment,AHU 15000 CFM,AHU 15000 CFM,P1
+P1160,9623062,Mechanical Equipment,Smoke Exhaust Fan,Axial_Flow_Fan_-_560,P1
+P1160,12449483,Mechanical Equipment,Smoke Exhaust Fan,Shevach C-900,P1
+P1132,2151992,Lighting Fixtures,0300x1200mm(1 Lamp) - 220V,M_Ceiling Light - Linear Box,P1
+P1132,2151993,Lighting Fixtures,0300x1200mm(1 Lamp) - 220V,M_Ceiling Light - Linear Box,P1
+P1098,1488111,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1098,1489344,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1098,1489345,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1098,1489348,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1098,1489350,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1098,1489351,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1098,1498660,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1098,1498738,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1098,1498762,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1098,1498765,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1098,1498815,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1098,1498866,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1098,1530322,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1098,1530345,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1098,1530420,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1098,1530464,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1098,1530486,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1098,1530676,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1098,1530737,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1098,1535083,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1098,1535149,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1098,2248983,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1098,2248987,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1098,2249081,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1098,2249260,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1142,921092,Electrical Equipment,490x80cm,M_Transformer Switchboard,P1
+P1142,1497643,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1142,1497645,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1142,1497646,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1142,1531546,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1142,4310384,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1142,4321134,Electrical Fixtures,קופסת תקשורת,SOCKETS1,P1
+P1142,7447495,Mechanical Equipment,Electrical cabinet,Electrical cabinet,P1
+P1142,7447510,Mechanical Equipment,Electrical cabinet,Electrical cabinet,P1
+P1142,7447517,Mechanical Equipment,Electrical cabinet,Electrical cabinet,P1
+P1142,7550430,Mechanical Equipment,Electrical cabinet,Electrical cabinet,P1
+P1082,1485736,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1082,1485804,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1082,2248624,Electrical Fixtures,Type 1,Frame_Socket,P1
+P1082,2248626,Electrical Fixtures,Type 1,Frame_Socket,P1
+P1082,1424665,Mechanical Equipment,AWSQ 800,AWSQ 800,P1
+P1107,3069226,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1107,3069392,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1107,3069403,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1107,3069413,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1107,3069431,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1107,3069441,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1107,3069449,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1107,3069465,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1107,3069475,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1107,3069485,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1107,3069602,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1107,3069730,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1107,3170000,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1012,2248773,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1034,1519011,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1034,1519012,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1034,1533510,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1034,1535683,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1034,2164815,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1034,3066118,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1034,3066129,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1056,2250450,Electrical Fixtures,Normal x1,Frame_Socket,P1
+P1038,2144006,Electrical Equipment,60x240x210,Yani_Circuit breaker_SwitchBoard,P1
+P1038,2248880,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1018,2248695,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1005,2154673,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1005,2154682,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1005,2248781,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1005,2248784,Electrical Fixtures,TV,BOX D,P1
+P1005,2248787,Electrical Fixtures,Gen,Frame_Socket,P1
+P1005,3066634,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1005,3066658,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1005,3066659,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1005,3066660,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1005,3066661,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1005,3066669,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1005,3066670,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1005,3066672,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1005,3066691,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1005,3066701,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1005,3066702,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1148,984525,Electrical Equipment,806x110cm,M_Transformer Switchboard,P1
+P1148,1484414,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1148,1484501,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1148,1484510,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1148,1484518,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1148,2248576,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1148,2248884,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1148,2248886,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1148,2248943,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1080,1511758,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1080,1511829,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1080,1511877,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1080,1511878,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1080,2248776,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1080,2248778,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1080,2248780,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1149,1484548,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1149,1484550,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1149,1484551,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1149,1484552,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1149,1484573,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1149,1524878,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1149,1525063,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1149,1534337,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1149,2248947,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1149,4264875,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1081,931975,Electrical Equipment,KD2500-UE,Generator_Diesel-SDMO-Kohler-KD1500_1800_kW,P1
+P1081,1029917,Electrical Equipment,KD2500-UE,Generator_Diesel-SDMO-Kohler-KD1500_1800_kW,P1
+P1081,1501912,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1081,1502066,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1081,1502270,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1081,1502272,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1081,1502306,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1081,1502322,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1081,1502343,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1081,1502368,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1081,1502370,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1081,1502372,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1081,1531718,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1081,1531804,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1081,1531812,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1081,1531828,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1081,1904414,Electrical Equipment,100x80cm,M_Transformer Switchboard,P1
+P1081,2162587,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1081,2248676,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1081,2250616,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1081,2678874,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1081,4321159,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1035,1600821,Electrical Equipment,60x240x210  GEN,Yani_Circuit breaker_SwitchBoard,P1
+P1035,4310638,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1058,932433,Electrical Equipment,KD2500-UE,Generator_Diesel-SDMO-Kohler-KD1500_1800_kW,P1
+P1058,1502381,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1058,1502383,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1058,1502385,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1058,1502394,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1058,1502396,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1058,1502398,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1058,1531858,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1058,1531881,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1058,1531891,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1058,2248674,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1079,1489457,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1079,1489458,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1079,1489459,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1079,1489461,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1079,1489462,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1079,1489463,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1079,1489464,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1079,1489465,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1079,1489466,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1079,1489467,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1079,1489468,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1079,1489469,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1079,1529121,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1079,1529234,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1079,1529245,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1079,1529254,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1079,1536069,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1079,2249125,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1079,2249126,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1134,1532272,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1134,1535378,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1134,3065761,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1134,3065797,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1134,3065818,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1052,1517887,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1052,1517998,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1052,2664908,Electrical Equipment,800mmx400mmx2200h,M_Transformer Switchboard,P1
+P1052,2664909,Electrical Equipment,800mmx400mmx2200h,M_Transformer Switchboard,P1
+P1052,2665216,Electrical Equipment,800mmx400mmx2200h,M_Transformer Switchboard,P1
+P1052,2665742,Electrical Equipment,800mmx400mmx2200h,M_Transformer Switchboard,P1
+P1052,4263176,Electrical Equipment,800mmx400mmx2200h,M_Transformer Switchboard,P1
+P1052,4263200,Electrical Equipment,800mmx400mmx2200h,M_Transformer Switchboard,P1
+P1130,2152263,Lighting Fixtures,0300x1200mm(1 Lamp) - 220V,M_Ceiling Light - Linear Box,P1
+P1130,2156078,Lighting Fixtures,0300x1200mm(1 Lamp) - 220V 24h,M_Ceiling Light - Linear Box,P1
+P1130,2156079,Lighting Fixtures,0300x1200mm(1 Lamp) - 220V,M_Ceiling Light - Linear Box,P1
+P1130,2156136,Lighting Fixtures,0300x1200mm(1 Lamp) - 220V,M_Ceiling Light - Linear Box,P1
+P1130,3053058,Lighting Fixtures,0300x1200mm(1 Lamp) - 220V,M_Ceiling Light - Linear Box,P1
+P1153,927928,Electrical Equipment,Transformer  2500kVA,Electrical_Transformers_Simens-AG_Geafol_Transformer,P1
+P1153,1483083,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1153,1483131,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1153,1483158,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1112,2151288,Lighting Fixtures,0300x1200mm(1 Lamp) - 220V,M_Ceiling Light - Linear Box,P1
+P1114,2151393,Lighting Fixtures,0300x1200mm(1 Lamp) - 220V,M_Ceiling Light - Linear Box,P1
+P1114,2151401,Lighting Fixtures,0300x1200mm(1 Lamp) - 220V,M_Ceiling Light - Linear Box,P1
+P1057,1489376,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1057,1489378,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1057,1489380,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1057,1489382,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1057,1491047,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1057,1491355,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1057,1491377,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1057,1495673,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1057,1495721,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1057,1497886,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1057,1497910,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1057,1497913,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1057,1498007,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1057,1498036,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1057,1498039,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1057,1498100,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1057,1498166,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1057,1498183,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1057,1498186,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1057,1498189,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1057,1498192,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1057,1498195,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1057,1498204,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1057,1498206,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1057,1498208,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1057,1498210,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1057,1498212,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1057,1498346,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1057,1498380,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1057,1528523,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1057,1528526,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1057,1529463,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1057,1530124,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1057,1530126,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1057,1530226,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1057,1530237,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1057,1530245,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1057,1530274,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1057,1530284,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1057,1530292,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1057,1535673,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1057,1535868,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1057,2248645,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1057,2248646,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1057,2248647,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1057,2248648,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1057,2248990,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1015,1439828,Electrical Equipment,100mmx46mm,M_Circuit Breaker Switchboard,P1
+P1015,1439829,Electrical Equipment,100mmx46mm,M_Circuit Breaker Switchboard,P1
+P1015,1439830,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,P1
+P1015,1439831,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,P1
+P1015,1511908,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1015,1512060,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1015,1512061,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1015,1512071,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1015,1512072,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1015,1532769,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1015,1532817,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1015,1728095,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1015,2248828,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1015,2248830,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1015,2612732,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1015,2612790,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1015,2612823,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1015,1714989,Mechanical Equipment,AW 1200,AW 1200,P1
+P1015,1714991,Mechanical Equipment,AW 1200,AW 1200,P1
+P1093,1532046,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1093,1532121,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1093,1532165,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1093,1532229,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1093,1534640,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1093,1535329,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1093,2163800,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1093,2248653,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1093,2248654,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1093,2248655,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1093,3065505,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1093,3065608,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1093,3065617,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1093,3065625,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1093,3065633,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1093,3065643,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1093,3065651,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1093,3065659,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1093,3065667,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1093,3065675,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1041,1517104,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1041,1517112,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1041,1533500,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1041,1535981,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1041,1536131,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1041,3065859,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1041,3065868,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1053,1518457,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1053,1518532,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1053,2248774,Electrical Fixtures,Normal x2 WP,Frame_Socket,P1
+P1129,2151095,Lighting Fixtures,0300x1200mm(1 Lamp) - 220V,M_Ceiling Light - Linear Box,P1
+P1129,2151154,Lighting Fixtures,0300x1200mm(1 Lamp) - 220V,M_Ceiling Light - Linear Box,P1
+P1003,1486915,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1003,1486916,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1003,1486917,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1003,1486935,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1003,1486936,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1003,1486937,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1003,1487096,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1003,1487097,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1003,1487098,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1003,1487108,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1003,1487109,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1003,1487110,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1003,1487194,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1003,1487195,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1003,1487196,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1003,1487206,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1003,1487207,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1003,1487208,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1003,1487218,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1003,1487219,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1003,1487220,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1003,1487230,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1003,1487231,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1003,1487232,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1003,1527073,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1003,1527074,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1003,1527135,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1003,1527136,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1003,1527208,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1003,1527209,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1003,1527271,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1003,1527272,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1003,1575649,Electrical Equipment,80mmx40mm,M_Circuit Breaker Switchboard,P1
+P1003,2164717,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1003,2248767,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1003,2248770,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1003,2248831,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1141,928017,Electrical Equipment,Transformer  2500kVA,Electrical_Transformers_Simens-AG_Geafol_Transformer,P1
+P1141,1522097,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1141,1522261,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1141,1522315,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1009,1519159,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1009,1519543,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1009,1519552,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1009,1519611,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1009,2154148,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1009,3070703,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1009,3070715,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1009,3070725,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1009,3070776,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1009,3070784,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1009,3070792,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1009,3073212,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1009,3073220,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1009,3073230,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1009,3073238,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1009,3138804,Electrical Fixtures,Presence WC LM detector Mov,Detector Presence,P1
+P1009,3138806,Electrical Equipment,6131_38-183-500,E_Wall Junction Box_MEPcontent_ABB_KNX Box_INT-EN_Shared,P1
+P1027,1521272,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1027,3070614,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1063,1513435,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1063,1513492,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1063,2228553,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1063,2248689,Electrical Fixtures,Normal x1 WP,Frame_Socket,P1
+P1063,2251044,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1063,3071046,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1063,3071134,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1063,3139099,Electrical Fixtures,Presence WC LM detector Mov,Detector Presence,P1
+P1063,3139101,Electrical Equipment,6131_38-183-500,E_Wall Junction Box_MEPcontent_ABB_KNX Box_INT-EN_Shared,P1
+P1067,1533340,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1067,1533447,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1067,1536058,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1067,1575947,Electrical Equipment,80mmx40mm,M_Circuit Breaker Switchboard,P1
+P1067,2248765,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1067,2248833,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1067,3056902,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1067,3056918,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1067,3056944,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1067,3056946,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1067,3056955,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1067,3056957,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1067,3056966,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1067,3056968,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1067,3056979,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1067,3056981,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1140,927952,Electrical Equipment,Transformer  2500kVA,Electrical_Transformers_Simens-AG_Geafol_Transformer,P1
+P1140,1521890,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1140,1521951,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1140,1905911,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1028,1523412,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1028,1523489,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1028,1533237,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1028,2122065,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1028,3091448,Lighting Fixtures,Type 24h,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1028,3091474,Lighting Fixtures,Type 24h,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1151,927739,Electrical Equipment,Transformer  2500kVA,Electrical_Transformers_Simens-AG_Geafol_Transformer,P1
+P1151,1483065,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1151,1483067,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1151,1906128,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1013,1518083,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1013,1518091,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1013,2248715,Electrical Fixtures,Type 1,Frame_Socket,P1
+P1013,2248717,Electrical Fixtures,Type 1,Frame_Socket,P1
+P1013,2248719,Electrical Fixtures,Type 1,Frame_Socket,P1
+P1013,2248721,Electrical Fixtures,Type 1,Frame_Socket,P1
+P1013,2248723,Electrical Fixtures,Type 1,Frame_Socket,P1
+P1102,1535924,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1102,3065914,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1102,3065945,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1102,3065953,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1143,1513316,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1143,1513383,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1051,2250742,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1051,2250764,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1051,2250774,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1051,2257206,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1150,927440,Electrical Equipment,Transformer  2500kVA,Electrical_Transformers_Simens-AG_Geafol_Transformer,P1
+P1150,1482960,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1150,1483032,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1150,1906148,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1136,2162914,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1106,3069779,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1106,3069781,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1106,3069816,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1106,3069826,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1106,3069834,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1106,3069856,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1106,3069992,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1106,3070083,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1106,3070174,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1106,3070191,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1106,3169987,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1106,3169989,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1106,3170007,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1101,1482920,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1101,1482921,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1101,2164532,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1101,2248699,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1002,1486305,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486382,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486402,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1002,1486404,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486406,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486408,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486410,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486434,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486436,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486438,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486440,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486442,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486444,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1002,1486493,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486494,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486495,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1002,1486496,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486497,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486498,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486557,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486565,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486598,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486599,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486600,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486601,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486602,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486603,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486604,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486607,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486608,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1002,1486622,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486623,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1002,1486624,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486625,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486626,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486627,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486628,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486629,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486630,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486767,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486768,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1002,1486769,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486770,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486771,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486772,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486773,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486774,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486775,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486787,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486788,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486789,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486790,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486791,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486792,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486793,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486794,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486795,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1002,1486805,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486806,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486807,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1002,1486808,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486809,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486810,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486811,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486812,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486813,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486823,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486824,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486825,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486826,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486827,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486828,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486829,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486830,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486831,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1002,1486841,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486842,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486843,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1002,1486844,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486845,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486846,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486847,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486848,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486849,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486859,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486860,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486861,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486862,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486863,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486864,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486865,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486866,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1002,1486877,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486878,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1002,1486879,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486880,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486881,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486882,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486883,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486884,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486898,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486899,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486900,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486901,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486902,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1486904,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1002,1486905,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1490707,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1490739,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,1526184,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1002,1526285,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1002,1526428,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1002,1526429,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1002,1526430,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1002,1526503,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1002,1526504,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1002,1526505,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1002,1526525,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1002,1526526,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1002,1526527,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1002,1526610,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1002,1526658,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1002,1526659,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1002,1526660,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1002,1526873,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1002,1526874,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1002,1526875,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1002,1526876,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1002,1526991,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1002,1526992,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1002,1526993,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1002,1534487,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1002,2163717,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
 P1002,2248628,Electrical Fixtures,W,M_Junction Boxes - W,P1
 P1002,2248630,Electrical Fixtures,W,M_Junction Boxes - W,P1
 P1002,2248632,Electrical Fixtures,W,M_Junction Boxes - W,P1
 P1002,2248634,Electrical Fixtures,W,M_Junction Boxes - W,P1
 P1002,2248636,Electrical Fixtures,W,M_Junction Boxes - W,P1
 P1002,2248732,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1002,3051395,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,3051396,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,3052055,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1002,3703201,Lighting Fixtures,42W 4000K,סי לד 6600,P1
 P1002,1002382,Mechanical Equipment,Pump NSCS  150-400-900W,M_Mechanical Equipment_Pump NSCS  150-400-900W,P1
 P1002,1002385,Mechanical Equipment,Pump NSCF 200-500-1320W,M_Mechanical Equipment_Pump NSCF 200-500-1320W,P1
 P1002,1002390,Mechanical Equipment,746x264,M_Mechanical Equipment_Inert Base,P1
@@ -55,212 +1052,6 @@ P1002,7549607,Mechanical Equipment,Electrical cabinet,Electrical cabinet,P1
 P1002,7549631,Mechanical Equipment,Electrical cabinet,Electrical cabinet,P1
 P1002,9887111,Mechanical Equipment,Pump 200-150-400,M_Mechanical Equipment_Pump Etanorm_syt_3e_200_150_400-1950gpm,P1
 P1002,9887112,Mechanical Equipment,Pump 200-150-400,M_Mechanical Equipment_Pump Etanorm_syt_3e_200_150_400-1950gpm,P1
-P1003,1575649,Electrical Equipment,80mmx40mm,M_Circuit Breaker Switchboard,P1
-P1003,2164717,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
-P1003,2248767,Electrical Fixtures,W,M_Junction Boxes - W,P1
-P1003,2248770,Electrical Fixtures,W,M_Junction Boxes - W,P1
-P1003,2248831,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
-P1004,2349119,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
-P1004,2349143,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
-P1005,2248781,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
-P1005,2248784,Electrical Fixtures,TV,BOX D,P1
-P1005,2248787,Electrical Fixtures,Gen,Frame_Socket,P1
-P1006,3138671,Electrical Fixtures,Presence WC LM detector Mov,Detector Presence,P1
-P1006,3138673,Electrical Equipment,6131_38-183-500,E_Wall Junction Box_MEPcontent_ABB_KNX Box_INT-EN_Shared,P1
-P1007,3091609,Lighting Fixtures,42W 4000K,סי לד 6600,P1
-P1008,2248704,Electrical Fixtures,Type 1,Frame_Socket,P1
-P1008,2248712,Electrical Fixtures,Normal x2,Frame_Socket,P1
-P1008,2256187,Electrical Fixtures,2,BOX D,P1
-P1008,2256703,Electrical Fixtures,2,BOX D,P1
-P1009,3138804,Electrical Fixtures,Presence WC LM detector Mov,Detector Presence,P1
-P1009,3138806,Electrical Equipment,6131_38-183-500,E_Wall Junction Box_MEPcontent_ABB_KNX Box_INT-EN_Shared,P1
-P1010,1439826,Electrical Equipment,100mmx46mm,M_Circuit Breaker Switchboard,P1
-P1010,1439827,Electrical Equipment,100mmx46mm,M_Circuit Breaker Switchboard,P1
-P1010,1439832,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,P1
-P1010,1439833,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,P1
-P1010,2248824,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
-P1010,2248826,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
-P1010,1715264,Mechanical Equipment,AW 1200,AW 1200,P1
-P1010,1715265,Mechanical Equipment,AW 1200,AW 1200,P1
-P1011,2358167,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
-P1012,2248773,Electrical Fixtures,Normal x2,Frame_Socket,P1
-P1013,2248715,Electrical Fixtures,Type 1,Frame_Socket,P1
-P1013,2248717,Electrical Fixtures,Type 1,Frame_Socket,P1
-P1013,2248719,Electrical Fixtures,Type 1,Frame_Socket,P1
-P1013,2248721,Electrical Fixtures,Type 1,Frame_Socket,P1
-P1013,2248723,Electrical Fixtures,Type 1,Frame_Socket,P1
-P1015,1439828,Electrical Equipment,100mmx46mm,M_Circuit Breaker Switchboard,P1
-P1015,1439829,Electrical Equipment,100mmx46mm,M_Circuit Breaker Switchboard,P1
-P1015,1439830,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,P1
-P1015,1439831,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,P1
-P1015,2248828,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
-P1015,2248830,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
-P1015,1714989,Mechanical Equipment,AW 1200,AW 1200,P1
-P1015,1714991,Mechanical Equipment,AW 1200,AW 1200,P1
-P1016,2355992,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
-P1018,2248695,Electrical Fixtures,Normal x2,Frame_Socket,P1
-P1019,2248697,Electrical Fixtures,Normal x2,Frame_Socket,P1
-P1020,1439834,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,P1
-P1020,1439835,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,P1
-P1020,1439836,Electrical Equipment,100mmx46mm,M_Circuit Breaker Switchboard,P1
-P1020,2248835,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
-P1020,2248837,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
-P1020,2249268,Electrical Fixtures,1 AC GEN,Frame_Socket,P1
-P1020,2249270,Electrical Fixtures,1 AC GEN,Frame_Socket,P1
-P1020,4368541,Lighting Fixtures,42W 4000K,סי לד 6600,P1
-P1020,12429678,Mechanical Equipment,AW 1200,AW 1200,P1
-P1020,12429679,Mechanical Equipment,AW 1200,AW 1200,P1
-P1022,1527334,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
-P1022,1527370,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
-P1022,1536288,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
-P1022,2250087,Electrical Fixtures,Normal x2,Frame_Socket,P1
-P1022,3057529,Lighting Fixtures,700 24h,פס לד שקוע,P1
-P1022,3058423,Lighting Fixtures,151 24h,פס לד שקוע,P1
-P1022,3058433,Lighting Fixtures,151 24h,פס לד שקוע,P1
-P1022,3058439,Lighting Fixtures,151 24h,פס לד שקוע,P1
-P1022,3058447,Lighting Fixtures,151 24h,פס לד שקוע,P1
-P1022,3058455,Lighting Fixtures,151 24h,פס לד שקוע,P1
-P1022,3058465,Lighting Fixtures,151 24h,פס לד שקוע,P1
-P1032,1600820,Electrical Equipment,60x240x210  GEN,Yani_Circuit breaker_SwitchBoard,P1
-P1032,4310587,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
-P1034,1519011,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
-P1034,1519012,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
-P1034,1533510,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
-P1034,1535683,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
-P1034,2164815,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
-P1034,3066118,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
-P1034,3066129,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
-P1035,1600821,Electrical Equipment,60x240x210  GEN,Yani_Circuit breaker_SwitchBoard,P1
-P1035,4310638,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
-P1038,2144006,Electrical Equipment,60x240x210,Yani_Circuit breaker_SwitchBoard,P1
-P1038,2248880,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
-P1041,1517104,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
-P1041,1535981,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
-P1041,1536131,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
-P1041,3065859,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
-P1041,3065868,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
-P1046,1454028,Electrical Equipment,60x160x210 UPS,Yani_Circuit breaker_SwitchBoard,P1
-P1046,2248876,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
-P1051,2250742,Electrical Fixtures,W,M_Junction Boxes - W,P1
-P1051,2250764,Electrical Fixtures,W,M_Junction Boxes - W,P1
-P1051,2250774,Electrical Fixtures,W,M_Junction Boxes - W,P1
-P1051,2257206,Electrical Fixtures,W,M_Junction Boxes - W,P1
-P1052,2664908,Electrical Equipment,800mmx400mmx2200h,M_Transformer Switchboard,P1
-P1052,2664909,Electrical Equipment,800mmx400mmx2200h,M_Transformer Switchboard,P1
-P1052,2665216,Electrical Equipment,800mmx400mmx2200h,M_Transformer Switchboard,P1
-P1052,2665742,Electrical Equipment,800mmx400mmx2200h,M_Transformer Switchboard,P1
-P1052,4263176,Electrical Equipment,800mmx400mmx2200h,M_Transformer Switchboard,P1
-P1052,4263200,Electrical Equipment,800mmx400mmx2200h,M_Transformer Switchboard,P1
-P1053,2248774,Electrical Fixtures,Normal x2 WP,Frame_Socket,P1
-P1054,2248803,Electrical Fixtures,Normal x2,Frame_Socket,P1
-P1054,2666454,Electrical Equipment,800mmx400mmx2200h,M_Transformer Switchboard,P1
-P1054,4256584,Electrical Equipment,800mmx400mmx2200h,M_Transformer Switchboard,P1
-P1056,2250450,Electrical Fixtures,Normal x1,Frame_Socket,P1
-P1057,1535868,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
-P1057,2248645,Electrical Fixtures,Normal x2,Frame_Socket,P1
-P1057,2248646,Electrical Fixtures,Normal x2,Frame_Socket,P1
-P1057,2248647,Electrical Fixtures,Normal x2,Frame_Socket,P1
-P1057,2248648,Electrical Fixtures,Normal x2,Frame_Socket,P1
-P1057,2248990,Electrical Fixtures,Normal x2,Frame_Socket,P1
-P1058,932433,Electrical Equipment,KD2500-UE,Generator_Diesel-SDMO-Kohler-KD1500_1800_kW,P1
-P1058,2248674,Electrical Fixtures,W,M_Junction Boxes - W,P1
-P1059,1479303,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
-P1059,1479304,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
-P1059,1532383,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
-P1060,2250479,Electrical Fixtures,Normal x1,Frame_Socket,P1
-P1063,2248689,Electrical Fixtures,Normal x1 WP,Frame_Socket,P1
-P1063,3139099,Electrical Fixtures,Presence WC LM detector Mov,Detector Presence,P1
-P1063,3139101,Electrical Equipment,6131_38-183-500,E_Wall Junction Box_MEPcontent_ABB_KNX Box_INT-EN_Shared,P1
-P1064,2248692,Electrical Fixtures,Normal x2,Frame_Socket,P1
-P1065,2249207,Electrical Fixtures,Normal x2,Frame_Socket,P1
-P1066,1536049,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
-P1066,2248766,Electrical Fixtures,W,M_Junction Boxes - W,P1
-P1067,1536058,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
-P1067,1575947,Electrical Equipment,80mmx40mm,M_Circuit Breaker Switchboard,P1
-P1067,2248765,Electrical Fixtures,W,M_Junction Boxes - W,P1
-P1067,2248833,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
-P1072,1520648,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
-P1072,1533569,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
-P1072,1533612,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
-P1072,1533620,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
-P1072,1535759,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
-P1072,3066226,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
-P1072,3066236,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
-P1072,3066244,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
-P1072,3066252,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
-P1072,3066260,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
-P1072,3066270,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
-P1072,3066278,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
-P1072,3066356,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
-P1072,3066387,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
-P1072,3073283,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
-P1077,2249252,Electrical Fixtures,W,M_Junction Boxes - W,P1
-P1077,2249262,Electrical Fixtures,W,M_Junction Boxes - W,P1
-P1079,1536069,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
-P1079,2249125,Electrical Fixtures,Normal x2,Frame_Socket,P1
-P1079,2249126,Electrical Fixtures,Normal x2,Frame_Socket,P1
-P1080,2248776,Electrical Fixtures,Normal x2,Frame_Socket,P1
-P1080,2248778,Electrical Fixtures,Normal x2,Frame_Socket,P1
-P1080,2248780,Electrical Fixtures,Normal x2,Frame_Socket,P1
-P1081,931975,Electrical Equipment,KD2500-UE,Generator_Diesel-SDMO-Kohler-KD1500_1800_kW,P1
-P1081,1029917,Electrical Equipment,KD2500-UE,Generator_Diesel-SDMO-Kohler-KD1500_1800_kW,P1
-P1081,1904414,Electrical Equipment,100x80cm,M_Transformer Switchboard,P1
-P1081,2248676,Electrical Fixtures,W,M_Junction Boxes - W,P1
-P1081,2250616,Electrical Fixtures,W,M_Junction Boxes - W,P1
-P1081,4321159,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
-P1082,2248624,Electrical Fixtures,Type 1,Frame_Socket,P1
-P1082,2248626,Electrical Fixtures,Type 1,Frame_Socket,P1
-P1082,1424665,Mechanical Equipment,AWSQ 800,AWSQ 800,P1
-P1084,1452880,Electrical Equipment,60x240x210,Yani_Circuit breaker_SwitchBoard,P1
-P1084,1452881,Electrical Equipment,60x240x210  GEN,Yani_Circuit breaker_SwitchBoard,P1
-P1084,2248872,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
-P1084,2248874,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
-P1086,1513800,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
-P1086,1532262,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
-P1086,1534693,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
-P1086,1535386,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
-P1086,3065703,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
-P1086,3065732,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
-P1086,3065734,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
-P1087,1505669,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
-P1087,2249025,Electrical Fixtures,Normal x2,Frame_Socket,P1
-P1087,3065067,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
-P1087,3065112,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
-P1087,3065121,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
-P1087,3065132,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
-P1087,3065196,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
-P1089,2248693,Electrical Fixtures,Normal x2,Frame_Socket,P1
-P1089,2621716,Electrical Equipment,800mmx400mmx2200h,M_Transformer Switchboard,P1
-P1089,2621928,Electrical Equipment,800mmx400mmx2200h,M_Transformer Switchboard,P1
-P1089,2664058,Electrical Equipment,800mmx400mmx2200h,M_Transformer Switchboard,P1
-P1089,4258301,Electrical Equipment,800mmx400mmx2200h,M_Transformer Switchboard,P1
-P1089,4262514,Electrical Equipment,800mmx400mmx2200h,M_Transformer Switchboard,P1
-P1089,4262571,Electrical Equipment,800mmx400mmx2200h,M_Transformer Switchboard,P1
-P1089,4262656,Electrical Equipment,800mmx400mmx2200h,M_Transformer Switchboard,P1
-P1089,4264852,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
-P1092,1566509,Electrical Equipment,80x50cm,M_Transformer Switchboard,P1
-P1092,2248658,Electrical Fixtures,W,M_Junction Boxes - W,P1
-P1092,4321619,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
-P1093,1532046,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
-P1093,1532121,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
-P1093,1532165,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
-P1093,1532229,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
-P1093,1534640,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
-P1093,1535329,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
-P1093,2163800,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
-P1093,2248653,Electrical Fixtures,Normal x2,Frame_Socket,P1
-P1093,2248654,Electrical Fixtures,Normal x2,Frame_Socket,P1
-P1093,2248655,Electrical Fixtures,Normal x2,Frame_Socket,P1
-P1093,3065505,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
-P1093,3065608,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
-P1093,3065617,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
-P1093,3065625,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
-P1093,3065633,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
-P1093,3065643,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
-P1093,3065651,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
-P1093,3065659,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
-P1093,3065667,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
-P1093,3065675,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
 P1095,1533458,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
 P1095,1533491,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
 P1095,1535922,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
@@ -273,36 +1064,226 @@ P1095,3065985,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - 
 P1095,3065993,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
 P1095,3066001,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
 P1095,3066009,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1145,1489642,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,1489671,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,1489674,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,1489677,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,1489680,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,1489683,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,1489686,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,1489689,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,1489692,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,1489695,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,1489698,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1145,1489735,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,1489737,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,1489739,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1145,1489741,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,1489743,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,1489745,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,1489747,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,1489749,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,1489751,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,1489753,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,1489755,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1145,1489992,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,1490400,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,1490403,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,1490405,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1145,1490407,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,1490409,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,1490411,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,1495884,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,1495955,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,1495979,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,1497727,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,1498365,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1145,1498368,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,1498371,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,1498374,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,1498377,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,1498430,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,1498432,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,1498434,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,1498436,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,1498438,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1145,1498470,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,1500666,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,1500855,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,1500875,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,1500877,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,1500879,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1145,1500881,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,1500883,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,1500885,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,1500887,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,1500889,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,1500891,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,1500893,Lighting Fixtures,42W 4000K 24h,סי לד 6600,P1
+P1145,1529308,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1145,1529329,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1145,1529332,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1145,1529335,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1145,1529338,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1145,1529375,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1145,1529389,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1145,1529437,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1145,1529445,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1145,1529453,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1145,1529509,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1145,1529517,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1145,1529588,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1145,1529631,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1145,1529653,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1145,1529656,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1145,1529659,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1145,1529699,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1145,1529775,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1145,1529797,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1145,1529810,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1145,1529812,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1145,1529814,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1145,1529816,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1145,1529878,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1145,1529956,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1145,1529967,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1145,1529981,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1145,1530057,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1145,1535481,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1145,1535655,Lighting Fixtures,Exit Parking,EXIT Base_Ceiling_Wall_R18,P1
+P1145,1535665,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1145,1535804,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1145,1535836,Lighting Fixtures,Exit Parking,EXIT Base_Ceiling_Wall_R18,P1
+P1145,1536322,Lighting Fixtures,Exit Parking,EXIT Base_Ceiling_Wall_R18,P1
+P1145,2160542,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,2161237,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,2161244,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,2161250,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,2162739,Lighting Fixtures,Exit Parking,EXIT Base_Ceiling_Wall_R18,P1
+P1145,2163163,Lighting Fixtures,Exit Parking,EXIT Base_Ceiling_Wall_R18,P1
+P1145,2248649,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1145,2249003,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1145,2249005,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1145,2249204,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1145,2249231,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1145,2249238,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1145,4070617,Electrical Equipment,100x80cm,M_Transformer Switchboard,P1
+P1145,4075732,Electrical Equipment,1250 kW,M_Diesel Emergency Power Generator,P1
+P1145,4198393,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,4198466,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,4198579,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,4198592,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,4198662,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1145,4319068,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1064,2248692,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1135,1523909,Lighting Fixtures,600 24h,פס לד שקוע,P1
+P1135,1533664,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1135,1533672,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1135,2159515,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1135,3058076,Lighting Fixtures,151 24h,פס לד שקוע,P1
+P1135,3058203,Lighting Fixtures,151 24h,פס לד שקוע,P1
+P1135,3058211,Lighting Fixtures,151 24h,פס לד שקוע,P1
+P1135,3058221,Lighting Fixtures,151 24h,פס לד שקוע,P1
+P1135,3058231,Lighting Fixtures,151 24h,פס לד שקוע,P1
 P1096,1528200,Lighting Fixtures,42W 4000K,סי לד 6600,P1
 P1096,1528201,Lighting Fixtures,42W 4000K,סי לד 6600,P1
 P1096,1528202,Lighting Fixtures,42W 4000K,סי לד 6600,P1
 P1096,1528203,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1096,1528213,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1096,1528214,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1096,1528215,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1096,1528216,Lighting Fixtures,42W 4000K,סי לד 6600,P1
 P1096,1528322,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1096,1528328,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1096,1528376,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
 P1096,1535923,Lighting Fixtures,Exit Parking,EXIT Base_Ceiling_Wall_R18,P1
 P1096,1536224,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
 P1096,2163354,Lighting Fixtures,Exit Parking,EXIT Base_Ceiling_Wall_R18,P1
+P1096,2166155,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1096,2166156,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1096,2166157,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1096,2166158,Lighting Fixtures,42W 4000K,סי לד 6600,P1
 P1096,2168832,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
 P1096,2249244,Electrical Fixtures,W,M_Junction Boxes - W,P1
-P1098,1535083,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
-P1098,2248983,Electrical Fixtures,Normal x2,Frame_Socket,P1
-P1098,2248987,Electrical Fixtures,Normal x2,Frame_Socket,P1
-P1098,2249081,Electrical Fixtures,Normal x2,Frame_Socket,P1
-P1098,2249260,Electrical Fixtures,Normal x2,Frame_Socket,P1
-P1101,2164532,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
-P1101,2248699,Electrical Fixtures,Normal x2,Frame_Socket,P1
-P1102,1535924,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
-P1102,3065914,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
-P1102,3065945,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
-P1102,3065953,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
-P1103,2248703,Electrical Fixtures,Type 1,Frame_Socket,P1
-P1103,2248713,Electrical Fixtures,Normal x2,Frame_Socket,P1
-P1103,2248794,Electrical Fixtures,Normal x2,Frame_Socket,P1
-P1103,2248796,Electrical Fixtures,Normal x2,Frame_Socket,P1
-P1103,2256450,Electrical Fixtures,2,BOX D,P1
-P1103,2256592,Electrical Fixtures,2,BOX D,P1
+P1096,3126683,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
+P1096,4248990,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1001,1489387,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1001,1489391,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1001,1489393,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1001,1489395,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1001,1489397,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1001,1489399,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1001,1489402,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1001,1489404,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1001,1489406,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1001,1489408,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1001,1489410,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1001,1489413,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1001,1489415,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1001,1489417,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1001,1489419,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1001,1489421,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1001,1489424,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1001,1489426,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1001,1489428,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1001,1489430,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1001,1489432,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1001,1489435,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1001,1489437,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1001,1489439,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1001,1489441,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1001,1489443,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1001,1489446,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1001,1489448,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1001,1489450,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1001,1489452,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1001,1489454,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1001,1490448,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1001,1490511,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1001,1490519,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1001,1490527,Lighting Fixtures,42W 4000K,סי לד 6600,P1
+P1001,1528663,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1001,1528702,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1001,1528871,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1001,1528997,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1001,1529008,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1001,1529044,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1001,1529046,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1001,1529048,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1001,1529057,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1001,1529058,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1001,1529059,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1001,1532901,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1001,2164941,Lighting Fixtures,Emergency Lamp,M_Ceiling Light - Linear Box1,P1
+P1001,2249135,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1001,2250811,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1001,2250822,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1001,2250833,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1001,2250846,Electrical Fixtures,W,M_Junction Boxes - W,P1
+P1001,2416457,Mechanical Equipment,Outdoor unit 80000,Outdoor unit 80000,P1
+P1001,2416542,Mechanical Equipment,Outdoor unit 80000,Outdoor unit 80000,P1
+P1001,2416568,Mechanical Equipment,Outdoor unit 80000,Outdoor unit 80000,P1
+P1001,2417194,Mechanical Equipment,Electrical cabinet,Electrical cabinet,P1
+P1065,1523530,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1065,2249207,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1065,3091365,Lighting Fixtures,Type 1,Lighting_Ceiling-Mounted_Regent_REGENT_Echo_LED_RDL_3000K_D210,P1
+P1131,2151182,Lighting Fixtures,0300x1200mm(1 Lamp) - 220V,M_Ceiling Light - Linear Box,P1
+P1131,2151243,Lighting Fixtures,0300x1200mm(1 Lamp) - 220V,M_Ceiling Light - Linear Box,P1
+P1131,2156759,Lighting Fixtures,0300x1200mm(1 Lamp) - 220V,M_Ceiling Light - Linear Box,P1
+P1104,1532466,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
 P1104,1535589,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
 P1104,2135403,Electrical Equipment,60x40x210,Yani_Circuit breaker_SwitchBoard,P1
 P1104,2149990,Electrical Equipment,60x40x210,Yani_Circuit breaker_SwitchBoard,P1
+P1104,2150950,Lighting Fixtures,0300x1200mm(1 Lamp) - 220V,M_Ceiling Light - Linear Box,P1
+P1104,2157020,Lighting Fixtures,0300x1200mm(1 Lamp) - 220V,M_Ceiling Light - Linear Box,P1
+P1104,2157095,Lighting Fixtures,0300x1200mm(1 Lamp) - 220V 24h,M_Ceiling Light - Linear Box,P1
+P1104,2157134,Lighting Fixtures,0300x1200mm(1 Lamp) - 220V,M_Ceiling Light - Linear Box,P1
+P1104,2157208,Lighting Fixtures,0300x1200mm(1 Lamp) - 220V,M_Ceiling Light - Linear Box,P1
+P1104,2157245,Lighting Fixtures,0300x1200mm(1 Lamp) - 220V,M_Ceiling Light - Linear Box,P1
+P1104,2157264,Lighting Fixtures,0300x1200mm(1 Lamp) - 220V 24h,M_Ceiling Light - Linear Box,P1
+P1104,2157323,Lighting Fixtures,0300x1200mm(1 Lamp) - 220V,M_Ceiling Light - Linear Box,P1
+P1104,2157405,Lighting Fixtures,0300x1200mm(1 Lamp) - 220V,M_Ceiling Light - Linear Box,P1
+P1104,2157582,Lighting Fixtures,0300x1200mm(1 Lamp) - 220V,M_Ceiling Light - Linear Box,P1
 P1104,2248761,Electrical Fixtures,Normal x2 WP,Frame_Socket,P1
 P1104,2248963,Electrical Fixtures,Gen,Frame_Socket,P1
 P1104,2248965,Electrical Fixtures,Normal x2 WP,Frame_Socket,P1
@@ -326,73 +1307,29 @@ P1104,3571985,Electrical Fixtures,Control Panel,Frame_Socket,P1
 P1104,4321668,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
 P1104,4321721,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
 P1104,7914778,Mechanical Equipment,120x95,Kitchen hoods(one way),P1
-P1116,920249,Electrical Equipment,945x80cm,M_Transformer Switchboard,P1
-P1116,920463,Electrical Equipment,670x80cm,M_Transformer Switchboard,P1
-P1116,920535,Electrical Equipment,902x80cm,M_Transformer Switchboard,P1
-P1116,920699,Electrical Equipment,645x80cm,M_Transformer Switchboard,P1
-P1116,920700,Electrical Equipment,680x80cm,M_Transformer Switchboard,P1
-P1116,920701,Electrical Equipment,322x80cm,M_Transformer Switchboard,P1
-P1116,920823,Electrical Equipment,1000x80cm,M_Transformer Switchboard,P1
-P1116,920999,Electrical Equipment,500x100cm,M_Transformer Switchboard,P1
-P1116,921000,Electrical Equipment,620x100cm,M_Transformer Switchboard,P1
-P1116,933516,Electrical Equipment,500 kVA,M_Uninterruptible Power Supply,P1
-P1116,934254,Electrical Equipment,500 kVA,M_Uninterruptible Power Supply,P1
-P1116,952717,Electrical Equipment,120x80cm,M_Transformer Switchboard,P1
-P1116,952844,Electrical Equipment,120x80cm,M_Transformer Switchboard,P1
-P1116,952853,Electrical Equipment,120x80cm,M_Transformer Switchboard,P1
-P1116,952862,Electrical Equipment,120x80cm,M_Transformer Switchboard,P1
-P1116,952876,Electrical Equipment,120x80cm,M_Transformer Switchboard,P1
-P1116,952883,Electrical Equipment,120x80cm,M_Transformer Switchboard,P1
-P1116,952924,Electrical Equipment,500x100cm,M_Transformer Switchboard,P1
-P1116,953447,Electrical Equipment,490x100cm,M_Transformer Switchboard,P1
-P1116,984846,Electrical Equipment,UPS Panel,M_Uninterruptible Power Supply,P1
-P1116,1009740,Electrical Equipment,100x80cm,M_Transformer Switchboard,P1
-P1116,1009794,Electrical Equipment,100x80cm,M_Transformer Switchboard,P1
-P1116,1010084,Electrical Equipment,100x80cm,M_Transformer Switchboard,P1
-P1116,1010350,Electrical Equipment,100x80cm,M_Transformer Switchboard,P1
-P1116,1408810,Electrical Equipment,120x80cm,M_Transformer Switchboard,P1
-P1116,1571151,Electrical Equipment,100x80cm,M_Transformer Switchboard,P1
-P1116,1571152,Electrical Equipment,120x80cm,M_Transformer Switchboard,P1
-P1116,2248610,Electrical Fixtures,W,M_Junction Boxes - W,P1
-P1116,2248612,Electrical Fixtures,W,M_Junction Boxes - W,P1
-P1116,2248614,Electrical Fixtures,W,M_Junction Boxes - W,P1
-P1116,2248616,Electrical Fixtures,W,M_Junction Boxes - W,P1
-P1116,2248618,Electrical Fixtures,W,M_Junction Boxes - W,P1
-P1116,2248620,Electrical Fixtures,W,M_Junction Boxes - W,P1
-P1116,2248622,Electrical Fixtures,W,M_Junction Boxes - W,P1
-P1116,2248839,Electrical Fixtures,קופסת תקשורת,SOCKETS1,P1
-P1116,2248842,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
-P1116,2248844,Electrical Fixtures,קופסת תקשורת,SOCKETS1,P1
-P1116,2248845,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
-P1116,2248846,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
-P1116,2248847,Electrical Fixtures,קופסת תקשורת,SOCKETS1,P1
-P1116,2248849,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
-P1116,2248850,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
-P1116,2248852,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
-P1116,2248854,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
-P1116,2248860,Electrical Fixtures,קופסת תקשורת,SOCKETS1,P1
-P1116,2248861,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
-P1116,2248863,Electrical Fixtures,קופסת תקשורת,SOCKETS1,P1
-P1116,2248864,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
-P1116,2248866,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
-P1116,2248868,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
-P1116,2248870,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
-P1116,2248882,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
-P1116,2249059,Electrical Fixtures,Normal x2,Frame_Socket,P1
-P1116,4321440,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
-P1116,4321459,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
-P1116,4321474,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
-P1116,4321487,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
-P1116,4321506,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
-P1116,4321522,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
-P1118,2250915,Electrical Fixtures,W,M_Junction Boxes - W,P1
-P1118,2250944,Electrical Fixtures,W,M_Junction Boxes - W,P1
-P1121,2146074,Electrical Equipment,60x240x210,Yani_Circuit breaker_SwitchBoard,P1
-P1121,2248878,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
-P1122,1532607,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
-P1122,3066178,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
-P1122,3066210,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
-P1122,3066218,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
+P1089,2248693,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1089,2621716,Electrical Equipment,800mmx400mmx2200h,M_Transformer Switchboard,P1
+P1089,2621928,Electrical Equipment,800mmx400mmx2200h,M_Transformer Switchboard,P1
+P1089,2664058,Electrical Equipment,800mmx400mmx2200h,M_Transformer Switchboard,P1
+P1089,4258301,Electrical Equipment,800mmx400mmx2200h,M_Transformer Switchboard,P1
+P1089,4262514,Electrical Equipment,800mmx400mmx2200h,M_Transformer Switchboard,P1
+P1089,4262571,Electrical Equipment,800mmx400mmx2200h,M_Transformer Switchboard,P1
+P1089,4262656,Electrical Equipment,800mmx400mmx2200h,M_Transformer Switchboard,P1
+P1089,4264852,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
+P1125,1509406,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
+P1125,1509503,Lighting Fixtures,597x597x100mm,Lighting-Fixture-Interior_Cloud-Led-Indelague_Ceiling-Mounted-Recessed,P1
+P1125,1509674,Lighting Fixtures,597x597x100mm,Lighting-Fixture-Interior_Cloud-Led-Indelague_Ceiling-Mounted-Recessed,P1
+P1125,1509683,Lighting Fixtures,597x597x100mm,Lighting-Fixture-Interior_Cloud-Led-Indelague_Ceiling-Mounted-Recessed,P1
+P1125,1509693,Lighting Fixtures,597x597x100mm,Lighting-Fixture-Interior_Cloud-Led-Indelague_Ceiling-Mounted-Recessed,P1
+P1125,1509717,Lighting Fixtures,597x597x100mm,Lighting-Fixture-Interior_Cloud-Led-Indelague_Ceiling-Mounted-Recessed,P1
+P1125,1509719,Lighting Fixtures,597x597x100mm,Lighting-Fixture-Interior_Cloud-Led-Indelague_Ceiling-Mounted-Recessed,P1
+P1125,1509720,Lighting Fixtures,597x597x100mm,Lighting-Fixture-Interior_Cloud-Led-Indelague_Ceiling-Mounted-Recessed,P1
+P1125,1509721,Lighting Fixtures,597x597x100mm,Lighting-Fixture-Interior_Cloud-Led-Indelague_Ceiling-Mounted-Recessed,P1
+P1125,1509729,Lighting Fixtures,597x597x100mm,Lighting-Fixture-Interior_Cloud-Led-Indelague_Ceiling-Mounted-Recessed,P1
+P1125,1509730,Lighting Fixtures,597x597x100mm,Lighting-Fixture-Interior_Cloud-Led-Indelague_Ceiling-Mounted-Recessed,P1
+P1125,1509731,Lighting Fixtures,597x597x100mm,Lighting-Fixture-Interior_Cloud-Led-Indelague_Ceiling-Mounted-Recessed,P1
+P1125,1509732,Lighting Fixtures,597x597x100mm,Lighting-Fixture-Interior_Cloud-Led-Indelague_Ceiling-Mounted-Recessed,P1
+P1125,1532598,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
 P1125,2248678,Electrical Fixtures,Type 1,Frame_Socket,P1
 P1125,2248680,Electrical Fixtures,Type 1,Frame_Socket,P1
 P1125,2248682,Electrical Fixtures,Type 1,Frame_Socket,P1
@@ -401,83 +1338,5 @@ P1125,2248686,Electrical Fixtures,Normal x2,Frame_Socket,P1
 P1125,2250537,Electrical Fixtures,2,BOX D,P1
 P1125,2255947,Electrical Fixtures,2,BOX D,P1
 P1125,2255960,Electrical Fixtures,2,BOX D,P1
-P1133,1479238,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
-P1133,2248640,Electrical Fixtures,Normal x2,Frame_Socket,P1
-P1133,2248642,Electrical Fixtures,Normal x2,Frame_Socket,P1
-P1133,2248856,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
-P1133,2249075,Electrical Fixtures,1 AC,Frame_Socket,P1
-P1133,2249077,Electrical Fixtures,1 AC,Frame_Socket,P1
-P1133,2249079,Electrical Fixtures,1 AC,Frame_Socket,P1
-P1133,4265212,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
-P1133,2421298,Mechanical Equipment,AWV 1500,AWV 1500,P1
-P1133,5817584,Mechanical Equipment,AWV 1500,AWV 1500,P1
-P1133,5817635,Mechanical Equipment,AWV 1500,AWV 1500,P1
-P1134,1532272,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
-P1134,1535378,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
-P1134,3065761,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
-P1134,3065797,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,P1
-P1134,3065818,Lighting Fixtures,Topaz 1200mm,M_Recessed Direct-Indirect Light - Asymmetrical,P1
-P1135,1523909,Lighting Fixtures,600 24h,פס לד שקוע,P1
-P1135,1533664,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
-P1135,1533672,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,P1
-P1135,2159515,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
-P1135,3058076,Lighting Fixtures,151 24h,פס לד שקוע,P1
-P1135,3058203,Lighting Fixtures,151 24h,פס לד שקוע,P1
-P1135,3058211,Lighting Fixtures,151 24h,פס לד שקוע,P1
-P1135,3058221,Lighting Fixtures,151 24h,פס לד שקוע,P1
-P1135,3058231,Lighting Fixtures,151 24h,פס לד שקוע,P1
-P1136,2162914,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
-P1139,928004,Electrical Equipment,Transformer  2500kVA,Electrical_Transformers_Simens-AG_Geafol_Transformer,P1
-P1139,4070393,Electrical Equipment,60 kVA,M_Uninterruptible Power Supply,P1
-P1139,4070394,Electrical Equipment,UPS60 Panel,M_Uninterruptible Power Supply,P1
-P1139,4232427,Electrical Equipment,60 kVA,M_Uninterruptible Power Supply,P1
-P1139,4310682,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
-P1140,927952,Electrical Equipment,Transformer  2500kVA,Electrical_Transformers_Simens-AG_Geafol_Transformer,P1
-P1141,928017,Electrical Equipment,Transformer  2500kVA,Electrical_Transformers_Simens-AG_Geafol_Transformer,P1
-P1142,921092,Electrical Equipment,490x80cm,M_Transformer Switchboard,P1
-P1142,4310384,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
-P1142,4321134,Electrical Fixtures,קופסת תקשורת,SOCKETS1,P1
-P1142,7447495,Mechanical Equipment,Electrical cabinet,Electrical cabinet,P1
-P1142,7447510,Mechanical Equipment,Electrical cabinet,Electrical cabinet,P1
-P1142,7447517,Mechanical Equipment,Electrical cabinet,Electrical cabinet,P1
-P1142,7550430,Mechanical Equipment,Electrical cabinet,Electrical cabinet,P1
-P1145,1535804,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
-P1145,2160542,Lighting Fixtures,42W 4000K,סי לד 6600,P1
-P1145,2161237,Lighting Fixtures,42W 4000K,סי לד 6600,P1
-P1145,2161244,Lighting Fixtures,42W 4000K,סי לד 6600,P1
-P1145,2161250,Lighting Fixtures,42W 4000K,סי לד 6600,P1
-P1145,2163163,Lighting Fixtures,Exit Parking,EXIT Base_Ceiling_Wall_R18,P1
-P1145,2248649,Electrical Fixtures,Normal x2,Frame_Socket,P1
-P1145,2249003,Electrical Fixtures,Normal x2,Frame_Socket,P1
-P1145,2249005,Electrical Fixtures,Normal x2,Frame_Socket,P1
-P1145,2249204,Electrical Fixtures,Normal x2,Frame_Socket,P1
-P1145,2249231,Electrical Fixtures,Normal x2,Frame_Socket,P1
-P1145,2249238,Electrical Fixtures,Normal x2,Frame_Socket,P1
-P1145,4070617,Electrical Equipment,100x80cm,M_Transformer Switchboard,P1
-P1145,4075732,Electrical Equipment,1250 kW,M_Diesel Emergency Power Generator,P1
-P1145,4319068,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
-P1148,984525,Electrical Equipment,806x110cm,M_Transformer Switchboard,P1
-P1148,2248576,Electrical Fixtures,Normal x2,Frame_Socket,P1
-P1148,2248884,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
-P1148,2248886,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
-P1148,2248943,Electrical Fixtures,W,M_Junction Boxes - W,P1
-P1149,2248947,Electrical Fixtures,Normal x2,Frame_Socket,P1
-P1149,4264875,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
-P1150,927440,Electrical Equipment,Transformer  2500kVA,Electrical_Transformers_Simens-AG_Geafol_Transformer,P1
-P1151,927739,Electrical Equipment,Transformer  2500kVA,Electrical_Transformers_Simens-AG_Geafol_Transformer,P1
-P1152,927758,Electrical Equipment,Transformer  2500kVA,Electrical_Transformers_Simens-AG_Geafol_Transformer,P1
-P1153,927928,Electrical Equipment,Transformer  2500kVA,Electrical_Transformers_Simens-AG_Geafol_Transformer,P1
-P1154,2248639,Electrical Fixtures,Normal x2,Frame_Socket,P1
-P1160,2164488,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,P1
-P1160,2248650,Electrical Fixtures,Normal x2,Frame_Socket,P1
-P1160,2248651,Electrical Fixtures,Normal x2,Frame_Socket,P1
-P1160,4074142,Electrical Equipment,490x80cm,M_Transformer Switchboard,P1
-P1160,4074227,Electrical Equipment,60x240x210,Yani_Circuit breaker_SwitchBoard,P1
-P1160,4310712,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1
-P1160,4310766,Electrical Fixtures,קופסת תקשורת,SOCKETS1,P1
-P1160,2425528,Mechanical Equipment,Smoke Exhaust Fan,Axial_Flow_Fan_-_300,P1
-P1160,5496070,Mechanical Equipment,278x490,M_Mechanical Equipment_Inert Base,P1
-P1160,5496075,Mechanical Equipment,AHU 15000 CFM,AHU 15000 CFM,P1
-P1160,9623062,Mechanical Equipment,Smoke Exhaust Fan,Axial_Flow_Fan_-_560,P1
-P1160,12449483,Mechanical Equipment,Smoke Exhaust Fan,Shevach C-900,P1
-P1162,2249161,Electrical Fixtures,Normal x2,Frame_Socket,P1
+P1121,2146074,Electrical Equipment,60x240x210,Yani_Circuit breaker_SwitchBoard,P1
+P1121,2248878,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,P1

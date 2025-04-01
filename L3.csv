@@ -1,80 +1,38 @@
-מס' חדר,ID,קטגוריה,סוג,משפחה,קומה
-L3002,1613858,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
-L3002,1613860,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
-L3002,1613862,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
-L3002,1625505,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,L3
-L3002,1752740,Electrical Fixtures,Normal x1,Frame_Socket,L3
-L3002,1752743,Electrical Fixtures,Normal x1,Frame_Socket,L3
-L3002,3952805,Electrical Fixtures,Type 2,Frame_Socket,L3
-L3002,3952907,Electrical Fixtures,Type 2,Frame_Socket,L3
-L3002,3956270,Electrical Fixtures,Type 2,Frame_Socket,L3
-L3002,3956352,Electrical Fixtures,Type 2,Frame_Socket,L3
-L3002,3997832,Electrical Fixtures,1 AC,Frame_Socket,L3
-L3002,3997835,Electrical Fixtures,1 AC,Frame_Socket,L3
-L3002,11106025,Mechanical Equipment,AWSQ 1000,AWSQ 1000(right),L3
-L3002,11106033,Mechanical Equipment,AWSQ 1500,AWSQ 1500(right),L3
-L3003,1613866,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
-L3003,1613867,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
-L3003,1752518,Electrical Fixtures,Normal x1 WP,Frame_Socket,L3
-L3003,3881270,Electrical Fixtures,Type 2,Frame_Socket,L3
-L3003,3881412,Electrical Fixtures,Type 2,Frame_Socket,L3
-L3003,3881494,Electrical Fixtures,Type 2,Frame_Socket,L3
-L3004,1752558,Electrical Fixtures,Normal x2,Frame_Socket,L3
-L3006,1613816,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
-L3006,1613817,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
-L3006,11106016,Mechanical Equipment,AW 800,AW 800(right),L3
-L3008,1613821,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
-L3008,1613824,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
-L3008,1714278,Electrical Equipment,100mmx46mm,M_Circuit Breaker Switchboard,L3
-L3008,1714279,Electrical Equipment,100mmx46mm,M_Circuit Breaker Switchboard,L3
-L3008,1716803,Electrical Fixtures,GEN CEE_1x16A_1Ph,Socket_Cee_R19,L3
-L3008,1716805,Electrical Fixtures,UPS CEE_1x16A_1Ph,Socket_Cee_R19,L3
-L3008,1716807,Electrical Fixtures,GEN CEE_1x16A_1Ph,Socket_Cee_R19,L3
-L3008,1716808,Electrical Fixtures,UPS CEE_1x16A_1Ph,Socket_Cee_R19,L3
-L3008,1716809,Electrical Fixtures,GEN CEE_1x16A_1Ph,Socket_Cee_R19,L3
-L3008,1716810,Electrical Fixtures,GEN CEE_1x16A_1Ph,Socket_Cee_R19,L3
-L3008,1716811,Electrical Fixtures,UPS CEE_1x16A_1Ph,Socket_Cee_R19,L3
-L3008,1716812,Electrical Fixtures,GEN CEE_1x16A_1Ph,Socket_Cee_R19,L3
-L3008,1716813,Electrical Fixtures,UPS CEE_1x16A_1Ph,Socket_Cee_R19,L3
-L3008,1716814,Electrical Fixtures,GEN CEE_1x16A_1Ph,Socket_Cee_R19,L3
-L3008,1716815,Electrical Fixtures,UPS CEE_1x16A_1Ph,Socket_Cee_R19,L3
-L3008,1716816,Electrical Fixtures,UPS CEE_1x16A_1Ph,Socket_Cee_R19,L3
-L3008,1717588,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,L3
-L3008,1717590,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,L3
-L3008,3967421,Lighting Fixtures,42W 4000K,סי לד 6600,L3
-L3008,3967422,Lighting Fixtures,42W 4000K,סי לד 6600,L3
-L3008,3967423,Lighting Fixtures,42W 4000K,סי לד 6600,L3
-L3008,3967424,Lighting Fixtures,42W 4000K,סי לד 6600,L3
-L3008,3967425,Lighting Fixtures,42W 4000K,סי לד 6600,L3
-L3008,3967426,Lighting Fixtures,42W 4000K,סי לד 6600,L3
-L3008,3967427,Lighting Fixtures,42W 4000K,סי לד 6600,L3
-L3008,3967428,Lighting Fixtures,42W 4000K,סי לד 6600,L3
-L3008,3967432,Lighting Fixtures,42W 4000K,סי לד 6600,L3
-L3008,3998031,Electrical Fixtures,Gen,Frame_Socket,L3
-L3008,3998032,Electrical Fixtures,Gen,Frame_Socket,L3
-L3008,4325505,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L3
-L3008,4325554,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L3
-L3008,11106043,Mechanical Equipment,AWV 1200,AWV 1200,L3
-L3008,11106045,Mechanical Equipment,AWV 1200,AWV 1200,L3
-L3009,1613881,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
-L3009,1613883,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
-L3009,11104873,Mechanical Equipment,AW 800,AW 800(right),L3
-L3010,11106593,Mechanical Equipment,AWSQ 450,AWSQ 450(right),L3
-L3013,1613864,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
-L3013,1613865,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
-L3013,1752521,Electrical Fixtures,Normal x1 WP,Frame_Socket,L3
-L3013,3880994,Electrical Fixtures,Type 2,Frame_Socket,L3
-L3013,3881075,Electrical Fixtures,Type 2,Frame_Socket,L3
-L3013,3881160,Electrical Fixtures,Type 2,Frame_Socket,L3
-L3014,1717605,Electrical Equipment,60x240x210  GEN,Yani_Circuit breaker_SwitchBoard,L3
-L3014,4325463,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L3
-L3017,1752557,Electrical Fixtures,Normal x2,Frame_Socket,L3
-L3017,11106561,Mechanical Equipment,AWSQ 450,AWSQ 450(right),L3
-L3018,1716801,Electrical Equipment,60x240x210,Yani_Circuit breaker_SwitchBoard,L3
-L3018,4325417,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L3
+﻿מספר חדר,ID,קטגוריה,סוג,משפחה,קומה
+L3007,1518067,Lighting Fixtures,42W 4000K 24h,סי לד 6600,L3
 L3024,3878251,Electrical Fixtures,FOR LSS UPS,Frame_Socket,L3
+L3045,1613884,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3045,1613885,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3109,1613831,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3109,1613833,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3109,1613834,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3034,1613981,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3034,11106620,Mechanical Equipment,AWSQ 450,AWSQ 450(right),L3
+L3096,3878855,Electrical Fixtures,FOR LSS UPS,Frame_Socket,L3
+L3096,3878892,Electrical Fixtures,FOR LSS UPS,Frame_Socket,L3
 L3025,3879083,Electrical Fixtures,W,M_Junction Boxes - W,L3
 L3025,11106573,Mechanical Equipment,AW 450,AW 450(right),L3
+L3038,1613982,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3038,1613984,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3038,1752546,Electrical Fixtures,Normal x1 WP,Frame_Socket,L3
+L3038,3882040,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3038,3882096,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3038,3882145,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3018,1716801,Electrical Equipment,60x240x210,Yani_Circuit breaker_SwitchBoard,L3
+L3018,4325417,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L3
+L3079,1717562,Electrical Equipment,60x240x210  GEN,Yani_Circuit breaker_SwitchBoard,L3
+L3079,1717583,Electrical Equipment,60x240x210,Yani_Circuit breaker_SwitchBoard,L3
+L3079,4324852,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L3
+L3079,4325080,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L3
+L3030,3967448,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3030,3967449,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3046,3879172,Electrical Fixtures,W,M_Junction Boxes - W,L3
+L3046,3967450,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3046,11106621,Mechanical Equipment,AW 450,AW 450(right),L3
+L3106,1615654,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3070,1613975,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3070,1727868,Lighting Fixtures,Topaz 1200mm 24h,M_Recessed Direct-Indirect Light - Asymmetrical,L3
+L3053,3878546,Electrical Fixtures,FOR LSS UPS,Frame_Socket,L3
 L3028,1613943,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
 L3028,1613945,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
 L3028,1613947,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
@@ -87,14 +45,26 @@ L3028,3997888,Electrical Fixtures,1 AC,Frame_Socket,L3
 L3028,3997893,Electrical Fixtures,1 AC,Frame_Socket,L3
 L3028,11105074,Mechanical Equipment,AWSQ 1500,AWSQ 1500(right),L3
 L3028,11105118,Mechanical Equipment,AWSQ 1000,AWSQ 1000(right),L3
-L3029,1613985,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
-L3029,1613986,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
-L3029,1752526,Electrical Fixtures,Normal x1 WP,Frame_Socket,L3
-L3029,3882184,Electrical Fixtures,Type 2,Frame_Socket,L3
-L3029,3882361,Electrical Fixtures,Type 2,Frame_Socket,L3
-L3029,3882391,Electrical Fixtures,Type 2,Frame_Socket,L3
-L3030,3967448,Lighting Fixtures,42W 4000K,סי לד 6600,L3
-L3030,3967449,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3081,1613887,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3081,1613888,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3081,1625495,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,L3
+L3081,1654781,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,L3
+L3083,1518865,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3083,1613814,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3083,1613815,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3055,1752571,Electrical Fixtures,Normal x2,Frame_Socket,L3
+L3055,3967400,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3017,1752557,Electrical Fixtures,Normal x2,Frame_Socket,L3
+L3017,3981780,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3017,3983734,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3017,11106561,Mechanical Equipment,AWSQ 450,AWSQ 450(right),L3
+L3044,1752782,Electrical Fixtures,Normal x2,Frame_Socket,L3
+L3044,3967445,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3044,3967447,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3044,11106608,Mechanical Equipment,AWSQ 450,AWSQ 450(right),L3
+L3105,1613818,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3105,1613820,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3105,1625506,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,L3
 L3033,1613940,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
 L3033,1613942,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
 L3033,1714276,Electrical Equipment,100mmx46mm,M_Circuit Breaker Switchboard,L3
@@ -128,29 +98,44 @@ L3033,4325324,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L3
 L3033,4325370,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L3
 L3033,11104833,Mechanical Equipment,AWV 1200,AWV 1200,L3
 L3033,11104834,Mechanical Equipment,AWV 1200,AWV 1200,L3
-L3034,11106620,Mechanical Equipment,AWSQ 450,AWSQ 450(right),L3
-L3038,1613982,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
-L3038,1613984,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
-L3038,1752546,Electrical Fixtures,Normal x1 WP,Frame_Socket,L3
-L3038,3882040,Electrical Fixtures,Type 2,Frame_Socket,L3
-L3038,3882096,Electrical Fixtures,Type 2,Frame_Socket,L3
-L3038,3882145,Electrical Fixtures,Type 2,Frame_Socket,L3
-L3039,2308349,Electrical Equipment,60x240x210  GEN,Yani_Circuit breaker_SwitchBoard,L3
-L3039,4325246,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L3
+L3074,3885964,Electrical Fixtures,W,M_Junction Boxes - W,L3
+L3065,1613842,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3065,1613844,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3065,1714280,Electrical Equipment,100mmx46mm,M_Circuit Breaker Switchboard,L3
+L3065,1717564,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,L3
+L3065,1717565,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,L3
+L3065,3967410,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3065,3967411,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3065,3967412,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3065,3967413,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3065,3967414,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3065,3967415,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3065,3967416,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3065,3967417,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3065,3967420,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3065,4325155,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L3
+L3065,4325201,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L3
+L3065,11112084,Mechanical Equipment,AWV 1200,AWV 1200,L3
+L3065,11112086,Mechanical Equipment,AWV 1200,AWV 1200,L3
 L3041,1717617,Electrical Equipment,60x240x210,Yani_Circuit breaker_SwitchBoard,L3
 L3041,4325286,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L3
-L3044,1752782,Electrical Fixtures,Normal x2,Frame_Socket,L3
-L3044,3967445,Lighting Fixtures,42W 4000K,סי לד 6600,L3
-L3044,3967447,Lighting Fixtures,42W 4000K,סי לד 6600,L3
-L3044,11106608,Mechanical Equipment,AWSQ 450,AWSQ 450(right),L3
-L3045,1613884,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
-L3045,1613885,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
-L3046,3879172,Electrical Fixtures,W,M_Junction Boxes - W,L3
-L3046,3967450,Lighting Fixtures,42W 4000K,סי לד 6600,L3
-L3046,11106621,Mechanical Equipment,AW 450,AW 450(right),L3
-L3047,3878384,Electrical Fixtures,FOR LSS UPS,Frame_Socket,L3
-L3053,3878546,Electrical Fixtures,FOR LSS UPS,Frame_Socket,L3
-L3055,1752571,Electrical Fixtures,Normal x2,Frame_Socket,L3
+L3059,3967408,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3078,1717585,Electrical Equipment,60x160x210 UPS,Yani_Circuit breaker_SwitchBoard,L3
+L3078,4325118,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L3
+L3082,3967402,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3082,3967403,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3082,3967404,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3029,1613985,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3029,1613986,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3029,1752526,Electrical Fixtures,Normal x1 WP,Frame_Socket,L3
+L3029,3882184,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3029,3882361,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3029,3882391,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3009,1613881,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3009,1613883,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3009,11104873,Mechanical Equipment,AW 800,AW 800(right),L3
+L3069,1613889,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3004,1752558,Electrical Fixtures,Normal x2,Frame_Socket,L3
 L3060,1613838,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
 L3060,1613840,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
 L3060,1625494,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,L3
@@ -161,39 +146,274 @@ L3060,3948705,Electrical Fixtures,Type 2,Frame_Socket,L3
 L3060,3955411,Electrical Fixtures,Type 2,Frame_Socket,L3
 L3060,3997858,Electrical Fixtures,1 AC,Frame_Socket,L3
 L3060,11104432,Mechanical Equipment,AWSQ 2000,AWSQ 2000(right),L3
-L3065,1714280,Electrical Equipment,100mmx46mm,M_Circuit Breaker Switchboard,L3
-L3065,1717564,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,L3
-L3065,1717565,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,L3
-L3065,4325155,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L3
-L3065,4325201,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L3
-L3065,11112084,Mechanical Equipment,AWV 1200,AWV 1200,L3
-L3065,11112086,Mechanical Equipment,AWV 1200,AWV 1200,L3
-L3072,1752544,Electrical Fixtures,Normal x1 WP,Frame_Socket,L3
-L3072,3880385,Electrical Fixtures,Type 2,Frame_Socket,L3
-L3072,3880573,Electrical Fixtures,Type 2,Frame_Socket,L3
-L3072,3880580,Electrical Fixtures,Type 2,Frame_Socket,L3
-L3072,3880586,Electrical Fixtures,Type 2,Frame_Socket,L3
-L3072,3880592,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3090,3956077,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3062,3967409,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3104,1613835,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3104,1613836,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3104,1613837,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3104,1625497,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,L3
+L3008,1511973,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3008,1613821,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3008,1613824,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3008,1714278,Electrical Equipment,100mmx46mm,M_Circuit Breaker Switchboard,L3
+L3008,1714279,Electrical Equipment,100mmx46mm,M_Circuit Breaker Switchboard,L3
+L3008,1716803,Electrical Fixtures,GEN CEE_1x16A_1Ph,Socket_Cee_R19,L3
+L3008,1716805,Electrical Fixtures,UPS CEE_1x16A_1Ph,Socket_Cee_R19,L3
+L3008,1716807,Electrical Fixtures,GEN CEE_1x16A_1Ph,Socket_Cee_R19,L3
+L3008,1716808,Electrical Fixtures,UPS CEE_1x16A_1Ph,Socket_Cee_R19,L3
+L3008,1716809,Electrical Fixtures,GEN CEE_1x16A_1Ph,Socket_Cee_R19,L3
+L3008,1716810,Electrical Fixtures,GEN CEE_1x16A_1Ph,Socket_Cee_R19,L3
+L3008,1716811,Electrical Fixtures,UPS CEE_1x16A_1Ph,Socket_Cee_R19,L3
+L3008,1716812,Electrical Fixtures,GEN CEE_1x16A_1Ph,Socket_Cee_R19,L3
+L3008,1716813,Electrical Fixtures,UPS CEE_1x16A_1Ph,Socket_Cee_R19,L3
+L3008,1716814,Electrical Fixtures,GEN CEE_1x16A_1Ph,Socket_Cee_R19,L3
+L3008,1716815,Electrical Fixtures,UPS CEE_1x16A_1Ph,Socket_Cee_R19,L3
+L3008,1716816,Electrical Fixtures,UPS CEE_1x16A_1Ph,Socket_Cee_R19,L3
+L3008,1717588,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,L3
+L3008,1717590,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,L3
+L3008,3967421,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3008,3967422,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3008,3967423,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3008,3967424,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3008,3967425,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3008,3967426,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3008,3967427,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3008,3967428,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3008,3967432,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3008,3998031,Electrical Fixtures,Gen,Frame_Socket,L3
+L3008,3998032,Electrical Fixtures,Gen,Frame_Socket,L3
+L3008,4325505,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L3
+L3008,4325554,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L3
+L3008,11106043,Mechanical Equipment,AWV 1200,AWV 1200,L3
+L3008,11106045,Mechanical Equipment,AWV 1200,AWV 1200,L3
+L3108,1613938,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3108,1613939,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3006,1613816,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3006,1613817,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3006,11106016,Mechanical Equipment,AW 800,AW 800(right),L3
+L3013,1613864,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3013,1613865,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3013,1752521,Electrical Fixtures,Normal x1 WP,Frame_Socket,L3
+L3013,3880994,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3013,3881075,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3013,3881160,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3087,3953251,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3087,3956505,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3073,1613828,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3073,1613830,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
 L3073,1752545,Electrical Fixtures,Normal x1 WP,Frame_Socket,L3
 L3073,3880648,Electrical Fixtures,Type 2,Frame_Socket,L3
 L3073,3880672,Electrical Fixtures,Type 2,Frame_Socket,L3
 L3073,3880793,Electrical Fixtures,Type 2,Frame_Socket,L3
 L3073,3880860,Electrical Fixtures,Type 2,Frame_Socket,L3
-L3074,3885964,Electrical Fixtures,W,M_Junction Boxes - W,L3
-L3078,1717585,Electrical Equipment,60x160x210 UPS,Yani_Circuit breaker_SwitchBoard,L3
-L3078,4325118,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L3
-L3079,1717562,Electrical Equipment,60x240x210  GEN,Yani_Circuit breaker_SwitchBoard,L3
-L3079,1717583,Electrical Equipment,60x240x210,Yani_Circuit breaker_SwitchBoard,L3
-L3079,4324852,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L3
-L3079,4325080,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L3
-L3083,1613814,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
-L3083,1613815,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
-L3087,3953251,Electrical Fixtures,Type 2,Frame_Socket,L3
-L3087,3956505,Electrical Fixtures,Type 2,Frame_Socket,L3
-L3088,3953186,Electrical Fixtures,Type 2,Frame_Socket,L3
-L3088,3956424,Electrical Fixtures,Type 2,Frame_Socket,L3
 L3089,3955983,Electrical Fixtures,Type 2,Frame_Socket,L3
-L3090,3956077,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3010,1613976,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3010,11106593,Mechanical Equipment,AWSQ 450,AWSQ 450(right),L3
+L3039,2308349,Electrical Equipment,60x240x210  GEN,Yani_Circuit breaker_SwitchBoard,L3
+L3039,4325246,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L3
+L3056,3967405,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3056,3967406,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3056,3967407,Lighting Fixtures,42W 4000K,סי לד 6600,L3
+L3014,1717605,Electrical Equipment,60x240x210  GEN,Yani_Circuit breaker_SwitchBoard,L3
+L3014,4325463,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L3
+L3002,1613858,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3002,1613860,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3002,1613862,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3002,1625505,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,L3
+L3002,1752740,Electrical Fixtures,Normal x1,Frame_Socket,L3
+L3002,1752743,Electrical Fixtures,Normal x1,Frame_Socket,L3
+L3002,3952805,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3002,3952907,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3002,3956270,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3002,3956352,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3002,3997832,Electrical Fixtures,1 AC,Frame_Socket,L3
+L3002,3997835,Electrical Fixtures,1 AC,Frame_Socket,L3
+L3002,11106025,Mechanical Equipment,AWSQ 1000,AWSQ 1000(right),L3
+L3002,11106033,Mechanical Equipment,AWSQ 1500,AWSQ 1500(right),L3
+L3091,1613771,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613772,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613773,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613774,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613775,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613776,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613777,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613778,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613781,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613783,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613784,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613785,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613786,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613787,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613788,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613789,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613790,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613791,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613792,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613793,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613794,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613795,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613796,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613797,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613798,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613799,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613800,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613801,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613802,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613803,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613804,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613805,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613806,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613807,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613808,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613809,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613810,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613811,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613812,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613845,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613846,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613847,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613848,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613849,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613850,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613851,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613852,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613853,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613854,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613855,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613856,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613857,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613868,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613869,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613870,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613871,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613872,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613873,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613875,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613877,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613879,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613890,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613891,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613892,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613893,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613894,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613895,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613896,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613897,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613898,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613899,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613900,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613901,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613902,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613903,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613904,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613905,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613906,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613907,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613908,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613909,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613910,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613911,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613912,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613913,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613914,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613915,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613916,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613917,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613918,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613919,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613920,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613921,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613922,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613923,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613924,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613925,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613926,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613927,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613928,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613929,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613930,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613931,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613932,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613933,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613934,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613949,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613950,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613951,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613952,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613953,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613954,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613955,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613956,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613957,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613958,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613959,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613960,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613961,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613962,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613963,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613964,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613965,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613966,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613967,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613968,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613969,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613970,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613971,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613972,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613973,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613977,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613978,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613979,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613980,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613987,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613988,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613989,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613990,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1613991,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1614187,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1614393,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1614403,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1614516,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1614739,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1614908,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1614971,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1614979,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1615197,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1615349,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3091,1625491,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,L3
+L3091,1625493,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,L3
+L3091,1625498,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,L3
+L3091,1625499,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,L3
+L3091,1625500,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,L3
+L3091,1625501,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,L3
+L3091,1625502,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,L3
+L3091,1625503,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,L3
+L3091,1625504,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,L3
+L3091,1625507,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,L3
+L3091,1625508,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,L3
+L3091,1625509,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,L3
+L3091,1625510,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,L3
+L3091,1625511,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,L3
+L3091,1625512,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,L3
+L3091,1625513,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,L3
+L3091,1625514,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,L3
+L3091,1625515,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,L3
+L3091,1625516,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,L3
+L3091,1625517,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,L3
+L3091,1625518,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,L3
+L3091,1625519,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,L3
+L3091,1625520,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,L3
+L3091,1625521,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,L3
+L3091,1625522,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,L3
+L3091,1625523,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,L3
+L3091,1625524,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,L3
+L3091,1625525,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,L3
+L3091,1625526,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,L3
+L3091,1625527,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,L3
+L3091,1625528,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,L3
+L3091,1625529,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,L3
+L3091,1625530,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,L3
+L3091,1625531,Lighting Fixtures,Exit,EXIT Base_Ceiling_Wall_R18,L3
 L3091,1750719,Electrical Fixtures,Type 1,Frame_Socket,L3
 L3091,1750720,Electrical Fixtures,Type 1,Frame_Socket,L3
 L3091,1750721,Electrical Fixtures,Type 1,Frame_Socket,L3
@@ -826,5 +1046,21 @@ L3091,3956664,Electrical Fixtures,Type 2,Frame_Socket,L3
 L3091,3956743,Electrical Fixtures,Type 2,Frame_Socket,L3
 L3091,3956802,Electrical Fixtures,Type 2,Frame_Socket,L3
 L3091,3956865,Electrical Fixtures,Type 2,Frame_Socket,L3
-L3096,3878855,Electrical Fixtures,FOR LSS UPS,Frame_Socket,L3
-L3096,3878892,Electrical Fixtures,FOR LSS UPS,Frame_Socket,L3
+L3003,1613866,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3003,1613867,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3003,1752518,Electrical Fixtures,Normal x1 WP,Frame_Socket,L3
+L3003,3881270,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3003,3881412,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3003,3881494,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3088,3953186,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3088,3956424,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3107,1613935,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3072,1613825,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3072,1613827,Lighting Fixtures,Emergency LENS LF3 (CD),Lighting_Emergency-Security_Daisalux-Lens-L_CD-FR,L3
+L3072,1752544,Electrical Fixtures,Normal x1 WP,Frame_Socket,L3
+L3072,3880385,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3072,3880573,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3072,3880580,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3072,3880586,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3072,3880592,Electrical Fixtures,Type 2,Frame_Socket,L3
+L3047,3878384,Electrical Fixtures,FOR LSS UPS,Frame_Socket,L3

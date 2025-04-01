@@ -1,11 +1,23 @@
-מס' חדר,ID,קטגוריה,סוג,משפחה,קומה
+﻿מספר חדר,ID,קטגוריה,סוג,משפחה,קומה
+L5080,3893011,Electrical Fixtures,FOR LSS UPS,Frame_Socket,L5
+L5094,3893003,Electrical Fixtures,FOR LSS UPS,Frame_Socket,L5
+L5077,2312503,Electrical Equipment,60x240x210  GEN,Yani_Circuit breaker_SwitchBoard,L5
+L5077,2312504,Electrical Equipment,60x240x210,Yani_Circuit breaker_SwitchBoard,L5
+L5077,4326342,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L5
+L5077,4326516,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L5
+L5006,5197107,Mechanical Equipment,AW 800,AW 800,L5
+L5013,2309246,Electrical Equipment,60x240x210  GEN,Yani_Circuit breaker_SwitchBoard,L5
+L5013,4327032,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L5
+L5017,2308235,Electrical Equipment,60x240x210,Yani_Circuit breaker_SwitchBoard,L5
+L5017,4326891,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L5
 L5002,7811465,Mechanical Equipment,AWSQ 1000,AWSQ 1000,L5
 L5002,7811528,Mechanical Equipment,AWSQ 1500,AWSQ 1500,L5
-L5003,3892910,Electrical Fixtures,Normal x1 WP,Frame_Socket,L5
-L5003,3892946,Electrical Fixtures,Type 2,Frame_Socket,L5
-L5003,3892948,Electrical Fixtures,Type 2,Frame_Socket,L5
-L5003,3892949,Electrical Fixtures,Type 2,Frame_Socket,L5
-L5006,5197107,Mechanical Equipment,AW 800,AW 800,L5
+L5012,3892909,Electrical Fixtures,Normal x1 WP,Frame_Socket,L5
+L5012,3892942,Electrical Fixtures,Type 2,Frame_Socket,L5
+L5012,3892944,Electrical Fixtures,Type 2,Frame_Socket,L5
+L5012,3892945,Electrical Fixtures,Type 2,Frame_Socket,L5
+L5076,2311432,Electrical Equipment,60x160x210 UPS,Yani_Circuit breaker_SwitchBoard,L5
+L5076,4326560,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L5
 L5008,1439802,Electrical Equipment,100mmx46mm,M_Circuit Breaker Switchboard,L5
 L5008,1439803,Electrical Equipment,100mmx46mm,M_Circuit Breaker Switchboard,L5
 L5008,1439804,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,L5
@@ -13,61 +25,51 @@ L5008,1439805,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,L5
 L5008,4326931,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L5
 L5008,4326977,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L5
 L5009,5197187,Mechanical Equipment,AWSQ 450,AWSQ 450,L5
-L5012,3892909,Electrical Fixtures,Normal x1 WP,Frame_Socket,L5
-L5012,3892942,Electrical Fixtures,Type 2,Frame_Socket,L5
-L5012,3892944,Electrical Fixtures,Type 2,Frame_Socket,L5
-L5012,3892945,Electrical Fixtures,Type 2,Frame_Socket,L5
-L5013,2309246,Electrical Equipment,60x240x210  GEN,Yani_Circuit breaker_SwitchBoard,L5
-L5013,4327032,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L5
-L5017,2308235,Electrical Equipment,60x240x210,Yani_Circuit breaker_SwitchBoard,L5
-L5017,4326891,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L5
-L5023,3893013,Electrical Fixtures,FOR LSS UPS,Frame_Socket,L5
-L5025,5196966,Mechanical Equipment,AW 800,AW 800,L5
-L5027,7807766,Mechanical Equipment,AWSQ 1500,AWSQ 1500,L5
-L5027,7807912,Mechanical Equipment,AWSQ 1000,AWSQ 1000,L5
-L5028,3892904,Electrical Fixtures,Normal x1 WP,Frame_Socket,L5
-L5028,3892931,Electrical Fixtures,Type 2,Frame_Socket,L5
-L5028,3892933,Electrical Fixtures,Type 2,Frame_Socket,L5
-L5028,3892934,Electrical Fixtures,Type 2,Frame_Socket,L5
-L5032,1439800,Electrical Equipment,100mmx46mm,M_Circuit Breaker Switchboard,L5
-L5032,1439801,Electrical Equipment,100mmx46mm,M_Circuit Breaker Switchboard,L5
-L5032,1439806,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,L5
-L5032,1439807,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,L5
-L5032,4326784,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L5
-L5032,4326829,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L5
-L5033,5197229,Mechanical Equipment,AWSQ 450,AWSQ 450,L5
-L5037,3892911,Electrical Fixtures,Normal x1 WP,Frame_Socket,L5
-L5037,3892927,Electrical Fixtures,Type 2,Frame_Socket,L5
-L5037,3892929,Electrical Fixtures,Type 2,Frame_Socket,L5
-L5037,3892930,Electrical Fixtures,Type 2,Frame_Socket,L5
-L5038,2308358,Electrical Equipment,60x240x210  GEN,Yani_Circuit breaker_SwitchBoard,L5
-L5038,4326707,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L5
-L5040,2308073,Electrical Equipment,60x240x210,Yani_Circuit breaker_SwitchBoard,L5
-L5040,4326745,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L5
-L5046,3893015,Electrical Fixtures,FOR LSS UPS,Frame_Socket,L5
-L5052,3893005,Electrical Fixtures,FOR LSS UPS,Frame_Socket,L5
-L5059,7802649,Mechanical Equipment,AWSQ 2000,AWSQ 2000,L5
-L5064,1439808,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,L5
-L5064,1439809,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,L5
-L5064,1439810,Electrical Equipment,100mmx46mm,M_Circuit Breaker Switchboard,L5
-L5064,4326614,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L5
-L5064,4326659,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L5
 L5070,3892905,Electrical Fixtures,Normal x1 WP,Frame_Socket,L5
 L5070,3892912,Electrical Fixtures,Type 2,Frame_Socket,L5
 L5070,3892914,Electrical Fixtures,Type 2,Frame_Socket,L5
 L5070,3892915,Electrical Fixtures,Type 2,Frame_Socket,L5
 L5070,3892916,Electrical Fixtures,Type 2,Frame_Socket,L5
 L5070,3892917,Electrical Fixtures,Type 2,Frame_Socket,L5
+L5025,3068961,Lighting Fixtures,42W 4000K 24h,סי לד 6600,L5
+L5025,5196966,Mechanical Equipment,AW 800,AW 800,L5
+L5046,3893015,Electrical Fixtures,FOR LSS UPS,Frame_Socket,L5
+L5005,1518614,Lighting Fixtures,42W 4000K 24h,סי לד 6600,L5
+L5023,3893013,Electrical Fixtures,FOR LSS UPS,Frame_Socket,L5
+L5040,2308073,Electrical Equipment,60x240x210,Yani_Circuit breaker_SwitchBoard,L5
+L5040,4326745,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L5
 L5071,3892907,Electrical Fixtures,Normal x1 WP,Frame_Socket,L5
 L5071,3892918,Electrical Fixtures,Type 2,Frame_Socket,L5
 L5071,3892920,Electrical Fixtures,Type 2,Frame_Socket,L5
 L5071,3892921,Electrical Fixtures,Type 2,Frame_Socket,L5
 L5071,3892922,Electrical Fixtures,Type 2,Frame_Socket,L5
-L5076,2311432,Electrical Equipment,60x160x210 UPS,Yani_Circuit breaker_SwitchBoard,L5
-L5076,4326560,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L5
-L5077,2312503,Electrical Equipment,60x240x210  GEN,Yani_Circuit breaker_SwitchBoard,L5
-L5077,2312504,Electrical Equipment,60x240x210,Yani_Circuit breaker_SwitchBoard,L5
-L5077,4326342,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L5
-L5077,4326516,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L5
-L5080,3893011,Electrical Fixtures,FOR LSS UPS,Frame_Socket,L5
-L5094,3893003,Electrical Fixtures,FOR LSS UPS,Frame_Socket,L5
+L5037,3892911,Electrical Fixtures,Normal x1 WP,Frame_Socket,L5
+L5037,3892927,Electrical Fixtures,Type 2,Frame_Socket,L5
+L5037,3892929,Electrical Fixtures,Type 2,Frame_Socket,L5
+L5037,3892930,Electrical Fixtures,Type 2,Frame_Socket,L5
+L5052,3893005,Electrical Fixtures,FOR LSS UPS,Frame_Socket,L5
+L5038,2308358,Electrical Equipment,60x240x210  GEN,Yani_Circuit breaker_SwitchBoard,L5
+L5038,4326707,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L5
+L5059,7802649,Mechanical Equipment,AWSQ 2000,AWSQ 2000,L5
+L5027,7807766,Mechanical Equipment,AWSQ 1500,AWSQ 1500,L5
+L5027,7807912,Mechanical Equipment,AWSQ 1000,AWSQ 1000,L5
+L5064,1439808,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,L5
+L5064,1439809,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,L5
+L5064,1439810,Electrical Equipment,100mmx46mm,M_Circuit Breaker Switchboard,L5
+L5064,4326614,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L5
+L5064,4326659,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L5
+L5003,3892910,Electrical Fixtures,Normal x1 WP,Frame_Socket,L5
+L5003,3892946,Electrical Fixtures,Type 2,Frame_Socket,L5
+L5003,3892948,Electrical Fixtures,Type 2,Frame_Socket,L5
+L5003,3892949,Electrical Fixtures,Type 2,Frame_Socket,L5
+L5028,3892904,Electrical Fixtures,Normal x1 WP,Frame_Socket,L5
+L5028,3892931,Electrical Fixtures,Type 2,Frame_Socket,L5
+L5028,3892933,Electrical Fixtures,Type 2,Frame_Socket,L5
+L5028,3892934,Electrical Fixtures,Type 2,Frame_Socket,L5
+L5033,5197229,Mechanical Equipment,AWSQ 450,AWSQ 450,L5
+L5032,1439800,Electrical Equipment,100mmx46mm,M_Circuit Breaker Switchboard,L5
+L5032,1439801,Electrical Equipment,100mmx46mm,M_Circuit Breaker Switchboard,L5
+L5032,1439806,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,L5
+L5032,1439807,Electrical Equipment,400mmx250mmx600h,M_Transformer Switchboard,L5
+L5032,4326784,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L5
+L5032,4326829,Electrical Fixtures,xשקע תקשורת 2,SOCKETS1,L5
