@@ -63,6 +63,8 @@ with st.sidebar:
 # שלב 2: טעינת נתוני הקומה שנבחרה
 floor_path = os.path.join(DATA_FOLDER, f"{selected_floor}.csv")
 df = pd.read_csv(floor_path)
+df.columns = df.columns.str.strip()
+
 
 # שלב 3: הצגת רשימת חדרים בטבלה
 room_numbers = sorted(df['מס\' חדר'].unique())
