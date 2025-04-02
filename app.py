@@ -102,15 +102,14 @@ if not selected_rooms:
 else:
     st.markdown(f"### \U0001F527 פרטי ציוד בחדרים: {', '.join(selected_rooms)}")
 
-st.dataframe(filtered_data[['ID', 'קטגוריה', 'סוג', 'משפחה']], use_container_width=True, hide_index=True)
+main_table = filtered_data[['מספר חדר', 'ID', 'קטגוריה', 'סוג', 'משפחה']]
+st.dataframe(main_table, use_container_width=True, hide_index=True)
 
-# כפתור להורדת הציוד לאקסל
-csv_data = filtered_data[['ID', 'קטגוריה', 'סוג', 'משפחה']].to_csv(index=False).encode('utf-8-sig')
-filename = f"floor_{selected_floor}_equipment.csv" if not selected_rooms else f"rooms_{'_'.join(selected_rooms)}_equipment.csv"
+csv_main_table = main_table.to_csv(index=False).encode('utf-8-sig')
 st.download_button(
-    label="\U0001F4BE הורד לקובץ Excel",
-    data=csv_data,
-    file_name=filename,
+    label="\U0001F4BE הורד את טבלת הציוד",
+    data=csv_main_table,
+    file_name="room_equipment_details.csv",
     mime="text/csv"
 )
 
@@ -121,12 +120,28 @@ if not summary_table.empty:
     st.markdown("### \U0001F4CA סיכום כמות לפי קטגוריה וסוג:")
     st.dataframe(summary_table, use_container_width=True, hide_index=True)
 
+    csv_summary_table = summary_table.to_csv(index=False).encode('utf-8-sig')
+    st.download_button(
+        label="\U0001F4BE הורד סיכום לפי קטגוריה וסוג",
+        data=csv_summary_table,
+        file_name="summary_by_category_type.csv",
+        mime="text/csv"
+    )
+
 # טבלת סיכום לפי חדרים
 summary_by_room = filtered_data.groupby(['מספר חדר', 'קטגוריה', 'סוג']).size().reset_index(name='כמות')
 
 if not summary_by_room.empty:
     st.markdown("### \U0001F4CB סיכום ציוד לפי חדרים:")
     st.dataframe(summary_by_room, use_container_width=True, hide_index=True)
+
+    csv_summary_by_room = summary_by_room.to_csv(index=False).encode('utf-8-sig')
+    st.download_button(
+        label="\U0001F4BE הורד סיכום לפי חדרים",
+        data=csv_summary_by_room,
+        file_name="summary_by_room.csv",
+        mime="text/csv"
+    )
 
 # שלב 5: קריאה לפעולה
 st.markdown("---")
