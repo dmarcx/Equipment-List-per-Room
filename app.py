@@ -76,9 +76,13 @@ for i in range(0, len(room_numbers), 10):
 
 # Sidebar המשך בחירה
 with st.sidebar:
-    selected_room = st.selectbox("בחר חדר להצגת הציוד:", room_numbers)
+    all_rooms_option = "הצג את כל הקומה"
+    selected_rooms = st.multiselect("בחר חדרים להצגת הציוד:", options=room_numbers, default=[])
 
-    room_data = df[df['מספר חדר'] == selected_room]
+    if not selected_rooms:
+        room_data = df.copy()
+    else:
+        room_data = df[df['מספר חדר'].isin(selected_rooms)]
 
     categories = ['הצג הכל'] + sorted(room_data['קטגוריה'].dropna().unique())
     types = ['הצג הכל'] + sorted(room_data['סוג'].dropna().unique())
@@ -93,24 +97,36 @@ if selected_category != 'הצג הכל':
 if selected_type != 'הצג הכל':
     filtered_data = filtered_data[filtered_data['סוג'] == selected_type]
 
-st.markdown(f"### \U0001F527 פרטי ציוד בחדר {selected_room}:")
+if not selected_rooms:
+    st.markdown(f"### \U0001F527 פרטי ציוד בכל הקומה {selected_floor}:")
+else:
+    st.markdown(f"### \U0001F527 פרטי ציוד בחדרים: {', '.join(selected_rooms)}")
+
 st.dataframe(filtered_data[['ID', 'קטגוריה', 'סוג', 'משפחה']], use_container_width=True, hide_index=True)
 
 # כפתור להורדת הציוד לאקסל
 csv_data = filtered_data[['ID', 'קטגוריה', 'סוג', 'משפחה']].to_csv(index=False).encode('utf-8-sig')
+filename = f"floor_{selected_floor}_equipment.csv" if not selected_rooms else f"rooms_{'_'.join(selected_rooms)}_equipment.csv"
 st.download_button(
     label="\U0001F4BE הורד לקובץ Excel",
     data=csv_data,
-    file_name=f"room_{selected_room}_equipment.csv",
+    file_name=filename,
     mime="text/csv"
 )
 
-# טבלת סיכום – כמה פרטי ציוד מכל סוג יש בחדר
+# טבלת סיכום – כמה פרטי ציוד מכל סוג יש בחדר או קומה
 summary_table = filtered_data.groupby(['קטגוריה', 'סוג']).size().reset_index(name='כמות')
 
 if not summary_table.empty:
     st.markdown("### \U0001F4CA סיכום כמות לפי קטגוריה וסוג:")
     st.dataframe(summary_table, use_container_width=True, hide_index=True)
+
+# טבלת סיכום לפי חדרים
+summary_by_room = filtered_data.groupby(['מספר חדר', 'קטגוריה', 'סוג']).size().reset_index(name='כמות')
+
+if not summary_by_room.empty:
+    st.markdown("### \U0001F4CB סיכום ציוד לפי חדרים:")
+    st.dataframe(summary_by_room, use_container_width=True, hide_index=True)
 
 # שלב 5: קריאה לפעולה
 st.markdown("---")
