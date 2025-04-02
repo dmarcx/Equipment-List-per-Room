@@ -117,7 +117,12 @@ st.download_button(
 summary_table = filtered_data.groupby(['קטגוריה', 'סוג']).size().reset_index(name='כמות')
 
 if not summary_table.empty:
-    st.markdown("### \U0001F4CA סיכום כמות לפי קטגוריה וסוג:")
+    if not selected_rooms:
+        title = f"### \U0001F4CA סיכום כמות לפי קטגוריה וסוג – קומה {selected_floor}:"
+    else:
+        title = f"### \U0001F4CA סיכום כמות לפי קטגוריה וסוג – חדרים: {', '.join(selected_rooms)}"
+
+    st.markdown(title)
     st.dataframe(summary_table, use_container_width=True, hide_index=True)
 
     csv_summary_table = summary_table.to_csv(index=False).encode('utf-8-sig')
