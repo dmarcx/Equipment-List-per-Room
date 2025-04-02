@@ -105,6 +105,13 @@ st.download_button(
     mime="text/csv"
 )
 
+# טבלת סיכום – כמה פרטי ציוד מכל סוג יש בחדר
+summary_table = filtered_data.groupby(['קטגוריה', 'סוג']).size().reset_index(name='כמות')
+
+if not summary_table.empty:
+    st.markdown("### \U0001F4CA סיכום כמות לפי קטגוריה וסוג:")
+    st.dataframe(summary_table, use_container_width=True, hide_index=True)
+
 # שלב 5: קריאה לפעולה
 st.markdown("---")
 st.success("ניתן לבחור קומה נוספת מהתפריט הצדדי כדי להמשיך.")
