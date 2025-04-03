@@ -105,7 +105,9 @@ if not selected_rooms:
 else:
     st.markdown(f"### \U0001F527 פרטי ציוד בחדרים: {', '.join(selected_rooms)}")
 
-main_table = filtered_data[['מספר חדר', 'ID', 'קטגוריה', 'סוג', 'משפחה']]
+main_table = filtered_data[['מספר חדר', 'ID', 'קטגוריה', 'סוג', 'משפחה']].copy()
+main_table["✔"] = False
+main_table["הערה"] = ""
 st.dataframe(main_table, use_container_width=True, hide_index=True)
 
 csv_main_table = main_table.to_csv(index=False).encode('utf-8-sig')
@@ -156,25 +158,6 @@ st.markdown("---")
 st.markdown("### 🤖 שאל את GPT על הציוד שבחרת:")
 
 user_question = st.text_input("מה תרצה לדעת?")
-
-# העלאת קובץ קול בלבד, לא הקלטה
-uploaded_audio = st.file_uploader("או העלה שאלה קולית (MP3/WAV):", type=["mp3", "wav"])
-
-if uploaded_audio is not None:
-    client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
-    with tempfile.NamedTemporaryFile(delete=False, suffix=".wav") as tmp_file:
-        tmp_file.write(uploaded_audio.read())
-        tmp_path = tmp_file.name
-
-    with open(tmp_path, "rb") as f:
-        transcript = client.audio.transcriptions.create(
-            model="whisper-1",
-            file=f
-        )
-        user_question = transcript.text
-        st.success(f"השאלה שהוקלטה: {user_question}")
-else:
-    st.info("אין לך קובץ להעלאה? להקלטה קולית מהירה, פתח [הקלט כאן](https://online-voice-recorder.com/) ↗️, שמור כקובץ MP3 והעלה אותו.")
 
 def ask_gpt(prompt, context):
     client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
