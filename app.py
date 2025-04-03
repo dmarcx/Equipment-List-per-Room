@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import os
-import openai
+from openai import OpenAI
 
 # הגדרת סיסמה
 PASSWORD = "1234"
@@ -156,8 +156,8 @@ st.markdown("### 🤖 שאל את GPT על הציוד שבחרת:")
 user_question = st.text_input("מה תרצה לדעת?")
 
 def ask_gpt(prompt, context):
-    openai.api_key = st.secrets["OPENAI_API_KEY"]
-    response = openai.ChatCompletion.create(
+    client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
+    response = client.chat.completions.create(
         model="gpt-4",
         messages=[
             {"role": "system", "content": "אתה עוזר חכם בתחום ניתוח נתונים טכניים של ציוד לפי חדרים."},
