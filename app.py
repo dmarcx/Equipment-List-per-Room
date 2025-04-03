@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import os
-from openai import OpenAI
+from openai import OpenAI, RateLimitError
 import openai
 import tempfile
 
@@ -161,19 +161,22 @@ user_question = st.text_input("מה תרצה לדעת?")
 
 def ask_gpt(prompt, context):
     client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
-    response = client.chat.completions.create(
-        model="gpt-4",
-        messages=[
-            {"role": "system", "content": "אתה עוזר חכם בתחום ניתוח נתונים טכניים של ציוד לפי חדרים."},
-            {"role": "user", "content": f"""הנתונים:
+    try:
+        response = client.chat.completions.create(
+            model="gpt-4",
+            messages=[
+                {"role": "system", "content": "אתה עוזר חכם בתחום ניתוח נתונים טכניים של ציוד לפי חדרים."},
+                {"role": "user", "content": f"""הנתונים:
 {context}
 
 שאלה:
 {prompt}"""}
-        ],
-        temperature=0.4
-    )
-    return response.choices[0].message.content.strip()
+            ],
+            temperature=0.4
+        )
+        return response.choices[0].message.content.strip()
+    except RateLimitError:
+        return "⚠ OpenAI קיבל יותר מדי בקשות בזמן קצר. נסה שוב בעוד מספר דקות."
 
 if user_question:
     preview_data = main_table.to_string(index=False)
