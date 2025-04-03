@@ -4,7 +4,6 @@ import os
 from openai import OpenAI
 import openai
 import tempfile
-from streamlit_audio_recorder import audio_recorder
 
 # הגדרת סיסמה
 PASSWORD = "1234"
@@ -158,16 +157,15 @@ st.markdown("### 🤖 שאל את GPT על הציוד שבחרת:")
 
 user_question = st.text_input("מה תרצה לדעת?")
 
-# הקלטת שאלה קולית
-st.markdown("או הקלט שאלה קולית:")
-audio_bytes = audio_recorder()
+# העלאת קובץ קול בלבד, לא הקלטה
+uploaded_audio = st.file_uploader("או העלה שאלה קולית (MP3/WAV):", type=["mp3", "wav"])
 
-if audio_bytes:
+if uploaded_audio is not None:
+    client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
     with tempfile.NamedTemporaryFile(delete=False, suffix=".wav") as tmp_file:
-        tmp_file.write(audio_bytes)
+        tmp_file.write(uploaded_audio.read())
         tmp_path = tmp_file.name
 
-    client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
     with open(tmp_path, "rb") as f:
         transcript = client.audio.transcriptions.create(
             model="whisper-1",
