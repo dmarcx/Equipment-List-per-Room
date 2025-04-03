@@ -193,7 +193,7 @@ def ask_gpt(prompt, context):
     return response.choices[0].message.content.strip()
 
 if user_question:
-    preview_data = main_table.head(50).to_string(index=False)
+    preview_data = main_table.to_string(index=False)
     gpt_answer = ask_gpt(user_question, preview_data)
     st.markdown(f"**תשובת GPT:**\n\n{gpt_answer}")
 
