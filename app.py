@@ -2,6 +2,12 @@ import streamlit as st
 import pandas as pd
 import os
 from openai import OpenAI
+from streamlit_webrtc import webrtc_streamer, WebRtcMode, ClientSettings
+import av
+import tempfile
+import openai
+import numpy as np
+import queue
 
 # הגדרת סיסמה
 PASSWORD = "1234"
@@ -154,6 +160,12 @@ st.markdown("---")
 st.markdown("### 🤖 שאל את GPT על הציוד שבחרת:")
 
 user_question = st.text_input("מה תרצה לדעת?")
+
+# זיהוי דיבור לקלט קולי
+if st.button("🎙️ לחץ להקלטה בקול"):
+    st.info("תמיכה בהקלטה קולית מתבצעת דרך streamlit-webrtc ודורשת רשות מיקרופון.")
+    st.markdown("*בהמשך נוסיף תמיכה מלאה בהמרה אוטומטית לשאלה*.")
+
 
 def ask_gpt(prompt, context):
     client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
