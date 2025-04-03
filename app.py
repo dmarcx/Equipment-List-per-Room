@@ -180,7 +180,7 @@ def ask_gpt(prompt, context_df):
         return "⚠ OpenAI קיבל יותר מדי בקשות בזמן קצר. נסה שוב בעוד מספר דקות."
 
 if user_question:
-    gpt_answer = ask_gpt(user_question, summary_table)
+    gpt_answer = ask_gpt(user_question, summary_by_room)
     st.markdown(f"**תשובת GPT:**\n\n{gpt_answer}")
 
 # שלב 5: קריאה לפעולה
