@@ -161,9 +161,11 @@ def ask_gpt(prompt, context):
         model="gpt-4",
         messages=[
             {"role": "system", "content": "אתה עוזר חכם בתחום ניתוח נתונים טכניים של ציוד לפי חדרים."},
-            {"role": "user", "content": f"הנתונים:
-{context}\n\nשאלה:
-{prompt}"}
+            {"role": "user", "content": f"""הנתונים:
+{context}
+
+שאלה:
+{prompt}"""}
         ],
         temperature=0.4
     )
