@@ -2,12 +2,8 @@ import streamlit as st
 import pandas as pd
 import os
 from openai import OpenAI
-from streamlit_webrtc import webrtc_streamer, WebRtcMode, ClientSettings
-import av
-import tempfile
 import openai
-import numpy as np
-import queue
+import tempfile
 
 # הגדרת סיסמה
 PASSWORD = "1234"
@@ -161,10 +157,21 @@ st.markdown("### 🤖 שאל את GPT על הציוד שבחרת:")
 
 user_question = st.text_input("מה תרצה לדעת?")
 
-# זיהוי דיבור לקלט קולי
-if st.button("🎙️ לחץ להקלטה בקול"):
-    st.info("תמיכה בהקלטה קולית מתבצעת דרך streamlit-webrtc ודורשת רשות מיקרופון.")
-    st.markdown("*בהמשך נוסיף תמיכה מלאה בהמרה אוטומטית לשאלה*.")
+# העלאת קובץ קול (במקום מיקרופון)
+audio_file = st.file_uploader("או העלה שאלה קולית (mp3/wav)", type=["wav", "mp3"])
+if audio_file is not None:
+    with tempfile.NamedTemporaryFile(delete=False) as tmp_file:
+        tmp_file.write(audio_file.read())
+        tmp_path = tmp_file.name
+
+    client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
+    with open(tmp_path, "rb") as f:
+        transcript = client.audio.transcriptions.create(
+            model="whisper-1",
+            file=f
+        )
+        user_question = transcript.text
+        st.success(f"השאלה שהתקבלה: {user_question}")
 
 
 def ask_gpt(prompt, context):
