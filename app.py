@@ -159,7 +159,8 @@ st.markdown("### 🤖 שאל את GPT על הציוד שבחרת:")
 
 user_question = st.text_input("מה תרצה לדעת?")
 
-def ask_gpt(prompt, context):
+def ask_gpt(prompt, context_df):
+    context = context_df.to_string(index=False)
     client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
     try:
         response = client.chat.completions.create(
@@ -179,8 +180,7 @@ def ask_gpt(prompt, context):
         return "⚠ OpenAI קיבל יותר מדי בקשות בזמן קצר. נסה שוב בעוד מספר דקות."
 
 if user_question:
-    preview_data = main_table.to_string(index=False)
-    gpt_answer = ask_gpt(user_question, preview_data)
+    gpt_answer = ask_gpt(user_question, summary_table)
     st.markdown(f"**תשובת GPT:**\n\n{gpt_answer}")
 
 # שלב 5: קריאה לפעולה
