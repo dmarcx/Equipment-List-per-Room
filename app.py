@@ -174,7 +174,7 @@ if uploaded_audio is not None:
         user_question = transcript.text
         st.success(f"השאלה שהוקלטה: {user_question}")
 else:
-    st.info("אין לך קובץ להעלאה? להקלטה קולית מהירה, פתח [הקלט כאן](https://online-voice-recorder.com/he/) \u2197\ufe0f, שמור כקובץ MP3 והעלה אותו.")
+    st.info("אין לך קובץ להעלאה? להקלטה קולית מהירה, פתח [הקלט כאן](https://online-voice-recorder.com/) ↗️, שמור כקובץ MP3 והעלה אותו.")
 
 def ask_gpt(prompt, context):
     client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
