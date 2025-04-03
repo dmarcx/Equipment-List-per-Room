@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import os
+import openai
 
 # הגדרת סיסמה
 PASSWORD = "1234"
@@ -147,6 +148,31 @@ if not summary_by_room.empty:
         file_name="summary_by_room.csv",
         mime="text/csv"
     )
+
+# שיחה עם GPT
+st.markdown("---")
+st.markdown("### 🤖 שאל את GPT על הציוד שבחרת:")
+
+user_question = st.text_input("מה תרצה לדעת?")
+
+def ask_gpt(prompt, context):
+    openai.api_key = st.secrets["OPENAI_API_KEY"]
+    response = openai.ChatCompletion.create(
+        model="gpt-4",
+        messages=[
+            {"role": "system", "content": "אתה עוזר חכם בתחום ניתוח נתונים טכניים של ציוד לפי חדרים."},
+            {"role": "user", "content": f"הנתונים:
+{context}\n\nשאלה:
+{prompt}"}
+        ],
+        temperature=0.4
+    )
+    return response.choices[0].message.content.strip()
+
+if user_question:
+    preview_data = main_table.head(50).to_string(index=False)
+    gpt_answer = ask_gpt(user_question, preview_data)
+    st.markdown(f"**תשובת GPT:**\n\n{gpt_answer}")
 
 # שלב 5: קריאה לפעולה
 st.markdown("---")
