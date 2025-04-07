@@ -1,5 +1,5 @@
 ﻿מספר חדר,ID,קטגוריה,סוג,משפחה,נבדק,הערה
-L1002,3890596,Electrical Fixtures,Normal x1 WP,Frame_Socket,False,
+L1002,3890596,Electrical Fixtures,Normal x1 WP,Frame_Socket,True,לא קיים
 L1002,3890609,Electrical Fixtures,Type 2,Frame_Socket,False,
 L1002,3890611,Electrical Fixtures,Type 2,Frame_Socket,False,
 L1002,3890613,Electrical Fixtures,Type 2,Frame_Socket,False,
