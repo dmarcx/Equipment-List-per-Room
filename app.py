@@ -4,6 +4,8 @@ import os
 from openai import OpenAI, RateLimitError
 import openai
 import tempfile
+import base64
+import requests
 
 # הגדרת סיסמה
 PASSWORD = "1234"
@@ -122,11 +124,10 @@ for idx, row in main_table.iterrows():
     note = cols[6].text_input("", key=f"note_{idx}")
     edited_rows.append([row['מספר חדר'], row['ID'], row['קטגוריה'], row['סוג'], row['משפחה'], checked, note])
 
-# המרת הרשומות לאחר עריכה לדאטהפריים
 main_table_updated = pd.DataFrame(edited_rows, columns=['מספר חדר', 'ID', 'קטגוריה', 'סוג', 'משפחה', 'נבדק', 'הערה'])
-
 st.dataframe(main_table_updated, use_container_width=True, hide_index=True)
 
+# הורדה ל-CSV
 csv_main_table = main_table_updated.to_csv(index=False).encode('utf-8-sig')
 st.download_button(
     label="\U0001F4BE הורד את טבלת הציוד",
@@ -135,15 +136,54 @@ st.download_button(
     mime="text/csv"
 )
 
-# טבלת סיכום – כמה פרטי ציוד מכל סוג יש בחדר או קומה
-summary_table = filtered_data.groupby(['קטגוריה', 'סוג']).size().reset_index(name='כמות')
+# כפתור שמירה ל-GitHub
+st.markdown("---")
+if st.button("\U0001F4E5 שמור את העדכונים ל־GitHub"):
+    def update_file_to_github(file_path, repo, branch, target_path, token):
+        with open(file_path, "rb") as f:
+            content = f.read()
+        content_b64 = base64.b64encode(content).decode()
 
-if not summary_table.empty:
-    if not selected_rooms:
-        title = f"### \U0001F4CA סיכום כמות לפי קטגוריה וסוג – קומה {selected_floor}:"
+        url = f"https://api.github.com/repos/{repo}/contents/{target_path}"
+        headers = {
+            "Authorization": f"Bearer {token}",
+            "Accept": "application/vnd.github.v3+json"
+        }
+
+        response = requests.get(url, headers=headers, params={"ref": branch})
+        sha = response.json()['sha'] if response.status_code == 200 else None
+
+        data = {
+            "message": f"Update equipment data for floor {selected_floor}",
+            "branch": branch,
+            "content": content_b64,
+        }
+        if sha:
+            data["sha"] = sha
+
+        response = requests.put(url, headers=headers, json=data)
+        return response.status_code, response.json()
+
+    temp_path = os.path.join(DATA_FOLDER, f"{selected_floor}.csv")
+    main_table_updated.to_csv(temp_path, index=False, encoding='utf-8-sig')
+
+    status, result = update_file_to_github(
+        file_path=temp_path,
+        repo=st.secrets["GITHUB_REPO"],
+        branch=st.secrets["GITHUB_BRANCH"],
+        target_path=f"{selected_floor}.csv",
+        token=st.secrets["GITHUB_TOKEN"]
+    )
+
+    if status in [200, 201]:
+        st.success("✅ הקובץ עודכן בהצלחה ב־GitHub!")
     else:
-        title = f"### \U0001F4CA סיכום כמות לפי קטגוריה וסוג – חדרים: {', '.join(selected_rooms)}"
+        st.error(f"❌ שגיאה בעדכון: {result}")
 
+# טבלת סיכום לפי קטגוריה וסוג
+summary_table = filtered_data.groupby(['קטגוריה', 'סוג']).size().reset_index(name='כמות')
+if not summary_table.empty:
+    title = f"### \U0001F4CA סיכום כמות לפי קטגוריה וסוג – קומה {selected_floor if not selected_rooms else ', '.join(selected_rooms)}"
     st.markdown(title)
     st.dataframe(summary_table, use_container_width=True, hide_index=True)
 
@@ -157,7 +197,6 @@ if not summary_table.empty:
 
 # טבלת סיכום לפי חדרים
 summary_by_room = filtered_data.groupby(['מספר חדר', 'קטגוריה', 'סוג']).size().reset_index(name='כמות')
-
 if not summary_by_room.empty:
     st.markdown("### \U0001F4CB סיכום ציוד לפי חדרים:")
     st.dataframe(summary_by_room, use_container_width=True, hide_index=True)
