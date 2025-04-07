@@ -106,11 +106,28 @@ else:
     st.markdown(f"### \U0001F527 פרטי ציוד בחדרים: {', '.join(selected_rooms)}")
 
 main_table = filtered_data[['מספר חדר', 'ID', 'קטגוריה', 'סוג', 'משפחה']].copy()
-main_table["✔"] = False
+main_table["נבדק"] = False
 main_table["הערה"] = ""
-st.dataframe(main_table, use_container_width=True, hide_index=True)
 
-csv_main_table = main_table.to_csv(index=False).encode('utf-8-sig')
+# יצירת טופס לכל שורה
+edited_rows = []
+for idx, row in main_table.iterrows():
+    cols = st.columns([1, 1, 2, 2, 2, 1, 2])
+    cols[0].write(row['מספר חדר'])
+    cols[1].write(row['ID'])
+    cols[2].write(row['קטגוריה'])
+    cols[3].write(row['סוג'])
+    cols[4].write(row['משפחה'])
+    checked = cols[5].checkbox("", key=f"chk_{idx}")
+    note = cols[6].text_input("", key=f"note_{idx}")
+    edited_rows.append([row['מספר חדר'], row['ID'], row['קטגוריה'], row['סוג'], row['משפחה'], checked, note])
+
+# המרת הרשומות לאחר עריכה לדאטהפריים
+main_table_updated = pd.DataFrame(edited_rows, columns=['מספר חדר', 'ID', 'קטגוריה', 'סוג', 'משפחה', 'נבדק', 'הערה'])
+
+st.dataframe(main_table_updated, use_container_width=True, hide_index=True)
+
+csv_main_table = main_table_updated.to_csv(index=False).encode('utf-8-sig')
 st.download_button(
     label="\U0001F4BE הורד את טבלת הציוד",
     data=csv_main_table,
