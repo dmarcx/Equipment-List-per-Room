@@ -70,13 +70,25 @@ floor_path = os.path.join(DATA_FOLDER, f"{selected_floor}.csv")
 df = pd.read_csv(floor_path)
 df.columns = df.columns.str.strip()
 
-# שלב 3: טעינת מפרט תאורה אם הועלה
+# שלב 3: טעינת מפרט תאורה אם הועלה או ברירת מחדל
+spec_df = pd.DataFrame()
+default_spec_path = os.path.join(DATA_FOLDER, "מפרט תאורה - L0001.xlsx")
 uploaded_spec_file = st.file_uploader("העלה קובץ מפרט תאורה (Excel)", type=["xlsx"])
+
 if uploaded_spec_file:
     spec_df = pd.read_excel(uploaded_spec_file)
-    spec_df.columns = spec_df.columns.str.strip()
+    st.info("📂 נטען קובץ מפרט שהועלה על־ידך.")
+elif os.path.exists(default_spec_path):
+    spec_df = pd.read_excel(default_spec_path)
+    st.info("📁 נטען קובץ ברירת מחדל מהמיקום הקבוע.")
 else:
-    spec_df = pd.DataFrame()
+    st.warning("⚠️ לא נטען קובץ מפרט. אנא העלה קובץ ידנית.")
+
+spec_df.columns = spec_df.columns.str.strip()
+if not spec_df.empty:
+    st.markdown("### \U0001F9FE מפרט תאורה:")
+    st.dataframe(spec_df, use_container_width=True)
+    st.write("\U0001F50D שמות עמודות במפרט:", list(spec_df.columns))
 
 # שלב 4: הצגת רשימת חדרים בטבלה
 room_numbers = sorted(df['מספר חדר'].unique())
