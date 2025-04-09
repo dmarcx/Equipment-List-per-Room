@@ -70,7 +70,7 @@ with st.sidebar:
 floor_path = os.path.join(DATA_FOLDER, f"{selected_floor}.csv")
 df = pd.read_csv(floor_path)
 df.columns = df.columns.str.strip()
-df['מספר חדר'] = df['מספר חדר'].astype(str).apply(lambda x: re.sub(r'[^֐-׿a-zA-Z0-9\s\-]', '', x.strip()))
+df['מספר חדר'] = df['מספר חדר'].astype(str).str.replace('\u200f', '', regex=True).str.strip()
 
 # בדיקה של הערכים הייחודיים
 st.write("הערכים הייחודיים בעמודת 'מספר חדר':", df['מספר חדר'].unique())
