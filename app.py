@@ -7,6 +7,11 @@ import tempfile
 import base64
 import requests
 import re
+from streamlit_webrtc import webrtc_streamer, WebRtcMode, ClientSettings
+import av
+import queue
+import threading
+import speech_recognition as sr
 
 # הגדרת סיסמה
 PASSWORD = "1234"
@@ -72,9 +77,6 @@ df = pd.read_csv(floor_path)
 df.columns = df.columns.str.strip()
 df['מספר חדר'] = df['מספר חדר'].astype(str).str.replace('\u200f', '', regex=True).str.strip()
 
-# בדיקה של הערכים הייחודיים
-st.write("הערכים הייחודיים בעמודת 'מספר חדר':", df['מספר חדר'].unique())
-
 # שלב 3: טעינת מפרט תאורה אם הועלה או ברירת מחדל
 spec_df = pd.DataFrame()
 default_spec_path = os.path.join(DATA_FOLDER, "מפרט תאורה - L0001.xlsx")
@@ -90,10 +92,6 @@ else:
     st.warning("⚠️ לא נטען קובץ מפרט. אנא העלה קובץ ידנית.")
 
 spec_df.columns = spec_df.columns.str.strip()
-if not spec_df.empty:
-    st.markdown("### \U0001F9FE מפרט תאורה:")
-    st.dataframe(spec_df, use_container_width=True)
-    st.write("\U0001F50D שמות עמודות במפרט:", list(spec_df.columns))
 
 # שלב 4: הצגת רשימת חדרים בטבלה
 room_numbers = sorted(df['מספר חדר'].unique())
@@ -127,7 +125,7 @@ if selected_category != 'הצג הכל':
 if selected_type != 'הצג הכל':
     filtered_data = filtered_data[filtered_data['סוג'] == selected_type]
 
-# שיחה עם GPT
+# שיחה עם GPT (שאלה כתובה)
 st.markdown("---")
 st.markdown("### 🤖 שאל את GPT על הציוד שבחרת:")
 
@@ -171,3 +169,43 @@ def ask_gpt(prompt, context_df, spec_df=None):
 if user_question:
     gpt_answer = ask_gpt(user_question, filtered_data, spec_df)
     st.markdown(f"**תשובת GPT:**\n\n{gpt_answer}")
+
+# שיחה קולית - הקלטה חיה מהדפדפן
+st.markdown("---")
+st.markdown("### 🎙️ דבר עכשיו עם GPT (הקלטה חיה):")
+
+audio_queue = queue.Queue()
+
+def audio_callback(frame):
+    audio_queue.put(frame.to_ndarray())
+    return av.AudioFrame.from_ndarray(frame.to_ndarray(), layout="mono")
+
+webrtc_ctx = webrtc_streamer(
+    key="speech",
+    mode=WebRtcMode.SENDRECV,
+    client_settings=ClientSettings(
+        media_stream_constraints={"audio": True, "video": False},
+        rtc_configuration={"iceServers": [{"urls": ["stun:stun.l.google.com:19302"]}]},
+    ),
+    audio_receiver_size=1024,
+    video_receiver_size=0,
+    sendback_audio=False,
+    audio_frame_callback=audio_callback,
+    async_processing=True,
+)
+
+if webrtc_ctx.state.playing:
+    st.info("מדבר... לחץ Stop כשתסיים.")
+    if st.button("המר לטקסט ושלח ל-GPT"):
+        recognizer = sr.Recognizer()
+        with sr.AudioFile(audio_queue.get()) as source:
+            audio_data = recognizer.record(source)
+            try:
+                query = recognizer.recognize_google(audio_data, language="he-IL")
+                st.success(f"שאלה שתומללה: {query}")
+                gpt_answer = ask_gpt(query, filtered_data, spec_df)
+                st.markdown(f"**תשובת GPT:**\n\n{gpt_answer}")
+            except sr.UnknownValueError:
+                st.warning("לא ניתן היה להבין את הדיבור.")
+            except sr.RequestError as e:
+                st.error(f"שגיאה מהשרת: {e}")
