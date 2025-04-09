@@ -6,6 +6,7 @@ import openai
 import tempfile
 import base64
 import requests
+import re
 
 # הגדרת סיסמה
 PASSWORD = "1234"
@@ -69,6 +70,10 @@ with st.sidebar:
 floor_path = os.path.join(DATA_FOLDER, f"{selected_floor}.csv")
 df = pd.read_csv(floor_path)
 df.columns = df.columns.str.strip()
+df['מספר חדר'] = df['מספר חדר'].astype(str).apply(lambda x: re.sub(r'[^֐-׿a-zA-Z0-9\s\-]', '', x.strip()))
+
+# בדיקה של הערכים הייחודיים
+st.write("הערכים הייחודיים בעמודת 'מספר חדר':", df['מספר חדר'].unique())
 
 # שלב 3: טעינת מפרט תאורה אם הועלה או ברירת מחדל
 spec_df = pd.DataFrame()
