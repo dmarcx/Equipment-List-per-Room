@@ -5,3 +5,4 @@ streamlit-webrtc==0.45.0
 gTTS
 speechrecognition
 av
+openpyxl
