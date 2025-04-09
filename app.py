@@ -12,6 +12,8 @@ import av
 import queue
 import threading
 import speech_recognition as sr
+import soundfile as sf
+import numpy as np
 
 # הגדרת סיסמה
 PASSWORD = "1234"
@@ -197,15 +199,22 @@ webrtc_ctx = webrtc_streamer(
 if webrtc_ctx.state.playing:
     st.info("מדבר... לחץ Stop כשתסיים.")
     if st.button("המר לטקסט ושלח ל-GPT"):
-        recognizer = sr.Recognizer()
-        with sr.AudioFile(audio_queue.get()) as source:
-            audio_data = recognizer.record(source)
-            try:
-                query = recognizer.recognize_google(audio_data, language="he-IL")
-                st.success(f"שאלה שתומללה: {query}")
-                gpt_answer = ask_gpt(query, filtered_data, spec_df)
-                st.markdown(f"**תשובת GPT:**\n\n{gpt_answer}")
-            except sr.UnknownValueError:
-                st.warning("לא ניתן היה להבין את הדיבור.")
-            except sr.RequestError as e:
-                st.error(f"שגיאה מהשרת: {e}")
+        if not audio_queue.empty():
+            audio_frames = list(audio_queue.queue)
+            audio_data = np.concatenate(audio_frames, axis=0).astype(np.float32)
+            temp_audio_file = tempfile.NamedTemporaryFile(delete=False, suffix=".wav")
+            sf.write(temp_audio_file.name, audio_data, 16000)
+            temp_audio_file.close()
+
+            recognizer = sr.Recognizer()
+            with sr.AudioFile(temp_audio_file.name) as source:
+                audio = recognizer.record(source)
+                try:
+                    query = recognizer.recognize_google(audio, language="he-IL")
+                    st.success(f"שאלה שתומללה: {query}")
+                    gpt_answer = ask_gpt(query, filtered_data, spec_df)
+                    st.markdown(f"**תשובת GPT:**\n\n{gpt_answer}")
+                except sr.UnknownValueError:
+                    st.warning("לא ניתן היה להבין את הדיבור.")
+                except sr.RequestError as e:
+                    st.error(f"שגיאה מהשרת: {e}")
