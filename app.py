@@ -4,6 +4,8 @@ import os
 from openai import OpenAI, RateLimitError
 import openai
 import tempfile
+import base64
+import requests
 
 # הגדרת סיסמה
 PASSWORD = "1234"
@@ -32,8 +34,6 @@ if not check_password():
 DATA_FOLDER = "."
 
 st.set_page_config(page_title="שליפת ציוד לפי חדר", layout="wide")
-
-st.markdown("הבוט מכיר את נתוני הבדיקות בלו\"ז ואת מפרט התאורה לחדר L0001.")
 
 # עיצוב כללי ודחיפת CSS עם תמיכה ב-RTL
 st.markdown("""
@@ -70,7 +70,27 @@ floor_path = os.path.join(DATA_FOLDER, f"{selected_floor}.csv")
 df = pd.read_csv(floor_path)
 df.columns = df.columns.str.strip()
 
-# שלב 3: הצגת רשימת חדרים בטבלה
+# שלב 3: טעינת מפרט תאורה אם הועלה או ברירת מחדל
+spec_df = pd.DataFrame()
+default_spec_path = os.path.join(DATA_FOLDER, "מפרט תאורה - L0001.xlsx")
+uploaded_spec_file = st.file_uploader("העלה קובץ מפרט תאורה (Excel)", type=["xlsx"])
+
+if uploaded_spec_file:
+    spec_df = pd.read_excel(uploaded_spec_file)
+    st.info("\U0001F4C2 נטען קובץ מפרט שהועלה על־ידך.")
+elif os.path.exists(default_spec_path):
+    spec_df = pd.read_excel(default_spec_path)
+    st.info("\U0001F4C1 נטען קובץ ברירת מחדל מהמיקום הקבוע.")
+else:
+    st.warning("⚠️ לא נטען קובץ מפרט. אנא העלה קובץ ידנית.")
+
+spec_df.columns = spec_df.columns.str.strip()
+if not spec_df.empty:
+    st.markdown("### \U0001F9FE מפרט תאורה:")
+    st.dataframe(spec_df, use_container_width=True)
+    st.write("\U0001F50D שמות עמודות במפרט:", list(spec_df.columns))
+
+# שלב 4: הצגת רשימת חדרים בטבלה
 room_numbers = sorted(df['מספר חדר'].unique())
 st.markdown(f"### \U0001F4CD חדרים זמינים בקומה {selected_floor}:")
 
@@ -102,84 +122,28 @@ if selected_category != 'הצג הכל':
 if selected_type != 'הצג הכל':
     filtered_data = filtered_data[filtered_data['סוג'] == selected_type]
 
-if not selected_rooms:
-    st.markdown(f"### \U0001F527 פרטי ציוד בכל הקומה {selected_floor}:")
-else:
-    st.markdown(f"### \U0001F527 פרטי ציוד בחדרים: {', '.join(selected_rooms)}")
-
-main_table = filtered_data[['מספר חדר', 'ID', 'קטגוריה', 'סוג', 'משפחה']].copy()
-main_table["נבדק"] = False
-main_table["הערה"] = ""
-
-# יצירת טופס לכל שורה
-edited_rows = []
-for idx, row in main_table.iterrows():
-    cols = st.columns([1, 1, 2, 2, 2, 1, 2])
-    cols[0].write(row['מספר חדר'])
-    cols[1].write(row['ID'])
-    cols[2].write(row['קטגוריה'])
-    cols[3].write(row['סוג'])
-    cols[4].write(row['משפחה'])
-    checked = cols[5].checkbox("", key=f"chk_{idx}")
-    note = cols[6].text_input("", key=f"note_{idx}")
-    edited_rows.append([row['מספר חדר'], row['ID'], row['קטגוריה'], row['סוג'], row['משפחה'], checked, note])
-
-# המרת הרשומות לאחר עריכה לדאטהפריים
-main_table_updated = pd.DataFrame(edited_rows, columns=['מספר חדר', 'ID', 'קטגוריה', 'סוג', 'משפחה', 'נבדק', 'הערה'])
-
-st.dataframe(main_table_updated, use_container_width=True, hide_index=True)
-
-csv_main_table = main_table_updated.to_csv(index=False).encode('utf-8-sig')
-st.download_button(
-    label="\U0001F4BE הורד את טבלת הציוד",
-    data=csv_main_table,
-    file_name="room_equipment_details.csv",
-    mime="text/csv"
-)
-
-# טבלת סיכום – כמה פרטי ציוד מכל סוג יש בחדר או קומה
-summary_table = filtered_data.groupby(['קטגוריה', 'סוג']).size().reset_index(name='כמות')
-
-if not summary_table.empty:
-    if not selected_rooms:
-        title = f"### \U0001F4CA סיכום כמות לפי קטגוריה וסוג – קומה {selected_floor}:"
-    else:
-        title = f"### \U0001F4CA סיכום כמות לפי קטגוריה וסוג – חדרים: {', '.join(selected_rooms)}"
-
-    st.markdown(title)
-    st.dataframe(summary_table, use_container_width=True, hide_index=True)
-
-    csv_summary_table = summary_table.to_csv(index=False).encode('utf-8-sig')
-    st.download_button(
-        label="\U0001F4BE הורד סיכום לפי קטגוריה וסוג",
-        data=csv_summary_table,
-        file_name="summary_by_category_type.csv",
-        mime="text/csv"
-    )
-
-# טבלת סיכום לפי חדרים
-summary_by_room = filtered_data.groupby(['מספר חדר', 'קטגוריה', 'סוג']).size().reset_index(name='כמות')
-
-if not summary_by_room.empty:
-    st.markdown("### \U0001F4CB סיכום ציוד לפי חדרים:")
-    st.dataframe(summary_by_room, use_container_width=True, hide_index=True)
-
-    csv_summary_by_room = summary_by_room.to_csv(index=False).encode('utf-8-sig')
-    st.download_button(
-        label="\U0001F4BE הורד סיכום לפי חדרים",
-        data=csv_summary_by_room,
-        file_name="summary_by_room.csv",
-        mime="text/csv"
-    )
-
 # שיחה עם GPT
 st.markdown("---")
 st.markdown("### 🤖 שאל את GPT על הציוד שבחרת:")
 
 user_question = st.text_input("מה תרצה לדעת?")
 
-def ask_gpt(prompt, context_df):
+def ask_gpt(prompt, context_df, spec_df=None):
     context = context_df.to_string(index=False)
+
+    spec_context = ""
+    if spec_df is not None and not spec_df.empty:
+        relevant_rooms = context_df['מספר חדר'].unique()
+        filtered_spec = spec_df[spec_df['מספר חדר'].isin(relevant_rooms)]
+        if not filtered_spec.empty:
+            spec_lines = []
+            for _, row in filtered_spec.iterrows():
+                spec_lines.append(
+                    f"חדר {row['מספר חדר']}: נדרש {row['מספר יחידות']} יחידות של גוף {row['סוג גוף תאורה']} "
+                    f"בעוצמה של {row['עוצמה נדרשת (LUX)']} לוקס, מיקום: {row['מיקום']}."
+                )
+            spec_context = "\n\nמפרט דרישות התאורה:\n" + "\n".join(spec_lines)
+
     client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
     try:
         response = client.chat.completions.create(
@@ -188,6 +152,7 @@ def ask_gpt(prompt, context_df):
                 {"role": "system", "content": "אתה עוזר חכם בתחום ניתוח נתונים טכניים של ציוד לפי חדרים."},
                 {"role": "user", "content": f"""הנתונים:
 {context}
+{spec_context}
 
 שאלה:
 {prompt}"""}
@@ -199,9 +164,5 @@ def ask_gpt(prompt, context_df):
         return "⚠ OpenAI קיבל יותר מדי בקשות בזמן קצר. נסה שוב בעוד מספר דקות."
 
 if user_question:
-    gpt_answer = ask_gpt(user_question, summary_by_room)
+    gpt_answer = ask_gpt(user_question, filtered_data, spec_df)
     st.markdown(f"**תשובת GPT:**\n\n{gpt_answer}")
-
-# שלב 5: קריאה לפעולה
-st.markdown("---")
-st.success("ניתן לבחור קומה נוספת מהתפריט הצדדי כדי להמשיך.")
