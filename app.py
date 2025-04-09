@@ -4,8 +4,6 @@ import os
 from openai import OpenAI, RateLimitError
 import openai
 import tempfile
-import base64
-import requests
 
 # הגדרת סיסמה
 PASSWORD = "1234"
@@ -34,6 +32,8 @@ if not check_password():
 DATA_FOLDER = "."
 
 st.set_page_config(page_title="שליפת ציוד לפי חדר", layout="wide")
+
+st.markdown("הבוט מכיר את נתוני הבדיקות בלו\"ז ואת מפרט התאורה לחדר L0001.")
 
 # עיצוב כללי ודחיפת CSS עם תמיכה ב-RTL
 st.markdown("""
@@ -70,27 +70,7 @@ floor_path = os.path.join(DATA_FOLDER, f"{selected_floor}.csv")
 df = pd.read_csv(floor_path)
 df.columns = df.columns.str.strip()
 
-# שלב 3: טעינת מפרט תאורה אם הועלה או ברירת מחדל
-spec_df = pd.DataFrame()
-default_spec_path = os.path.join(DATA_FOLDER, "מפרט תאורה - L0001.xlsx")
-uploaded_spec_file = st.file_uploader("העלה קובץ מפרט תאורה (Excel)", type=["xlsx"])
-
-if uploaded_spec_file:
-    spec_df = pd.read_excel(uploaded_spec_file)
-    st.info("📂 נטען קובץ מפרט שהועלה על־ידך.")
-elif os.path.exists(default_spec_path):
-    spec_df = pd.read_excel(default_spec_path)
-    st.info("📁 נטען קובץ ברירת מחדל מהמיקום הקבוע.")
-else:
-    st.warning("⚠️ לא נטען קובץ מפרט. אנא העלה קובץ ידנית.")
-
-spec_df.columns = spec_df.columns.str.strip()
-if not spec_df.empty:
-    st.markdown("### \U0001F9FE מפרט תאורה:")
-    st.dataframe(spec_df, use_container_width=True)
-    st.write("\U0001F50D שמות עמודות במפרט:", list(spec_df.columns))
-
-# שלב 4: הצגת רשימת חדרים בטבלה
+# שלב 3: הצגת רשימת חדרים בטבלה
 room_numbers = sorted(df['מספר חדר'].unique())
 st.markdown(f"### \U0001F4CD חדרים זמינים בקומה {selected_floor}:")
 
@@ -144,10 +124,11 @@ for idx, row in main_table.iterrows():
     note = cols[6].text_input("", key=f"note_{idx}")
     edited_rows.append([row['מספר חדר'], row['ID'], row['קטגוריה'], row['סוג'], row['משפחה'], checked, note])
 
+# המרת הרשומות לאחר עריכה לדאטהפריים
 main_table_updated = pd.DataFrame(edited_rows, columns=['מספר חדר', 'ID', 'קטגוריה', 'סוג', 'משפחה', 'נבדק', 'הערה'])
+
 st.dataframe(main_table_updated, use_container_width=True, hide_index=True)
 
-# הורדה ל-CSV
 csv_main_table = main_table_updated.to_csv(index=False).encode('utf-8-sig')
 st.download_button(
     label="\U0001F4BE הורד את טבלת הציוד",
@@ -156,54 +137,15 @@ st.download_button(
     mime="text/csv"
 )
 
-# כפתור שמירה ל-GitHub
-st.markdown("---")
-if st.button("\U0001F4E5 שמור את העדכונים ל־GitHub"):
-    def update_file_to_github(file_path, repo, branch, target_path, token):
-        with open(file_path, "rb") as f:
-            content = f.read()
-        content_b64 = base64.b64encode(content).decode()
-
-        url = f"https://api.github.com/repos/{repo}/contents/{target_path}"
-        headers = {
-            "Authorization": f"Bearer {token}",
-            "Accept": "application/vnd.github.v3+json"
-        }
-
-        response = requests.get(url, headers=headers, params={"ref": branch})
-        sha = response.json()['sha'] if response.status_code == 200 else None
-
-        data = {
-            "message": f"Update equipment data for floor {selected_floor}",
-            "branch": branch,
-            "content": content_b64,
-        }
-        if sha:
-            data["sha"] = sha
-
-        response = requests.put(url, headers=headers, json=data)
-        return response.status_code, response.json()
-
-    temp_path = os.path.join(DATA_FOLDER, f"{selected_floor}.csv")
-    main_table_updated.to_csv(temp_path, index=False, encoding='utf-8-sig')
-
-    status, result = update_file_to_github(
-        file_path=temp_path,
-        repo=st.secrets["GITHUB_REPO"],
-        branch=st.secrets["GITHUB_BRANCH"],
-        target_path=f"{selected_floor}.csv",
-        token=st.secrets["GITHUB_TOKEN"]
-    )
-
-    if status in [200, 201]:
-        st.success("✅ הקובץ עודכן בהצלחה ב־GitHub!")
-    else:
-        st.error(f"❌ שגיאה בעדכון: {result}")
-
-# טבלת סיכום לפי קטגוריה וסוג
+# טבלת סיכום – כמה פרטי ציוד מכל סוג יש בחדר או קומה
 summary_table = filtered_data.groupby(['קטגוריה', 'סוג']).size().reset_index(name='כמות')
+
 if not summary_table.empty:
-    title = f"### \U0001F4CA סיכום כמות לפי קטגוריה וסוג – קומה {selected_floor if not selected_rooms else ', '.join(selected_rooms)}"
+    if not selected_rooms:
+        title = f"### \U0001F4CA סיכום כמות לפי קטגוריה וסוג – קומה {selected_floor}:"
+    else:
+        title = f"### \U0001F4CA סיכום כמות לפי קטגוריה וסוג – חדרים: {', '.join(selected_rooms)}"
+
     st.markdown(title)
     st.dataframe(summary_table, use_container_width=True, hide_index=True)
 
@@ -217,6 +159,7 @@ if not summary_table.empty:
 
 # טבלת סיכום לפי חדרים
 summary_by_room = filtered_data.groupby(['מספר חדר', 'קטגוריה', 'סוג']).size().reset_index(name='כמות')
+
 if not summary_by_room.empty:
     st.markdown("### \U0001F4CB סיכום ציוד לפי חדרים:")
     st.dataframe(summary_by_room, use_container_width=True, hide_index=True)
@@ -235,12 +178,8 @@ st.markdown("### 🤖 שאל את GPT על הציוד שבחרת:")
 
 user_question = st.text_input("מה תרצה לדעת?")
 
-def ask_gpt(prompt, context_df, spec_df=None):
+def ask_gpt(prompt, context_df):
     context = context_df.to_string(index=False)
-    spec_context = ""
-    if spec_df is not None and not spec_df.empty:
-        spec_context = "\n\nמפרט תאורה:\n" + spec_df.to_string(index=False)
-
     client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
     try:
         response = client.chat.completions.create(
@@ -249,7 +188,6 @@ def ask_gpt(prompt, context_df, spec_df=None):
                 {"role": "system", "content": "אתה עוזר חכם בתחום ניתוח נתונים טכניים של ציוד לפי חדרים."},
                 {"role": "user", "content": f"""הנתונים:
 {context}
-{spec_context}
 
 שאלה:
 {prompt}"""}
@@ -261,7 +199,7 @@ def ask_gpt(prompt, context_df, spec_df=None):
         return "⚠ OpenAI קיבל יותר מדי בקשות בזמן קצר. נסה שוב בעוד מספר דקות."
 
 if user_question:
-    gpt_answer = ask_gpt(user_question, summary_by_room, spec_df)
+    gpt_answer = ask_gpt(user_question, summary_by_room)
     st.markdown(f"**תשובת GPT:**\n\n{gpt_answer}")
 
 # שלב 5: קריאה לפעולה
