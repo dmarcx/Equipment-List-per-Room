@@ -6,3 +6,5 @@ gTTS
 speechrecognition
 av
 openpyxl
+soundfile
+numpy
