@@ -8,4 +8,4 @@ av
 openpyxl
 soundfile
 numpy
-
+git+https://github.com/openai/whisper.git
