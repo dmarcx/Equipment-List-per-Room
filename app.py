@@ -1,39 +1,35 @@
+
 import streamlit as st
-import openai
-import whisper
-import sounddevice as sd
-import soundfile as sf
-import numpy as np
 import tempfile
-import queue
-import time
+import whisper
+import openai
 import os
+import sounddevice as sd
+import numpy as np
+import scipy.io.wavfile
 
-openai.api_key = st.secrets["OPENAI_API_KEY"]
+st.set_page_config(page_title="🎙️ שיחה קולית עם GPT", layout="centered")
 
-model = whisper.load_model("base")
-q = queue.Queue()
+st.title("🎙️ על ציוד שהוקלט GPT שיחה עם")
+st.markdown("## לחץ כדי להתחיל להקליט")
 
-def audio_callback(indata, frames, time_, status):
-    if status:
-        print(status)
-    q.put(indata.copy())
+openai.api_key = os.environ.get("OPENAI_API_KEY")
 
-def record_audio(duration=5, samplerate=16000):
-    with sd.InputStream(callback=audio_callback, channels=1, samplerate=samplerate):
-        st.info("🎤 דבר בבקשה...")
-        audio_data = np.empty((0, 1), dtype=np.float32)
-        start_time = time.time()
-        while time.time() - start_time < duration:
-            audio_data = np.append(audio_data, q.get(), axis=0)
-        return audio_data.flatten(), samplerate
+def record_audio(duration=5, fs=44100):
+    st.info("⏺️ מקליט עכשיו...")
+    audio = sd.rec(int(duration * fs), samplerate=fs, channels=1)
+    sd.wait()
+    return fs, audio
 
-def transcribe_audio(audio_np, samplerate):
+def save_wav_file(fs, audio):
     with tempfile.NamedTemporaryFile(delete=False, suffix=".wav") as f:
-        sf.write(f.name, audio_np, samplerate)
-        result = model.transcribe(f.name, language="he")
-        os.remove(f.name)
-        return result["text"]
+        scipy.io.wavfile.write(f.name, fs, audio)
+        return f.name
+
+def transcribe_audio(file_path):
+    model = whisper.load_model("base")
+    result = model.transcribe(file_path)
+    return result["text"]
 
 def ask_gpt(prompt):
     response = openai.ChatCompletion.create(
@@ -42,20 +38,16 @@ def ask_gpt(prompt):
     )
     return response.choices[0].message.content.strip()
 
-# UI
-st.title("🗣️ שיחה קולית חיה עם GPT")
-
-if "chat_history" not in st.session_state:
-    st.session_state.chat_history = []
+if "conversation" not in st.session_state:
+    st.session_state.conversation = []
 
 if st.button("🎤 התחל הקלטה"):
-    audio, sr = record_audio(duration=6)
-    user_text = transcribe_audio(audio, sr)
+    fs, audio = record_audio(duration=7)
+    wav_file = save_wav_file(fs, audio)
+    user_text = transcribe_audio(wav_file)
+    st.session_state.conversation.append(("👤 אתה", user_text))
     gpt_reply = ask_gpt(user_text)
+    st.session_state.conversation.append(("🤖 GPT", gpt_reply))
 
-    st.session_state.chat_history.append(("👤", user_text))
-    st.session_state.chat_history.append(("🤖", gpt_reply))
-
-# הצגת שיחה
-for speaker, msg in st.session_state.chat_history:
-    st.markdown(f"**{speaker}**: {msg}")
+for speaker, text in reversed(st.session_state.conversation):
+    st.markdown(f"**{speaker}:** {text}")
