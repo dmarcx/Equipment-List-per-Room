@@ -1,80 +1,64 @@
 import streamlit as st
-from streamlit_webrtc import webrtc_streamer, AudioProcessorBase, ClientSettings
+from streamlit_webrtc import webrtc_streamer, WebRtcMode, ClientSettings
 import whisper
-import openai
-import numpy as np
 import av
-import os
+import numpy as np
 import tempfile
-import soundfile as sf
+import os
 
-st.set_page_config(page_title="🎙️ שיחה קולית עם GPT", layout="centered")
-
-# מפתח ה־API של OpenAI
-openai.api_key = os.environ.get("OPENAI_API_KEY")
-
-# טעינת מודל Whisper
+# טען את מודל whisper פעם אחת
 @st.cache_resource
-def load_whisper_model():
+def load_model():
     return whisper.load_model("base")
 
-model = load_whisper_model()
+model = load_model()
 
-# הצגת כותרת
-st.title("🎤 שיחה קולית עם GPT")
-st.info("דבר אל המיקרופון – הקלטה תנותח ותישלח ל־GPT.")
-
-# שמירת היסטוריית שיחה
-if "chat_history" not in st.session_state:
-    st.session_state.chat_history = []
-
-# עיבוד קול
-class AudioProcessor(AudioProcessorBase):
-    def __init__(self) -> None:
-        self.recorded_data = []
+# הגדרת עיבוד האודיו
+class AudioProcessor:
+    def __init__(self):
+        self.frames = []
 
     def recv(self, frame: av.AudioFrame) -> av.AudioFrame:
         audio = frame.to_ndarray()
-        self.recorded_data.append(audio)
+        self.frames.append(audio)
         return frame
 
-# ממשק הקלטה
-ctx = webrtc_streamer(
-    key="speech-to-text",
-    mode="SENDRECV",
-    client_settings=ClientSettings(media_stream_constraints={"audio": True, "video": False}),
+    def get_audio_data(self):
+        if not self.frames:
+            return None
+        audio_data = np.concatenate(self.frames, axis=1)[0]
+        return audio_data
+
+    def reset(self):
+        self.frames = []
+
+# ממשק למשתמש
+st.title("🎙️ דיבור חי ל-Text עם Whisper")
+
+webrtc_ctx = webrtc_streamer(
+    key="live-audio",
+    mode=WebRtcMode.SENDONLY,
+    in_audio=True,
+    client_settings=ClientSettings(
+        media_stream_constraints={"audio": True, "video": False},
+        rtc_configuration={"iceServers": [{"urls": ["stun:stun.l.google.com:19302"]}]}
+    ),
     audio_processor_factory=AudioProcessor,
-    async_processing=True,
 )
 
-# כפתור להפעלת הניתוח הקולי
-if ctx.audio_processor and st.button("🔍 שלח ל-GPT"):
-    with st.spinner("⏳ ממיר קול לטקסט..."):
-        audio_data = np.concatenate(ctx.audio_processor.recorded_data, axis=0).flatten()
-        temp_audio_path = tempfile.mktemp(suffix=".wav")
-        sf.write(temp_audio_path, audio_data, 16000)
+if st.button("🔄 סיים וזיהוי טקסט"):
+    if webrtc_ctx.audio_processor:
+        audio_data = webrtc_ctx.audio_processor.get_audio_data()
+        webrtc_ctx.audio_processor.reset()
 
-        transcription = model.transcribe(temp_audio_path)["text"]
-        st.success(f"🗣️ אתה אמרת: {transcription}")
-        st.session_state.chat_history.append(("👤", transcription))
+        if audio_data is not None:
+            with tempfile.NamedTemporaryFile(suffix=".wav", delete=False) as f:
+                import soundfile as sf
+                sf.write(f.name, audio_data, 48000)
+                st.success("הקלטה נשמרה")
 
-    with st.spinner("🤖 GPT חושב..."):
-        response = openai.ChatCompletion.create(
-            model="gpt-4",
-            messages=[
-                {"role": "system", "content": "אתה עוזר חכם לבדיקת ציוד."},
-                *[
-                    {"role": "user" if role == "👤" else "assistant", "content": msg}
-                    for role, msg in st.session_state.chat_history
-                ],
-            ]
-        )
-        gpt_reply = response.choices[0].message.content.strip()
-        st.session_state.chat_history.append(("🤖", gpt_reply))
-        st.markdown(f"**GPT:** {gpt_reply}")
-
-# הצגת היסטוריה
-st.divider()
-st.markdown("## 🧾 שיחה עד כה:")
-for role, msg in reversed(st.session_state.chat_history):
-    st.markdown(f"**{role}**: {msg}")
+                result = model.transcribe(f.name, language='he')
+                st.text_area("🎧 טקסט מזוהה", result["text"])
+                os.unlink(f.name)
+        else:
+            st.warning("לא זוהתה הקלטה.")
