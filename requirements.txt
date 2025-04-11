@@ -1,13 +1,2 @@
-streamlit==1.31.1
-streamlit-webrtc==0.45.0
-pandas
+streamlit
 openai
-gTTS
-speechrecognition
-av
-openpyxl
-soundfile
-numpy
-torch
-ffmpeg-python
-git+https://github.com/openai/whisper.git

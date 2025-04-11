@@ -1,41 +1,28 @@
 import streamlit as st
-import whisper
+import openai
 import tempfile
 import os
 
-# טוען את המודל ישירות בלי cache
-def load_model():
-    try:
-        model = whisper.load_model("base")
-        st.success("Whisper model loaded successfully.")
-        return model
-    except Exception as e:
-        st.error(f"Failed to load Whisper model: {e}")
-        return None
+# הכנס את המפתח שלך בקובץ הסודות (נראה בשלב הבא)
+openai.api_key = st.secrets["OPENAI_API_KEY"]
 
-model = load_model()
+st.title("🎤 תמלול אודיו עם Whisper API")
 
-# ממשק המשתמש
-st.title("🎤 Speech to Text with Whisper")
-
-# העלאת קובץ אודיו
 audio_file = st.file_uploader("העלה קובץ קול (mp3, wav וכו')", type=["mp3", "wav", "m4a"])
 
-if audio_file and model:
-    # שומר זמנית את הקובץ
+if audio_file:
     with tempfile.NamedTemporaryFile(delete=False, suffix=".mp3") as tmp:
         tmp.write(audio_file.read())
         tmp_path = tmp.name
 
     st.audio(audio_file, format='audio/mp3')
+    st.write("⏳ מתמלל עם Whisper API...")
 
-    # התחלת תמלול
-    st.write("⏳ מתמלל...")
-    result = model.transcribe(tmp_path)
+    with open(tmp_path, "rb") as f:
+        transcript = openai.Audio.transcribe("whisper-1", f)
+
     st.success("✔️ תמלול הושלם!")
-
     st.subheader("📄 תוצאה:")
-    st.text(result["text"])
+    st.text(transcript["text"])
 
-    # מחיקת הקובץ הזמני
     os.remove(tmp_path)
