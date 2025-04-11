@@ -1,64 +1,41 @@
 import streamlit as st
-from streamlit_webrtc import webrtc_streamer, WebRtcMode, ClientSettings
 import whisper
-import av
-import numpy as np
 import tempfile
 import os
 
-# טען את מודל whisper פעם אחת
-@st.cache_resource
+# טוען את המודל ישירות בלי cache
 def load_model():
-    return whisper.load_model("base")
+    try:
+        model = whisper.load_model("base")
+        st.success("Whisper model loaded successfully.")
+        return model
+    except Exception as e:
+        st.error(f"Failed to load Whisper model: {e}")
+        return None
 
 model = load_model()
 
-# הגדרת עיבוד האודיו
-class AudioProcessor:
-    def __init__(self):
-        self.frames = []
+# ממשק המשתמש
+st.title("🎤 Speech to Text with Whisper")
 
-    def recv(self, frame: av.AudioFrame) -> av.AudioFrame:
-        audio = frame.to_ndarray()
-        self.frames.append(audio)
-        return frame
+# העלאת קובץ אודיו
+audio_file = st.file_uploader("העלה קובץ קול (mp3, wav וכו')", type=["mp3", "wav", "m4a"])
 
-    def get_audio_data(self):
-        if not self.frames:
-            return None
-        audio_data = np.concatenate(self.frames, axis=1)[0]
-        return audio_data
+if audio_file and model:
+    # שומר זמנית את הקובץ
+    with tempfile.NamedTemporaryFile(delete=False, suffix=".mp3") as tmp:
+        tmp.write(audio_file.read())
+        tmp_path = tmp.name
 
-    def reset(self):
-        self.frames = []
+    st.audio(audio_file, format='audio/mp3')
 
-# ממשק למשתמש
-st.title("🎙️ דיבור חי ל-Text עם Whisper")
+    # התחלת תמלול
+    st.write("⏳ מתמלל...")
+    result = model.transcribe(tmp_path)
+    st.success("✔️ תמלול הושלם!")
 
-webrtc_ctx = webrtc_streamer(
-    key="live-audio",
-    mode=WebRtcMode.SENDONLY,
-    in_audio=True,
-    client_settings=ClientSettings(
-        media_stream_constraints={"audio": True, "video": False},
-        rtc_configuration={"iceServers": [{"urls": ["stun:stun.l.google.com:19302"]}]}
-    ),
-    audio_processor_factory=AudioProcessor,
-)
+    st.subheader("📄 תוצאה:")
+    st.text(result["text"])
 
-if st.button("🔄 סיים וזיהוי טקסט"):
-    if webrtc_ctx.audio_processor:
-        audio_data = webrtc_ctx.audio_processor.get_audio_data()
-        webrtc_ctx.audio_processor.reset()
-
-        if audio_data is not None:
-            with tempfile.NamedTemporaryFile(suffix=".wav", delete=False) as f:
-                import soundfile as sf
-                sf.write(f.name, audio_data, 48000)
-                st.success("הקלטה נשמרה")
-
-                result = model.transcribe(f.name, language='he')
-                st.text_area("🎧 טקסט מזוהה", result["text"])
-                os.unlink(f.name)
-        else:
-            st.warning("לא זוהתה הקלטה.")
+    # מחיקת הקובץ הזמני
+    os.remove(tmp_path)
