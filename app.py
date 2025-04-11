@@ -1,28 +1,48 @@
 import streamlit as st
-import openai
+import whisper
 import tempfile
 import os
 
-# הכנס את המפתח שלך בקובץ הסודות (נראה בשלב הבא)
-openai.api_key = st.secrets["OPENAI_API_KEY"]
+# טוען את מפתח ה-API מהסביבה
+api_key = os.getenv("OPENAI_API_KEY")
+if not api_key:
+    st.error("❌ לא נמצא מפתח API של OpenAI (המשתנה OPENAI_API_KEY לא הוגדר).")
+else:
+    st.success("🔑 מפתח OpenAI נטען בהצלחה.")
 
-st.title("🎤 תמלול אודיו עם Whisper API")
+# טוען את המודל
+def load_model():
+    try:
+        model = whisper.load_model("base")
+        st.success("Whisper model loaded successfully.")
+        return model
+    except Exception as e:
+        st.error(f"Failed to load Whisper model: {e}")
+        return None
 
+model = load_model()
+
+# ממשק המשתמש
+st.title("🎤 Speech to Text with Whisper")
+
+# העלאת קובץ אודיו
 audio_file = st.file_uploader("העלה קובץ קול (mp3, wav וכו')", type=["mp3", "wav", "m4a"])
 
-if audio_file:
+if audio_file and model:
+    # שומר זמנית את הקובץ
     with tempfile.NamedTemporaryFile(delete=False, suffix=".mp3") as tmp:
         tmp.write(audio_file.read())
         tmp_path = tmp.name
 
     st.audio(audio_file, format='audio/mp3')
-    st.write("⏳ מתמלל עם Whisper API...")
 
-    with open(tmp_path, "rb") as f:
-        transcript = openai.Audio.transcribe("whisper-1", f)
-
+    # התחלת תמלול
+    st.write("⏳ מתמלל...")
+    result = model.transcribe(tmp_path)
     st.success("✔️ תמלול הושלם!")
-    st.subheader("📄 תוצאה:")
-    st.text(transcript["text"])
 
+    st.subheader("📄 תוצאה:")
+    st.text(result["text"])
+
+    # מחיקת הקובץ הזמני
     os.remove(tmp_path)
